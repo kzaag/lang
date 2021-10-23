@@ -122,7 +122,7 @@ func run() error {
 
 	fmt.Printf("%d langs after join\n", len(joined))
 
-	return writeToJson("joined.json", joined)
+	return writeToJson("data/joined.json", joined)
 }
 
 func main() {
