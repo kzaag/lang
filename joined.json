@@ -1,0 +1,1312 @@
+[
+  {
+    "Endonym": "français",
+    "Eng": "French",
+    "Ger": "Französisch",
+    "Fr": "français",
+    "Pl": "francuski",
+    "ISO_639_1": "fr",
+    "ISO_639_2": "fre (B)",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Lingála",
+    "Eng": "Lingala",
+    "Ger": "Lingala",
+    "Fr": "lingala",
+    "Pl": "lingala",
+    "ISO_639_1": "ln",
+    "ISO_639_2": "lin",
+    "Family": "Niger–Congo"
+  },
+  {
+    "Endonym": "(Hausa) هَوُسَ",
+    "Eng": "Hausa",
+    "Ger": "Haussa-Sprache",
+    "Fr": "haoussa",
+    "Pl": "hausa",
+    "ISO_639_1": "ha",
+    "ISO_639_2": "hau",
+    "Family": "Afro-Asiatic"
+  },
+  {
+    "Endonym": "עברית",
+    "Eng": "Hebrew",
+    "Ger": "Hebräisch",
+    "Fr": "hébreu",
+    "Pl": "hebrajski",
+    "ISO_639_1": "he",
+    "ISO_639_2": "heb",
+    "Family": "Afro-Asiatic"
+  },
+  {
+    "Endonym": "कॉशुर",
+    "Eng": "Kashmiri",
+    "Ger": "Kaschmiri",
+    "Fr": "kashmiri",
+    "Pl": "kaszmirski",
+    "ISO_639_1": "ks",
+    "ISO_639_2": "kas",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "پښتو",
+    "Eng": "Pushto; Pashto",
+    "Ger": "Paschtu",
+    "Fr": "pachto",
+    "Pl": "paszto",
+    "ISO_639_1": "ps",
+    "ISO_639_2": "pus",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Ikirundi",
+    "Eng": "Rundi",
+    "Ger": "Rundi-Sprache",
+    "Fr": "rundi",
+    "Pl": "rundi",
+    "ISO_639_1": "rn",
+    "ISO_639_2": "run",
+    "Family": "Niger–Congo"
+  },
+  {
+    "Endonym": "latine, lingua latina",
+    "Eng": "Latin",
+    "Ger": "Latein",
+    "Fr": "latin",
+    "Pl": "łaciński",
+    "ISO_639_1": "la",
+    "ISO_639_2": "lat",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Volapük",
+    "Eng": "Volapük",
+    "Ger": "Volapük",
+    "Fr": "volapük",
+    "Pl": "volapuk",
+    "ISO_639_1": "vo",
+    "ISO_639_2": "vol",
+    "Family": "Constructed"
+  },
+  {
+    "Endonym": "ייִדיש",
+    "Eng": "Yiddish",
+    "Ger": "Jiddisch",
+    "Fr": "yiddish",
+    "Pl": "jidysz",
+    "ISO_639_1": "yi",
+    "ISO_639_2": "yid",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "తెలుగు",
+    "Eng": "Telugu",
+    "Ger": "Telugu-Sprache",
+    "Fr": "télougou",
+    "Pl": "telugu",
+    "ISO_639_1": "te",
+    "ISO_639_2": "tel",
+    "Family": "Dravidian"
+  },
+  {
+    "Endonym": "български език",
+    "Eng": "Bulgarian",
+    "Ger": "Bulgarisch",
+    "Fr": "bulgare",
+    "Pl": "bułgarski",
+    "ISO_639_1": "bg",
+    "ISO_639_2": "bul",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "gagana fa'a Samoa",
+    "Eng": "Samoan",
+    "Ger": "Samoanisch",
+    "Fr": "samoan",
+    "Pl": "samoański",
+    "ISO_639_1": "sm",
+    "ISO_639_2": "smo",
+    "Family": "Austronesian"
+  },
+  {
+    "Endonym": "Dorerin Naoero",
+    "Eng": "Nauru",
+    "Ger": "Nauruanisch",
+    "Fr": "nauruan",
+    "Pl": "nauru",
+    "ISO_639_1": "na",
+    "ISO_639_2": "nau",
+    "Family": "Austronesian"
+  },
+  {
+    "Endonym": "ဗမာစာ",
+    "Eng": "Burmese",
+    "Ger": "Birmanisch",
+    "Fr": "birman",
+    "Pl": "birmański",
+    "ISO_639_1": "my",
+    "ISO_639_2": "bur (B)",
+    "Family": "Sino-Tibetan"
+  },
+  {
+    "Endonym": "རྫོང་ཁ",
+    "Eng": "Dzongkha",
+    "Ger": "Dzongkha",
+    "Fr": "dzongkha",
+    "Pl": "dzongkha",
+    "ISO_639_1": "dz",
+    "ISO_639_2": "dzo",
+    "Family": "Sino-Tibetan"
+  },
+  {
+    "Endonym": "Kiswahili",
+    "Eng": "Swahili",
+    "Ger": "Swahili",
+    "Fr": "swahili",
+    "Pl": "suahili",
+    "ISO_639_1": "sw",
+    "ISO_639_2": "swa",
+    "Family": "Niger–Congo"
+  },
+  {
+    "Endonym": "lietuvių kalba",
+    "Eng": "Lithuanian",
+    "Ger": "Litauisch",
+    "Fr": "lituanien",
+    "Pl": "litewski",
+    "ISO_639_1": "lt",
+    "ISO_639_2": "lit",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Shqip",
+    "Eng": "Albanian",
+    "Ger": "Albanisch",
+    "Fr": "albanais",
+    "Pl": "albański",
+    "ISO_639_1": "sq",
+    "ISO_639_2": "alb (B)",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "中文",
+    "Eng": "Chinese",
+    "Ger": "Chinesisch",
+    "Fr": "chinois",
+    "Pl": "chiński",
+    "ISO_639_1": "zh",
+    "ISO_639_2": "chi (B)",
+    "Family": "Sino-Tibetan"
+  },
+  {
+    "Endonym": "Rumantsch Grischun",
+    "Eng": "Romansh",
+    "Ger": "Rätoromanisch",
+    "Fr": "romanche",
+    "Pl": "retoromański",
+    "ISO_639_1": "rm",
+    "ISO_639_2": "roh",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "српски језик",
+    "Eng": "Serbian",
+    "Ger": "Serbisch",
+    "Fr": "serbe",
+    "Pl": "serbski",
+    "ISO_639_1": "sr",
+    "ISO_639_2": "srp",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "ગુજરાતી",
+    "Eng": "Gujarati",
+    "Ger": "Gujarati-Sprache",
+    "Fr": "goudjrati",
+    "Pl": "gudźaracki",
+    "ISO_639_1": "gu",
+    "ISO_639_2": "guj",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "occitan, lenga d'òc",
+    "Eng": "Occitan (post 1500)",
+    "Ger": "Okzitanisch",
+    "Fr": "occitan (après 1500)",
+    "Pl": "prowansalski",
+    "ISO_639_1": "oc",
+    "ISO_639_2": "oci",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "euskara, euskera",
+    "Eng": "Basque",
+    "Ger": "Baskisch",
+    "Fr": "basque",
+    "Pl": "baskijski",
+    "ISO_639_1": "eu",
+    "ISO_639_2": "baq (B)",
+    "Family": "Language isolate"
+  },
+  {
+    "Endonym": "Interlingua",
+    "Eng": "Interlingua (International Auxiliary Language Association)",
+    "Ger": "Interlingua",
+    "Fr": "interlingua (langue auxiliaire internationale)",
+    "Pl": "interlingua",
+    "ISO_639_1": "ia",
+    "ISO_639_2": "ina",
+    "Family": "Constructed"
+  },
+  {
+    "Endonym": "සිංහල",
+    "Eng": "Sinhala; Sinhalese",
+    "Ger": "Singhalesisch",
+    "Fr": "singhalais",
+    "Pl": "syngaleski",
+    "ISO_639_1": "si",
+    "ISO_639_2": "sin",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "suomi, suomen kieli",
+    "Eng": "Finnish",
+    "Ger": "Finnisch",
+    "Fr": "finnois",
+    "Pl": "fiński",
+    "ISO_639_1": "fi",
+    "ISO_639_2": "fin",
+    "Family": "Uralic"
+  },
+  {
+    "Endonym": "Runa Simi, Kichwa",
+    "Eng": "Quechua",
+    "Ger": "Quechua-Sprache",
+    "Fr": "quechua",
+    "Pl": "keczua",
+    "ISO_639_1": "qu",
+    "ISO_639_2": "que",
+    "Family": "Quechuan"
+  },
+  {
+    "Endonym": "ελληνικά",
+    "Eng": "Greek, Modern (1453-)",
+    "Ger": "Neugriechisch",
+    "Fr": "grec moderne (après 1453)",
+    "Pl": "grecki",
+    "ISO_639_1": "el",
+    "ISO_639_2": "gre (B)",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Kurdî",
+    "Eng": "Kurdish",
+    "Ger": "Kurdisch",
+    "Fr": "kurde",
+    "Pl": "kurdyjski",
+    "ISO_639_1": "ku",
+    "ISO_639_2": "kur",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Íslenska",
+    "Eng": "Icelandic",
+    "Ger": "Isländisch",
+    "Fr": "islandais",
+    "Pl": "islandzki",
+    "ISO_639_1": "is",
+    "ISO_639_2": "ice (B)",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "magyar",
+    "Eng": "Hungarian",
+    "Ger": "Ungarisch",
+    "Fr": "hongrois",
+    "Pl": "węgierski",
+    "ISO_639_1": "hu",
+    "ISO_639_2": "hun",
+    "Family": "Uralic"
+  },
+  {
+    "Endonym": "Setswana",
+    "Eng": "Tswana",
+    "Ger": "Tswana-Sprache",
+    "Fr": "tswana",
+    "Pl": "setswana",
+    "ISO_639_1": "tn",
+    "ISO_639_2": "tsn",
+    "Family": "Niger–Congo"
+  },
+  {
+    "Endonym": "Yorùbá",
+    "Eng": "Yoruba",
+    "Ger": "Yoruba-Sprache",
+    "Fr": "yoruba",
+    "Pl": "joruba",
+    "ISO_639_1": "yo",
+    "ISO_639_2": "yor",
+    "Family": "Niger–Congo"
+  },
+  {
+    "Endonym": "Հայերեն",
+    "Eng": "Armenian",
+    "Ger": "Armenisch",
+    "Fr": "arménien",
+    "Pl": "ormiański",
+    "ISO_639_1": "hy",
+    "ISO_639_2": "arm (B)",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Oʻzbek",
+    "Eng": "Uzbek",
+    "Ger": "Usbekisch",
+    "Fr": "ouszbek",
+    "Pl": "uzbecki",
+    "ISO_639_1": "uz",
+    "ISO_639_2": "uzb",
+    "Family": "Turkic"
+  },
+  {
+    "Endonym": "Português",
+    "Eng": "Portuguese",
+    "Ger": "Portugiesisch",
+    "Fr": "portugais",
+    "Pl": "portugalski",
+    "ISO_639_1": "pt",
+    "ISO_639_2": "por",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "മലയാളം",
+    "Eng": "Malayalam",
+    "Ger": "Malayalam",
+    "Fr": "malayalam",
+    "Pl": "malajalam",
+    "ISO_639_1": "ml",
+    "ISO_639_2": "mal",
+    "Family": "Dravidian"
+  },
+  {
+    "Endonym": "Türkçe",
+    "Eng": "Turkish",
+    "Ger": "Türkisch",
+    "Fr": "turc",
+    "Pl": "turecki",
+    "ISO_639_1": "tr",
+    "ISO_639_2": "tur",
+    "Family": "Turkic"
+  },
+  {
+    "Endonym": "বাংলা",
+    "Eng": "Bengali",
+    "Ger": "Bengali",
+    "Fr": "bengali",
+    "Pl": "bengalski",
+    "ISO_639_1": "bn",
+    "ISO_639_2": "ben",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "aymar aru",
+    "Eng": "Aymara",
+    "Ger": "Aymará-Sprache",
+    "Fr": "aymara",
+    "Pl": "ajmara",
+    "ISO_639_1": "ay",
+    "ISO_639_2": "aym",
+    "Family": "Aymaran"
+  },
+  {
+    "Endonym": "தமிழ்",
+    "Eng": "Tamil",
+    "Ger": "Tamil",
+    "Fr": "tamoul",
+    "Pl": "tamilski",
+    "ISO_639_1": "ta",
+    "ISO_639_2": "tam",
+    "Family": "Dravidian"
+  },
+  {
+    "Endonym": "Slovenski jezik, Slovenščina",
+    "Eng": "Slovenian",
+    "Ger": "Slowenisch",
+    "Fr": "slovène",
+    "Pl": "słoweński",
+    "ISO_639_1": "sl",
+    "ISO_639_2": "slv",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Afaan Oromoo",
+    "Eng": "Oromo",
+    "Ger": "Galla-Sprache",
+    "Fr": "galla",
+    "Pl": "oromski",
+    "ISO_639_1": "om",
+    "ISO_639_2": "orm",
+    "Family": "Afro-Asiatic"
+  },
+  {
+    "Endonym": "Bislama",
+    "Eng": "Bislama",
+    "Ger": "Beach-la-mar",
+    "Fr": "bichlamar",
+    "Pl": "bislama",
+    "ISO_639_1": "bi",
+    "ISO_639_2": "bis",
+    "Family": "Creole"
+  },
+  {
+    "Endonym": "corsu, lingua corsa",
+    "Eng": "Corsican",
+    "Ger": "Korsisch",
+    "Fr": "corse",
+    "Pl": "korsykański",
+    "ISO_639_1": "co",
+    "ISO_639_2": "cos",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Frysk",
+    "Eng": "Western Frisian",
+    "Ger": "Friesisch",
+    "Fr": "frison occidental",
+    "Pl": "zachodniofryzyjski",
+    "ISO_639_1": "fy",
+    "ISO_639_2": "fry",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Xitsonga",
+    "Eng": "Tsonga",
+    "Ger": "Tsonga-Sprache",
+    "Fr": "tsonga",
+    "Pl": "tsonga",
+    "ISO_639_1": "ts",
+    "ISO_639_2": "tso",
+    "Family": "Niger–Congo"
+  },
+  {
+    "Endonym": "አማርኛ",
+    "Eng": "Amharic",
+    "Ger": "Amharisch",
+    "Fr": "amharique",
+    "Pl": "amharski",
+    "ISO_639_1": "am",
+    "ISO_639_2": "amh",
+    "Family": "Afro-Asiatic"
+  },
+  {
+    "Endonym": "Română, Moldovenească",
+    "Eng": "Romanian; Moldavian; Moldovan",
+    "Ger": "Rumänisch",
+    "Fr": "roumain; moldave",
+    "Pl": "rumuński",
+    "ISO_639_1": "ro",
+    "ISO_639_2": "rum (B)",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "język polski, polszczyzna",
+    "Eng": "Polish",
+    "Ger": "Polnisch",
+    "Fr": "polonais",
+    "Pl": "polski",
+    "ISO_639_1": "pl",
+    "ISO_639_2": "pol",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Türkmençe, Türkmen dili",
+    "Eng": "Turkmen",
+    "Ger": "Turkmenisch",
+    "Fr": "turkmène",
+    "Pl": "turkmeński",
+    "ISO_639_1": "tk",
+    "ISO_639_2": "tuk",
+    "Family": "Turkic"
+  },
+  {
+    "Endonym": "башҡорт теле",
+    "Eng": "Bashkir",
+    "Ger": "Baschkirisch",
+    "Fr": "bachkir",
+    "Pl": "baszkirski",
+    "ISO_639_1": "ba",
+    "ISO_639_2": "bak",
+    "Family": "Turkic"
+  },
+  {
+    "Endonym": "Nederlands, Vlaams",
+    "Eng": "Dutch; Flemish",
+    "Ger": "Niederländisch",
+    "Fr": "néerlandais; flamand",
+    "Pl": "niderlandzki",
+    "ISO_639_1": "nl",
+    "ISO_639_2": "dut (B)",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "ਪੰਜਾਬੀ",
+    "Eng": "Panjabi; Punjabi",
+    "Ger": "Pandschabi-Sprache",
+    "Fr": "pendjabi",
+    "Pl": "pendżabski",
+    "ISO_639_1": "pa",
+    "ISO_639_2": "pan",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Slovenčina, Slovenský jazyk",
+    "Eng": "Slovak",
+    "Ger": "Slowakisch",
+    "Fr": "slovaque",
+    "Pl": "słowacki",
+    "ISO_639_1": "sk",
+    "ISO_639_2": "slo (B)",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "kalaallisut, kalaallit oqaasii",
+    "Eng": "Kalaallisut; Greenlandic",
+    "Ger": "Grönländisch",
+    "Fr": "groenlandais",
+    "Pl": "grenlandzki",
+    "ISO_639_1": "kl",
+    "ISO_639_2": "kal",
+    "Family": "Eskimo–Aleut"
+  },
+  {
+    "Endonym": "Soomaaliga, af Soomaali",
+    "Eng": "Somali",
+    "Ger": "Somali",
+    "Fr": "somali",
+    "Pl": "somalijski",
+    "ISO_639_1": "so",
+    "ISO_639_2": "som",
+    "Family": "Afro-Asiatic"
+  },
+  {
+    "Endonym": "मराठी",
+    "Eng": "Marathi",
+    "Ger": "Marathi",
+    "Fr": "marathe",
+    "Pl": "marathi",
+    "ISO_639_1": "mr",
+    "ISO_639_2": "mar",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Basa Sunda",
+    "Eng": "Sundanese",
+    "Ger": "Sundanesisch",
+    "Fr": "soundanais",
+    "Pl": "sundajski",
+    "ISO_639_1": "su",
+    "ISO_639_2": "sun",
+    "Family": "Austronesian"
+  },
+  {
+    "Endonym": "føroyskt",
+    "Eng": "Faroese",
+    "Ger": "Färöisch",
+    "Fr": "féroïen",
+    "Pl": "farerski",
+    "ISO_639_1": "fo",
+    "ISO_639_2": "fao",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "isiXhosa",
+    "Eng": "Xhosa",
+    "Ger": "Xhosa-Sprache",
+    "Fr": "xhosa",
+    "Pl": "khosa",
+    "ISO_639_1": "xh",
+    "ISO_639_2": "xho",
+    "Family": "Niger–Congo"
+  },
+  {
+    "Endonym": "ქართული",
+    "Eng": "Georgian",
+    "Ger": "Georgisch",
+    "Fr": "géorgien",
+    "Pl": "gruziński",
+    "ISO_639_1": "ka",
+    "ISO_639_2": "geo (B)",
+    "Family": "Kartvelian"
+  },
+  {
+    "Endonym": "ಕನ್ನಡ",
+    "Eng": "Kannada",
+    "Ger": "Kannada",
+    "Fr": "kannada",
+    "Pl": "kannada",
+    "ISO_639_1": "kn",
+    "ISO_639_2": "kan",
+    "Family": "Dravidian"
+  },
+  {
+    "Endonym": "ພາສາລາວ",
+    "Eng": "Lao",
+    "Ger": "Laotisch",
+    "Fr": "lao",
+    "Pl": "laotański",
+    "ISO_639_1": "lo",
+    "ISO_639_2": "lao",
+    "Family": "Tai–Kadai"
+  },
+  {
+    "Endonym": "fiteny malagasy",
+    "Eng": "Malagasy",
+    "Ger": "Malagassi-Sprache",
+    "Fr": "malgache",
+    "Pl": "malgaski",
+    "ISO_639_1": "mg",
+    "ISO_639_2": "mlg",
+    "Family": "Austronesian"
+  },
+  {
+    "Endonym": "Gaeilge",
+    "Eng": "Irish",
+    "Ger": "Irisch",
+    "Fr": "irlandais",
+    "Pl": "irlandzki",
+    "ISO_639_1": "ga",
+    "ISO_639_2": "gle",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "हिन्दी, हिंदी",
+    "Eng": "Hindi",
+    "Ger": "Hindi",
+    "Fr": "hindi",
+    "Pl": "hindi",
+    "ISO_639_1": "hi",
+    "ISO_639_2": "hin",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "नेपाली",
+    "Eng": "Nepali",
+    "Ger": "Nepali",
+    "Fr": "népalais",
+    "Pl": "nepalski",
+    "ISO_639_1": "ne",
+    "ISO_639_2": "nep",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Кыргызча, Кыргыз тили",
+    "Eng": "Kirghiz; Kyrgyz",
+    "Ger": "Kirgisisch",
+    "Fr": "kirghiz",
+    "Pl": "kirgiski",
+    "ISO_639_1": "ky",
+    "ISO_639_2": "kir",
+    "Family": "Turkic"
+  },
+  {
+    "Endonym": "Galego",
+    "Eng": "Galician",
+    "Ger": "Galicisch",
+    "Fr": "galicien",
+    "Pl": "galicyjski",
+    "ISO_639_1": "gl",
+    "ISO_639_2": "glg",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Gàidhlig",
+    "Eng": "Gaelic; Scottish Gaelic",
+    "Ger": "Gälisch-Schottisch",
+    "Fr": "gaélique; gaélique écossais",
+    "Pl": "szkocki gaelicki",
+    "ISO_639_1": "gd",
+    "ISO_639_2": "gla",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "latviešu valoda",
+    "Eng": "Latvian",
+    "Ger": "Lettisch",
+    "Fr": "letton",
+    "Pl": "łotewski",
+    "ISO_639_1": "lv",
+    "ISO_639_2": "lav",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Avañe'ẽ",
+    "Eng": "Guarani",
+    "Ger": "Guaraní-Sprache",
+    "Fr": "guarani",
+    "Pl": "guarani",
+    "ISO_639_1": "gn",
+    "ISO_639_2": "grn",
+    "Family": "Tupian"
+  },
+  {
+    "Endonym": "ไทย",
+    "Eng": "Thai",
+    "Ger": "Thailändisch",
+    "Fr": "thaï",
+    "Pl": "tajski",
+    "ISO_639_1": "th",
+    "ISO_639_2": "tha",
+    "Family": "Tai–Kadai"
+  },
+  {
+    "Endonym": "ትግርኛ",
+    "Eng": "Tigrinya",
+    "Ger": "Tigrinja-Sprache",
+    "Fr": "tigrigna",
+    "Pl": "tigrinia",
+    "ISO_639_1": "ti",
+    "ISO_639_2": "tir",
+    "Family": "Afro-Asiatic"
+  },
+  {
+    "Endonym": "isiZulu",
+    "Eng": "Zulu",
+    "Ger": "Zulu-Sprache",
+    "Fr": "zoulou",
+    "Pl": "zulu",
+    "ISO_639_1": "zu",
+    "ISO_639_2": "zul",
+    "Family": "Niger–Congo"
+  },
+  {
+    "Endonym": "Faka Tonga",
+    "Eng": "Tonga (Tonga Islands)",
+    "Ger": "Tongaisch",
+    "Fr": "tongan (Îles Tonga)",
+    "Pl": "tonga",
+    "ISO_639_1": "to",
+    "ISO_639_2": "ton",
+    "Family": "Austronesian"
+  },
+  {
+    "Endonym": "Twi",
+    "Eng": "Twi",
+    "Ger": "Twi-Sprache",
+    "Fr": "twi",
+    "Pl": "twi",
+    "ISO_639_1": "tw",
+    "ISO_639_2": "twi",
+    "Family": "Niger–Congo"
+  },
+  {
+    "Endonym": "català, valencià",
+    "Eng": "Catalan; Valencian",
+    "Ger": "Katalanisch",
+    "Fr": "catalan; valencien",
+    "Pl": "kataloński",
+    "ISO_639_1": "ca",
+    "ISO_639_2": "cat",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Esperanto",
+    "Eng": "Esperanto",
+    "Ger": "Esperanto",
+    "Fr": "espéranto",
+    "Pl": "esperanto",
+    "ISO_639_1": "eo",
+    "ISO_639_2": "epo",
+    "Family": "Constructed"
+  },
+  {
+    "Endonym": "Wikang Tagalog",
+    "Eng": "Tagalog",
+    "Ger": "Tagalog",
+    "Fr": "tagalog",
+    "Pl": "tagalski",
+    "ISO_639_1": "tl",
+    "ISO_639_2": "tgl",
+    "Family": "Austronesian"
+  },
+  {
+    "Endonym": "Afaraf",
+    "Eng": "Afar",
+    "Ger": "Danakil-Sprache",
+    "Fr": "afar",
+    "Pl": "afar",
+    "ISO_639_1": "aa",
+    "ISO_639_2": "aar",
+    "Family": "Afro-Asiatic"
+  },
+  {
+    "Endonym": "te reo Māori",
+    "Eng": "Maori",
+    "Ger": "Maori-Sprache",
+    "Fr": "maori",
+    "Pl": "maoryjski",
+    "ISO_639_1": "mi",
+    "ISO_639_2": "mao (B)",
+    "Family": "Austronesian"
+  },
+  {
+    "Endonym": "English",
+    "Eng": "English",
+    "Ger": "Englisch",
+    "Fr": "anglais",
+    "Pl": "angielski",
+    "ISO_639_1": "en",
+    "ISO_639_2": "eng",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Svenska",
+    "Eng": "Swedish",
+    "Ger": "Schwedisch",
+    "Fr": "suédois",
+    "Pl": "szwedzki",
+    "ISO_639_1": "sv",
+    "ISO_639_2": "swe",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Iñupiaq, Iñupiatun",
+    "Eng": "Inupiaq",
+    "Ger": "Inupik",
+    "Fr": "inupiaq",
+    "Pl": "inupiak",
+    "ISO_639_1": "ik",
+    "ISO_639_2": "ipk",
+    "Family": "Eskimo–Aleut"
+  },
+  {
+    "Endonym": "فارسی",
+    "Eng": "Persian",
+    "Ger": "Persisch",
+    "Fr": "persan",
+    "Pl": "perski",
+    "ISO_639_1": "fa",
+    "ISO_639_2": "per (B)",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "yângâ tî sängö",
+    "Eng": "Sango",
+    "Ger": "Sango-Sprache",
+    "Fr": "sango",
+    "Pl": "sango",
+    "ISO_639_1": "sg",
+    "ISO_639_2": "sag",
+    "Family": "Creole"
+  },
+  {
+    "Endonym": "Bahasa Indonesia",
+    "Eng": "Indonesian",
+    "Ger": "Bahasa Indonesia",
+    "Fr": "indonésien",
+    "Pl": "indonezyjski",
+    "ISO_639_1": "id",
+    "ISO_639_2": "ind",
+    "Family": "Austronesian"
+  },
+  {
+    "Endonym": "Sesotho",
+    "Eng": "Sotho, Southern",
+    "Ger": "Süd-Sotho-Sprache",
+    "Fr": "sotho du Sud",
+    "Pl": "sotho południowy",
+    "ISO_639_1": "st",
+    "ISO_639_2": "sot",
+    "Family": "Niger–Congo"
+  },
+  {
+    "Endonym": "қазақ тілі",
+    "Eng": "Kazakh",
+    "Ger": "Kasachisch",
+    "Fr": "kazakh",
+    "Pl": "kazachski",
+    "ISO_639_1": "kk",
+    "ISO_639_2": "kaz",
+    "Family": "Turkic"
+  },
+  {
+    "Endonym": "བོད་ཡིག",
+    "Eng": "Tibetan",
+    "Ger": "Tibetisch",
+    "Fr": "tibétain",
+    "Pl": "tybetański",
+    "ISO_639_1": "bo",
+    "ISO_639_2": "tib (B)",
+    "Family": "Sino-Tibetan"
+  },
+  {
+    "Endonym": "Malti",
+    "Eng": "Maltese",
+    "Ger": "Maltesisch",
+    "Fr": "maltais",
+    "Pl": "maltański",
+    "ISO_639_1": "mt",
+    "ISO_639_2": "mlt",
+    "Family": "Afro-Asiatic"
+  },
+  {
+    "Endonym": "тоҷикӣ",
+    "Eng": "Tajik",
+    "Ger": "Tadschikisch",
+    "Fr": "tadjik",
+    "Pl": "tadżycki",
+    "ISO_639_1": "tg",
+    "ISO_639_2": "tgk",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "hrvatski jezik",
+    "Eng": "Croatian",
+    "Ger": "Kroatisch",
+    "Fr": "croate",
+    "Pl": "chorwacki",
+    "ISO_639_1": "hr",
+    "ISO_639_2": "hrv",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "беларуская мова",
+    "Eng": "Belarusian",
+    "Ger": "Weißrussisch",
+    "Fr": "biélorusse",
+    "Pl": "białoruski",
+    "ISO_639_1": "be",
+    "ISO_639_2": "bel",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "सिंधी",
+    "Eng": "Sindhi",
+    "Ger": "Sindhi-Sprache",
+    "Fr": "sindhi",
+    "Pl": "sindhi",
+    "ISO_639_1": "sd",
+    "ISO_639_2": "snd",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "অসমীয়া",
+    "Eng": "Assamese",
+    "Ger": "Assamesisch",
+    "Fr": "assamais",
+    "Pl": "asamski",
+    "ISO_639_1": "as",
+    "ISO_639_2": "asm",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "العربية",
+    "Eng": "Arabic",
+    "Ger": "Arabisch",
+    "Fr": "arabe",
+    "Pl": "arabski",
+    "ISO_639_1": "ar",
+    "ISO_639_2": "ara",
+    "Family": "Afro-Asiatic"
+  },
+  {
+    "Endonym": "eesti, eesti keel",
+    "Eng": "Estonian",
+    "Ger": "Estnisch",
+    "Fr": "estonien",
+    "Pl": "estoński",
+    "ISO_639_1": "et",
+    "ISO_639_2": "est",
+    "Family": "Uralic"
+  },
+  {
+    "Endonym": "аҧсуа бызшәа, аҧсшәа",
+    "Eng": "Abkhazian",
+    "Ger": "Abchasisch",
+    "Fr": "abkhaze",
+    "Pl": "abchaski",
+    "ISO_639_1": "ab",
+    "ISO_639_2": "abk",
+    "Family": "Northwest Caucasian"
+  },
+  {
+    "Endonym": "Монгол хэл",
+    "Eng": "Mongolian",
+    "Ger": "Mongolisch",
+    "Fr": "mongol",
+    "Pl": "mongolski",
+    "ISO_639_1": "mn",
+    "ISO_639_2": "mon",
+    "Family": "Mongolic"
+  },
+  {
+    "Endonym": "Wollof",
+    "Eng": "Wolof",
+    "Ger": "Wolof-Sprache",
+    "Fr": "wolof",
+    "Pl": "wolof",
+    "ISO_639_1": "wo",
+    "ISO_639_2": "wol",
+    "Family": "Niger–Congo"
+  },
+  {
+    "Endonym": "brezhoneg",
+    "Eng": "Breton",
+    "Ger": "Bretonisch",
+    "Fr": "breton",
+    "Pl": "bretoński",
+    "ISO_639_1": "br",
+    "ISO_639_2": "bre",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Bahasa Melayu",
+    "Eng": "Malay",
+    "Ger": "Malaiisch",
+    "Fr": "malais",
+    "Pl": "malajski",
+    "ISO_639_1": "ms",
+    "ISO_639_2": "may (B)",
+    "Family": "Austronesian"
+  },
+  {
+    "Endonym": "azərbaycan dili, تۆرکجه",
+    "Eng": "Azerbaijani",
+    "Ger": "Aserbeidschanisch",
+    "Fr": "azéri",
+    "Pl": "azerski",
+    "ISO_639_1": "az",
+    "ISO_639_2": "aze",
+    "Family": "Turkic"
+  },
+  {
+    "Endonym": "Tiếng Việt",
+    "Eng": "Vietnamese",
+    "Ger": "Vietnamesisch",
+    "Fr": "vietnamien",
+    "Pl": "wietnamski",
+    "ISO_639_1": "vi",
+    "ISO_639_2": "vie",
+    "Family": "Austroasiatic"
+  },
+  {
+    "Endonym": "(originally:) ",
+    "Eng": "Interlingue; Occidental",
+    "Ger": "Interlingue",
+    "Fr": "interlingue",
+    "Pl": "interlingue",
+    "ISO_639_1": "ie",
+    "ISO_639_2": "ile",
+    "Family": "Constructed"
+  },
+  {
+    "Endonym": "اردو",
+    "Eng": "Urdu",
+    "Ger": "Urdu",
+    "Fr": "ourdou",
+    "Pl": "urdu",
+    "ISO_639_1": "ur",
+    "ISO_639_2": "urd",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "한국어",
+    "Eng": "Korean",
+    "Ger": "Koreanisch",
+    "Fr": "coréen",
+    "Pl": "koreański",
+    "ISO_639_1": "ko",
+    "ISO_639_2": "kor",
+    "Family": "Koreanic"
+  },
+  {
+    "Endonym": "Ikinyarwanda",
+    "Eng": "Kinyarwanda",
+    "Ger": "Rwanda-Sprache",
+    "Fr": "rwanda",
+    "Pl": "kinya-ruanda",
+    "ISO_639_1": "rw",
+    "ISO_639_2": "kin",
+    "Family": "Niger–Congo"
+  },
+  {
+    "Endonym": "Cymraeg",
+    "Eng": "Welsh",
+    "Ger": "Kymrisch",
+    "Fr": "gallois",
+    "Pl": "walijski",
+    "ISO_639_1": "cy",
+    "ISO_639_2": "wel (B)",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ",
+    "Eng": "Central Khmer",
+    "Ger": "Kambodschanisch",
+    "Fr": "khmer central",
+    "Pl": "khmerski",
+    "ISO_639_1": "km",
+    "ISO_639_2": "khm",
+    "Family": "Austroasiatic"
+  },
+  {
+    "Endonym": "македонски јазик",
+    "Eng": "Macedonian",
+    "Ger": "Makedonisch",
+    "Fr": "macédonien",
+    "Pl": "macedoński",
+    "ISO_639_1": "mk",
+    "ISO_639_2": "mac (B)",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "русский",
+    "Eng": "Russian",
+    "Ger": "Russisch",
+    "Fr": "russe",
+    "Pl": "rosyjski",
+    "ISO_639_1": "ru",
+    "ISO_639_2": "rus",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "татар теле",
+    "Eng": "Tatar",
+    "Ger": "Tatarisch",
+    "Fr": "tatar",
+    "Pl": "tatarski",
+    "ISO_639_1": "tt",
+    "ISO_639_2": "tat",
+    "Family": "Turkic"
+  },
+  {
+    "Endonym": "Deutsch",
+    "Eng": "German",
+    "Ger": "Deutsch",
+    "Fr": "allemand",
+    "Pl": "niemiecki",
+    "ISO_639_1": "de",
+    "ISO_639_2": "ger (B)",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Italiano",
+    "Eng": "Italian",
+    "Ger": "Italienisch",
+    "Fr": "italien",
+    "Pl": "włoski",
+    "ISO_639_1": "it",
+    "ISO_639_2": "ita",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "संस्कृतम्",
+    "Eng": "Sanskrit",
+    "Ger": "Sanskrit",
+    "Fr": "sanskrit",
+    "Pl": "sanskryt",
+    "ISO_639_1": "sa",
+    "ISO_639_2": "san",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "chiShona",
+    "Eng": "Shona",
+    "Ger": "Schona-Sprache",
+    "Fr": "shona",
+    "Pl": "szona",
+    "ISO_639_1": "sn",
+    "ISO_639_2": "sna",
+    "Family": "Niger–Congo"
+  },
+  {
+    "Endonym": "Українська",
+    "Eng": "Ukrainian",
+    "Ger": "Ukrainisch",
+    "Fr": "ukrainien",
+    "Pl": "ukraiński",
+    "ISO_639_1": "uk",
+    "ISO_639_2": "ukr",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Norsk",
+    "Eng": "Norwegian",
+    "Ger": "Norwegisch",
+    "Fr": "norvégien",
+    "Pl": "norweski",
+    "ISO_639_1": "no",
+    "ISO_639_2": "nor",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "vosa Vakaviti",
+    "Eng": "Fijian",
+    "Ger": "Fidschi-Sprache",
+    "Fr": "fidjien",
+    "Pl": "fidżijski",
+    "ISO_639_1": "fj",
+    "ISO_639_2": "fij",
+    "Family": "Austronesian"
+  },
+  {
+    "Endonym": "SiSwati",
+    "Eng": "Swati",
+    "Ger": "Swasi-Sprache",
+    "Fr": "swati",
+    "Pl": "siswati",
+    "ISO_639_1": "ss",
+    "ISO_639_2": "ssw",
+    "Family": "Niger–Congo"
+  },
+  {
+    "Endonym": "ଓଡ଼ିଆ",
+    "Eng": "Oriya",
+    "Ger": "Oriya-Sprache",
+    "Fr": "oriya",
+    "Pl": "orija",
+    "ISO_639_1": "or",
+    "ISO_639_2": "ori",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "dansk",
+    "Eng": "Danish",
+    "Ger": "Dänisch",
+    "Fr": "danois",
+    "Pl": "duński",
+    "ISO_639_1": "da",
+    "ISO_639_2": "dan",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "Español",
+    "Eng": "Spanish; Castilian",
+    "Ger": "Spanisch",
+    "Fr": "espagnol; castillan",
+    "Pl": "hiszpański",
+    "ISO_639_1": "es",
+    "ISO_639_2": "spa",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "čeština, český jazyk",
+    "Eng": "Czech",
+    "Ger": "Tschechisch",
+    "Fr": "tchèque",
+    "Pl": "czeski",
+    "ISO_639_1": "cs",
+    "ISO_639_2": "cze (B)",
+    "Family": "Indo-European"
+  },
+  {
+    "Endonym": "日本語",
+    "Eng": "Japanese",
+    "Ger": "Japanisch",
+    "Fr": "japonais",
+    "Pl": "japoński",
+    "ISO_639_1": "ja",
+    "ISO_639_2": "jpn",
+    "Family": "Japonic"
+  }
+]

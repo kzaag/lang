@@ -1,0 +1,3 @@
+list of languages
+compiled list path: data/joined.json
+go run *.go to regenerate
