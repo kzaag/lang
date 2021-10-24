@@ -8,6 +8,7 @@ import (
 	"io"
 	"io/ioutil"
 	"log"
+	"strings"
 )
 
 func getPolLang() (LM, error) {
@@ -98,26 +99,26 @@ func run() error {
 		if gl, f := govLM[l]; !f {
 			continue
 		} else {
-			rl.Eng = gl.Eng
-			rl.ISO_639_2 = gl.ISO_639_2
-			rl.Fr = gl.Fr
-			rl.Ger = gl.Ger
+			rl.Eng = strings.ToLower(gl.Eng)
+			rl.ISO_639_2 = strings.ToLower(gl.ISO_639_2)
+			rl.Fr = strings.ToLower(gl.Fr)
+			rl.Ger = strings.ToLower(gl.Ger)
 		}
 
 		if wl, f := wikiLM[l]; !f {
 			continue
 		} else {
-			rl.Family = wl.Family
-			rl.Endonym = wl.Endonym
+			rl.Family = strings.ToLower(wl.Family)
+			rl.Endonym = strings.ToLower(wl.Endonym)
 		}
 
 		if pl, f := plLM[l]; !f {
 			continue
 		} else {
-			rl.Pl = pl.Pl
+			rl.Pl = strings.ToLower(pl.Pl)
 		}
 
-		joined[rl.ISO_639_1] = rl
+		joined[strings.ToLower(rl.ISO_639_1)] = rl
 	}
 
 	fmt.Printf("%d langs after join\n", len(joined))
