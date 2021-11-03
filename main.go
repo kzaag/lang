@@ -1,46 +1,12 @@
 package main
 
 import (
-	"bytes"
-	"encoding/csv"
 	"encoding/json"
 	"fmt"
-	"io"
 	"io/ioutil"
 	"log"
 	"strings"
 )
-
-func getPolLang() (LM, error) {
-	path := "data/polish_lang.csv"
-	fc, err := ioutil.ReadFile(path)
-	if err != nil {
-		return nil, err
-	}
-	r := csv.NewReader(bytes.NewReader(fc))
-	r.Comma = rune(',')
-	r.Comment = rune('#')
-	var ret = make(LM)
-	var rec []string
-	rec, err = r.Read()
-	for err == nil {
-		code := rec[0]
-		pl := rec[1]
-
-		ret[code] = Lang{
-			Pl: pl,
-		}
-
-		rec, err = r.Read()
-	}
-
-	if err == io.EOF {
-		err = nil
-	}
-
-	fmt.Printf("Got %d langs from %s\n", len(ret), path)
-	return ret, err
-}
 
 func getLangFromJsonLM() (LM, error) {
 	path := "data/iso639-1_loc.json"
@@ -61,7 +27,7 @@ func getLangFromJsonLM() (LM, error) {
 		}
 		ret[l] = Lang{
 			ISO_639_1: l,
-			Eng:       p.Data[l],
+			En:        p.Data[l],
 		}
 	}
 	fmt.Printf("Got %d langs from %s\n", len(ret), path)
@@ -85,7 +51,7 @@ func run() error {
 		return err
 	}
 
-	plLM, err := getPolLang()
+	translations, err := newTranslations(wikiLM)
 	if err != nil {
 		return err
 	}
@@ -99,10 +65,10 @@ func run() error {
 		if gl, f := govLM[l]; !f {
 			continue
 		} else {
-			rl.Eng = strings.ToLower(gl.Eng)
+			rl.En = strings.ToLower(gl.En)
 			rl.ISO_639_2 = strings.ToLower(gl.ISO_639_2)
 			rl.Fr = strings.ToLower(gl.Fr)
-			rl.Ger = strings.ToLower(gl.Ger)
+			rl.De = strings.ToLower(gl.De)
 		}
 
 		if wl, f := wikiLM[l]; !f {
@@ -112,11 +78,11 @@ func run() error {
 			rl.Endonym = strings.ToLower(wl.Endonym)
 		}
 
-		if pl, f := plLM[l]; !f {
+		if translations[l] == nil {
 			continue
-		} else {
-			rl.Pl = strings.ToLower(pl.Pl)
 		}
+
+		rl.Translations = translations[l]
 
 		joined[strings.ToLower(rl.ISO_639_1)] = rl
 	}

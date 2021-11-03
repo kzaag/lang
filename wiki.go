@@ -28,7 +28,7 @@ func parseWikiTr(c *html.Node, l *Lang) bool {
 	if c = skipSibling(c); c == nil || c.FirstChild.Data != "a" {
 		return false
 	}
-	l.Eng = c.FirstChild.FirstChild.Data
+	l.En = c.FirstChild.FirstChild.Data
 
 	if c = skipSibling(c); c == nil {
 		return false

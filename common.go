@@ -16,16 +16,17 @@ import (
 
 type Lang struct {
 	Endonym string
+	// you can also find en de and fr in Translations map
+	// however translations presented here are taken from different
+	// - more reliable source and thus should be prioritized
+	En string
+	De string
+	Fr string
 	//
-	Eng string
-	Ger string
-	Fr  string
-	Pl  string
-	//
-	ISO_639_1 string
-	ISO_639_2 string
-	//
-	Family string
+	ISO_639_1    string
+	ISO_639_2    string
+	Family       string
+	Translations map[string]string
 }
 
 // ISO 639-1 is the key

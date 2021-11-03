@@ -35,7 +35,7 @@ func parseGovTr(c *html.Node, l *Lang) bool {
 	}
 
 	// 3rd cell
-	l.Eng = strings.TrimSpace(c.FirstChild.Data)
+	l.En = strings.TrimSpace(c.FirstChild.Data)
 
 	if c = skipSibling(c); c == nil {
 		return false
@@ -49,7 +49,7 @@ func parseGovTr(c *html.Node, l *Lang) bool {
 	}
 
 	// 5th cell
-	l.Ger = strings.TrimSpace(c.FirstChild.Data)
+	l.De = strings.TrimSpace(c.FirstChild.Data)
 
 	return true
 }
