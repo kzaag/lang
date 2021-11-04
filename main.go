@@ -1,11 +1,9 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
 	"log"
 	"os"
-	"strings"
 
 	"github.com/kzaag/gnuflag"
 )
@@ -31,28 +29,11 @@ func main() {
 			if err := genLangs(); err != nil {
 				log.Fatal(err)
 			}
-		case "f":
-			t, err := NewGoogleTranslateToken()
-			if err != nil {
-				log.Fatal(err)
-			}
-			t.AccessToken = strings.TrimRight(t.AccessToken, ".")
-			var tres TranslateResponse
-			if err := GoogleTranslate(t, &TranslateRequest{
-				Q:      []string{"dzień dobry", "do widzenia"},
-				Source: "pl",
-				Target: "en",
-				Format: "text",
-			}, &tres); err != nil {
-				log.Fatal(err)
-			}
-			s, _ := json.MarshalIndent(tres, "", "  ")
-			fmt.Println(string(s))
 		default:
 			printUsage()
 		}
 		return true
-	}, "s", "l", "f")
+	}, "s", "l")
 
 	if !gotFlag {
 		printUsage()

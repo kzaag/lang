@@ -31,22 +31,28 @@ func setCategory(c *html.Node, category *string) bool {
 	return false
 }
 
-type Sport struct {
+type SportDiscipline struct {
 	Name string
 	Href string
 }
 
-type categoryMap map[string][]Sport
+type TranslatedSportDiscipline struct {
+	SportDiscipline
+	Category     string
+	Translations map[string]string
+}
+
+type CategoryMap map[string][]SportDiscipline
 
 var wc int64
 var tagCount int64
 
-func (cm categoryMap) Add(category, discipline, href string) {
+func (cm CategoryMap) Add(category, discipline, href string) {
 	x := cm[category]
 	if x == nil {
-		x = make([]Sport, 0, 10)
+		x = make([]SportDiscipline, 0, 10)
 	}
-	x = append(x, Sport{
+	x = append(x, SportDiscipline{
 		Name: discipline,
 		Href: href,
 	})
@@ -55,7 +61,7 @@ func (cm categoryMap) Add(category, discipline, href string) {
 	tagCount++
 }
 
-func setSports(c *html.Node, category string, cm categoryMap) bool {
+func setSports(c *html.Node, category string, cm CategoryMap) bool {
 	if category == "" {
 		return false
 	}
@@ -90,6 +96,113 @@ func setSports(c *html.Node, category string, cm categoryMap) bool {
 	return true
 }
 
+func persistSportDisciplines(path string, sm []TranslatedSportDiscipline) error {
+	b, err := json.MarshalIndent(sm, "", "  ")
+	if err != nil {
+		return err
+	}
+
+	return ioutil.WriteFile(path, b, 0600)
+}
+
+func translateCategories(cm CategoryMap) ([]TranslatedSportDiscipline, error) {
+
+	// read langs
+	fc, err := ioutil.ReadFile("data/joined.json")
+	if err != nil {
+		return nil, err
+	}
+
+	var langs []struct {
+		ISO_639_1 string
+	}
+
+	if err := json.Unmarshal(fc, &langs); err != nil {
+		return nil, err
+	}
+
+	l := 0
+	for c := range cm {
+		l += len(cm[c])
+	}
+
+	res := make([]TranslatedSportDiscipline, l)
+
+	enDisciplines := make([]string, l)
+	var i int
+	for category := range cm {
+		disciplines := cm[category]
+		for j := range disciplines {
+			enDisciplines[i] = disciplines[j].Name
+			res[i].Category = category
+			res[i].SportDiscipline = disciplines[j]
+			res[i].Translations = make(map[string]string)
+			i++
+		}
+	}
+
+	if i != l {
+		panic("invalid category count")
+	}
+
+	token, err := NewGoogleTranslateToken()
+	if err != nil {
+		return nil, err
+	}
+	var tres TranslateResponse
+	token.AccessToken = strings.TrimRight(token.AccessToken, ".")
+	const batchSize = 100
+
+	for i := range langs {
+		dstLang := langs[i].ISO_639_1
+		if dstLang != "pl" {
+			continue
+		}
+
+		offset := 0
+
+		for {
+			if offset == -1 {
+				break
+			}
+			left := offset
+			right := offset + batchSize
+
+			// last batch
+			if right >= len(enDisciplines) {
+				right = len(enDisciplines)
+				offset = -1
+			} else {
+				offset += batchSize
+			}
+
+			if right == left {
+				break
+			}
+			batch := enDisciplines[left:right]
+
+			if err := GoogleTranslate(token, &TranslateRequest{
+				Q:      batch,
+				Source: "en",
+				Target: dstLang,
+				Format: "text",
+			}, &tres); err != nil {
+				fmt.Printf("Couldnt translate to %s, reason: %v\n", dstLang, err)
+				break
+			}
+			if len(tres.Data.Translations) != len(batch) {
+				fmt.Printf("Couldnt translate to %s, reason: invalid translation length\n", dstLang)
+				break
+			}
+			for z := range tres.Data.Translations {
+				res[left+z].Translations[dstLang] = tres.Data.Translations[z].TranslatedText
+			}
+		}
+	}
+
+	return res, nil
+}
+
 func genSports() error {
 	url := "https://en.wikipedia.org/wiki/List_of_sports"
 	doc, err := getHtmlFromRemote("cache/List_of_sports.html", url)
@@ -97,13 +210,13 @@ func genSports() error {
 		return err
 	}
 
-	type cfn func(n *html.Node, cm categoryMap, category string)
+	type cfn func(n *html.Node, cm CategoryMap, category string)
 
-	cm := make(categoryMap)
+	sportCategories := make(CategoryMap)
 
 	var x cfn
 
-	x = func(n *html.Node, cm categoryMap, category string) {
+	x = func(n *html.Node, cm CategoryMap, category string) {
 		for c := n.FirstChild; c != nil; c = c.NextSibling {
 			if setCategory(c, &category) {
 				// if category was set then dont descend
@@ -114,14 +227,14 @@ func genSports() error {
 		}
 	}
 
-	x(doc, cm, "")
+	x(doc, sportCategories, "")
 
-	b, err := json.MarshalIndent(cm, "", "  ")
+	fmt.Printf("got %d sport categories\n", tagCount)
+
+	ts, err := translateCategories(sportCategories)
 	if err != nil {
 		return err
 	}
 
-	fmt.Printf("got %d sport categories\n", tagCount)
-
-	return ioutil.WriteFile("data/sports.json", b, 0600)
+	return persistSportDisciplines("data/sports.json", ts)
 }
