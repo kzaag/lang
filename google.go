@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bytes"
 	"crypto"
 	"crypto/rand"
 	"crypto/rsa"
@@ -45,12 +46,12 @@ type GoogleCred struct {
 
 type GoogleToken struct {
 	AccessToken string `json:"access_token"`
-	Scope       string `json:"scope"`
-	TokenType   string `json:"token_type"`
-	ExpiresIn   int    `json:"expires_in"`
+	//Scope       string `json:"scope"`
+	TokenType string `json:"token_type"`
+	ExpiresIn int    `json:"expires_in"`
 }
 
-func NewGoogleTranslateJwt() (*GoogleToken, error) {
+func NewGoogleTranslateToken() (*GoogleToken, error) {
 	fc, err := ioutil.ReadFile("google_cred.json")
 	if err != nil {
 		return nil, err
@@ -141,4 +142,69 @@ func NewGoogleTranslateJwt() (*GoogleToken, error) {
 	}
 
 	return googleToken, nil
+}
+
+func GenericGoogleTranslateRequest(url string, req, res interface{}, token *GoogleToken) error {
+
+	jsonReq, err := json.Marshal(req)
+	if err != nil {
+		return err
+	}
+
+	httpReq, err := http.NewRequest(
+		"POST", url,
+		bytes.NewReader(jsonReq))
+	if err != nil {
+		return err
+	}
+
+	httpReq.Header.Set("Content-Type", "application/json; charset=utf-8")
+	httpReq.Header.Set("Authorization", "Bearer "+token.AccessToken)
+
+	httpRes, err := http.DefaultClient.Do(httpReq)
+	if err != nil {
+		return err
+	}
+
+	defer httpRes.Body.Close()
+
+	jres, err := ioutil.ReadAll(httpRes.Body)
+	if err != nil {
+		return err
+	}
+
+	if httpRes.StatusCode != 200 {
+		return fmt.Errorf("%s\n%s", httpRes.Status, string(jres))
+	}
+
+	if err := json.Unmarshal(jres, res); err != nil {
+		return err
+	}
+
+	return nil
+}
+
+type TranslateResponse struct {
+	Data struct {
+		Translations []struct {
+			TranslatedText string `json:"translatedText"`
+		} `json:"translations"`
+	} `json:"data"`
+}
+
+type TranslateRequest struct {
+	Q      []string `json:"q"`
+	Source string   `json:"source"`
+	Target string   `json:"target"`
+	Format string   `json:"format"`
+}
+
+/*
+	res must not be nil. (function will write response into res)
+*/
+func GoogleTranslate(token *GoogleToken, req *TranslateRequest, res *TranslateResponse) error {
+	return GenericGoogleTranslateRequest(
+		"https://translation.googleapis.com/language/translate/v2",
+		req, res, token,
+	)
 }

@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"strings"
 
 	"github.com/kzaag/gnuflag"
 )
@@ -31,11 +32,21 @@ func main() {
 				log.Fatal(err)
 			}
 		case "f":
-			t, err := NewGoogleTranslateJwt()
+			t, err := NewGoogleTranslateToken()
 			if err != nil {
 				log.Fatal(err)
 			}
-			s, _ := json.MarshalIndent(t, "", "  ")
+			t.AccessToken = strings.TrimRight(t.AccessToken, ".")
+			var tres TranslateResponse
+			if err := GoogleTranslate(t, &TranslateRequest{
+				Q:      []string{"dzień dobry", "do widzenia"},
+				Source: "pl",
+				Target: "en",
+				Format: "text",
+			}, &tres); err != nil {
+				log.Fatal(err)
+			}
+			s, _ := json.MarshalIndent(tres, "", "  ")
 			fmt.Println(string(s))
 		default:
 			printUsage()
