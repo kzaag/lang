@@ -1,0 +1,7270 @@
+{
+  "Acrobatic sports": [
+    {
+      "Name": "Breakdancing",
+      "Href": "/wiki/Breakdancing"
+    },
+    {
+      "Name": "Cheerleading",
+      "Href": "/wiki/Cheerleading"
+    },
+    {
+      "Name": "Competitive dancing",
+      "Href": "/wiki/Competitive_dancing"
+    },
+    {
+      "Name": "Dancesport",
+      "Href": "/wiki/Dancesport"
+    },
+    {
+      "Name": "Dragon dance",
+      "Href": "/wiki/Dragon_dance"
+    },
+    {
+      "Name": "Freerunning",
+      "Href": "/wiki/Freerunning"
+    },
+    {
+      "Name": "Gymnastics",
+      "Href": "/wiki/Gymnastics"
+    },
+    {
+      "Name": "High kick",
+      "Href": "/wiki/High_kick"
+    },
+    {
+      "Name": "Parkour",
+      "Href": "/wiki/Parkour"
+    },
+    {
+      "Name": "Pole sports",
+      "Href": "/wiki/Pole_sports"
+    },
+    {
+      "Name": "Stunt",
+      "Href": "/wiki/Stunt_(sport)"
+    },
+    {
+      "Name": "Trampolining",
+      "Href": "/wiki/Trampolining"
+    }
+  ],
+  "Air sports": [
+    {
+      "Name": "Aerobatics",
+      "Href": "/wiki/Competition_aerobatics"
+    },
+    {
+      "Name": "Air racing",
+      "Href": "/wiki/Air_racing"
+    },
+    {
+      "Name": "Cluster ballooning",
+      "Href": "/wiki/Cluster_ballooning"
+    },
+    {
+      "Name": "Hopper ballooning",
+      "Href": "/wiki/Hopper_balloon"
+    },
+    {
+      "Name": "Gliding",
+      "Href": "/wiki/Gliding"
+    },
+    {
+      "Name": "Hang gliding",
+      "Href": "/wiki/Hang_gliding"
+    },
+    {
+      "Name": "Powered hang glider",
+      "Href": "/wiki/Powered_hang_glider"
+    },
+    {
+      "Name": "Human powered aircraft",
+      "Href": "/wiki/Human_powered_aircraft"
+    },
+    {
+      "Name": "Model aircraft",
+      "Href": "/wiki/Model_aircraft"
+    },
+    {
+      "Name": "Parachuting",
+      "Href": "/wiki/Parachuting"
+    },
+    {
+      "Name": "Banzai skydiving",
+      "Href": "/wiki/Banzai_skydiving"
+    },
+    {
+      "Name": "BASE jumping",
+      "Href": "/wiki/BASE_jumping"
+    },
+    {
+      "Name": "Skysurfing",
+      "Href": "/wiki/Skysurfing"
+    },
+    {
+      "Name": "Wingsuit flying",
+      "Href": "/wiki/Wingsuit_flying"
+    },
+    {
+      "Name": "Paragliding",
+      "Href": "/wiki/Paragliding"
+    },
+    {
+      "Name": "Powered paragliding",
+      "Href": "/wiki/Powered_paragliding"
+    },
+    {
+      "Name": "Paramotoring",
+      "Href": "/wiki/Paramotoring"
+    },
+    {
+      "Name": "Ultralight aviation",
+      "Href": "/wiki/Ultralight_aviation"
+    },
+    {
+      "Name": "Banzai skydiving",
+      "Href": "/wiki/Banzai_skydiving"
+    },
+    {
+      "Name": "Bungee jumping",
+      "Href": "/wiki/Bungee_jumping"
+    },
+    {
+      "Name": "Hot air ballooning",
+      "Href": "/wiki/Hot_air_ballooning"
+    },
+    {
+      "Name": "Athletics",
+      "Href": "/wiki/Sport_of_athletics"
+    },
+    {
+      "Name": "Track and field",
+      "Href": "/wiki/Track_and_field"
+    },
+    {
+      "Name": "Steeplechase",
+      "Href": "/wiki/Steeplechase_(athletics)"
+    },
+    {
+      "Name": "Cross country",
+      "Href": "/wiki/Cross_country_running"
+    },
+    {
+      "Name": "Jumping",
+      "Href": "/wiki/Jumping"
+    },
+    {
+      "Name": "Triple jump",
+      "Href": "/wiki/Triple_jump"
+    },
+    {
+      "Name": "Long jump",
+      "Href": "/wiki/Long_jump"
+    },
+    {
+      "Name": "High jump",
+      "Href": "/wiki/High_jump"
+    },
+    {
+      "Name": "Pole vault",
+      "Href": "/wiki/Pole_vault"
+    },
+    {
+      "Name": "Throwing",
+      "Href": ""
+    },
+    {
+      "Name": "Discus",
+      "Href": "/wiki/Discus_throw"
+    },
+    {
+      "Name": "Hammer throw",
+      "Href": "/wiki/Hammer_throw"
+    },
+    {
+      "Name": "Javelin",
+      "Href": "/wiki/Javelin_throw"
+    },
+    {
+      "Name": "Shot put",
+      "Href": "/wiki/Shot_put"
+    },
+    {
+      "Name": "Racewalking",
+      "Href": "/wiki/Racewalking"
+    }
+  ],
+  "Archery": [
+    {
+      "Name": "Field archery",
+      "Href": "/wiki/Field_archery"
+    },
+    {
+      "Name": "Flight archery",
+      "Href": "/wiki/Flight_archery"
+    },
+    {
+      "Name": "Gungdo",
+      "Href": "/wiki/Gungdo"
+    },
+    {
+      "Name": "Indoor archery",
+      "Href": "/wiki/Indoor_archery"
+    },
+    {
+      "Name": "Kyūdō",
+      "Href": "/wiki/Ky%C5%ABd%C5%8D"
+    },
+    {
+      "Name": "Mounted archery",
+      "Href": "/wiki/Mounted_archery"
+    },
+    {
+      "Name": "Popinjay",
+      "Href": "/wiki/Popinjay_(sport)"
+    },
+    {
+      "Name": "Run archery",
+      "Href": "/wiki/Run_archery"
+    },
+    {
+      "Name": "Target archery",
+      "Href": "/wiki/Target_archery"
+    }
+  ],
+  "Ball-over-net games": [
+    {
+      "Name": "Badminton",
+      "Href": "/wiki/Badminton"
+    },
+    {
+      "Name": "Ball badminton",
+      "Href": "/wiki/Ball_badminton"
+    },
+    {
+      "Name": "Biribol",
+      "Href": "/wiki/Biribol"
+    },
+    {
+      "Name": "Bossaball",
+      "Href": "/wiki/Bossaball"
+    },
+    {
+      "Name": "Fistball",
+      "Href": "/wiki/Fistball"
+    },
+    {
+      "Name": "Footbag net",
+      "Href": "/wiki/Footbag_net"
+    },
+    {
+      "Name": "Football tennis",
+      "Href": "/wiki/Football_tennis"
+    },
+    {
+      "Name": "Footvolley",
+      "Href": "/wiki/Footvolley"
+    },
+    {
+      "Name": "Hooverball",
+      "Href": "/wiki/Hooverball"
+    },
+    {
+      "Name": "Jianzi",
+      "Href": "/wiki/Jianzi"
+    },
+    {
+      "Name": "Jokgu",
+      "Href": "/wiki/Jokgu"
+    },
+    {
+      "Name": "Miniten",
+      "Href": "/wiki/Miniten"
+    },
+    {
+      "Name": "Padel",
+      "Href": "/wiki/Padel_(sport)"
+    },
+    {
+      "Name": "Peteca",
+      "Href": "/wiki/Peteca"
+    },
+    {
+      "Name": "Pickleball",
+      "Href": "/wiki/Pickleball"
+    },
+    {
+      "Name": "Rocball",
+      "Href": "/wiki/Rocball"
+    },
+    {
+      "Name": "Sepak takraw",
+      "Href": "/wiki/Sepak_takraw"
+    },
+    {
+      "Name": "Sipa",
+      "Href": "/wiki/Sipa"
+    },
+    {
+      "Name": "Table squash",
+      "Href": "/wiki/Table_squash"
+    },
+    {
+      "Name": "Table tennis",
+      "Href": "/wiki/Table_tennis"
+    },
+    {
+      "Name": "Tennis",
+      "Href": "/wiki/Tennis"
+    },
+    {
+      "Name": "Beach tennis",
+      "Href": "/wiki/Beach_tennis"
+    },
+    {
+      "Name": "Paddle tennis",
+      "Href": "/wiki/Paddle_tennis"
+    },
+    {
+      "Name": "Platform tennis",
+      "Href": "/wiki/Platform_tennis"
+    },
+    {
+      "Name": "Teqball",
+      "Href": "/wiki/Teqball"
+    },
+    {
+      "Name": "Throwball",
+      "Href": "/wiki/Throwball"
+    },
+    {
+      "Name": "Volleyball",
+      "Href": "/wiki/Volleyball"
+    },
+    {
+      "Name": "Beach volleyball",
+      "Href": "/wiki/Beach_volleyball"
+    },
+    {
+      "Name": "Sitting volleyball",
+      "Href": "/wiki/Sitting_volleyball"
+    },
+    {
+      "Name": "Water volleyball",
+      "Href": "/wiki/Water_volleyball"
+    },
+    {
+      "Name": "Wallyball",
+      "Href": "/wiki/Wallyball"
+    }
+  ],
+  "Basketball family": [
+    {
+      "Name": "Basketball",
+      "Href": "/wiki/Basketball"
+    },
+    {
+      "Name": "3x3 basketball",
+      "Href": "/wiki/3x3_basketball"
+    },
+    {
+      "Name": "Beach basketball",
+      "Href": "/wiki/Beach_basketball"
+    },
+    {
+      "Name": "Deaf basketball",
+      "Href": "/wiki/Deaf_basketball"
+    },
+    {
+      "Name": "Streetball",
+      "Href": "/wiki/Streetball"
+    },
+    {
+      "Name": "Unicycle basketball",
+      "Href": "/wiki/Unicycle#Unicycle_basketball"
+    },
+    {
+      "Name": "Water basketball",
+      "Href": "/wiki/Water_basketball"
+    },
+    {
+      "Name": "Wheelchair basketball",
+      "Href": "/wiki/Wheelchair_basketball"
+    },
+    {
+      "Name": "Cestoball",
+      "Href": "/wiki/Cestoball"
+    },
+    {
+      "Name": "Flickerball",
+      "Href": "/wiki/Flickerball"
+    },
+    {
+      "Name": "Korfball",
+      "Href": "/wiki/Korfball"
+    },
+    {
+      "Name": "Netball",
+      "Href": "/wiki/Netball"
+    },
+    {
+      "Name": "Fastnet",
+      "Href": "/wiki/Fastnet_(netball)"
+    },
+    {
+      "Name": "Indoor netball",
+      "Href": "/wiki/Indoor_netball"
+    },
+    {
+      "Name": "Ringball",
+      "Href": "/wiki/Ringball"
+    },
+    {
+      "Name": "Slamball",
+      "Href": "/wiki/Slamball"
+    }
+  ],
+  "Bat-and-ball": [
+    {
+      "Name": "Baseball",
+      "Href": "/wiki/Baseball"
+    },
+    {
+      "Name": "Baseball5",
+      "Href": "/wiki/Baseball5"
+    },
+    {
+      "Name": "Softball",
+      "Href": "/wiki/Softball"
+    },
+    {
+      "Name": "16-inch softball",
+      "Href": "/wiki/16-inch_softball"
+    },
+    {
+      "Name": "Fast-pitch softball",
+      "Href": "/wiki/Fast-pitch_softball"
+    },
+    {
+      "Name": "Bat and trap",
+      "Href": "/wiki/Bat_and_trap"
+    },
+    {
+      "Name": "British baseball",
+      "Href": "/wiki/British_baseball"
+    },
+    {
+      "Name": "Brännboll",
+      "Href": "/wiki/Br%C3%A4nnboll"
+    },
+    {
+      "Name": "Corkball",
+      "Href": "/wiki/Corkball"
+    },
+    {
+      "Name": "Cricket",
+      "Href": "/wiki/Cricket"
+    },
+    {
+      "Name": "100-ball cricket",
+      "Href": "/wiki/100-ball_cricket"
+    },
+    {
+      "Name": "Backyard, Beach and Street cricket",
+      "Href": "/wiki/Backyard_cricket"
+    },
+    {
+      "Name": "Blind cricket",
+      "Href": "/wiki/Blind_cricket"
+    },
+    {
+      "Name": "Club cricket",
+      "Href": "/wiki/Club_cricket"
+    },
+    {
+      "Name": "Deaf cricket",
+      "Href": "/wiki/Deaf_cricket"
+    },
+    {
+      "Name": "First-class cricket",
+      "Href": "/wiki/First-class_cricket"
+    },
+    {
+      "Name": "French cricket",
+      "Href": "/wiki/French_cricket"
+    },
+    {
+      "Name": "Ice cricket",
+      "Href": "/wiki/Ice_cricket"
+    },
+    {
+      "Name": "Indoor cricket",
+      "Href": "/wiki/Indoor_cricket"
+    },
+    {
+      "Name": "Indoor cricket (UK variant)",
+      "Href": "/wiki/Indoor_cricket_(UK_variant)"
+    },
+    {
+      "Name": "Kilikiti",
+      "Href": "/wiki/Kilikiti"
+    },
+    {
+      "Name": "Kwik cricket",
+      "Href": "/wiki/Kwik_cricket"
+    },
+    {
+      "Name": "Last man stands cricket",
+      "Href": "/wiki/Last_man_stands_cricket"
+    },
+    {
+      "Name": "Limited overs cricket",
+      "Href": "/wiki/Limited_overs_cricket"
+    },
+    {
+      "Name": "List A cricket",
+      "Href": "/wiki/List_A_cricket"
+    },
+    {
+      "Name": "One-armed versus one-legged cricket",
+      "Href": "/wiki/One-armed_versus_one-legged_cricket"
+    },
+    {
+      "Name": "One Day International",
+      "Href": "/wiki/One_Day_International"
+    },
+    {
+      "Name": "Short form cricket",
+      "Href": "/wiki/Short_form_cricket"
+    },
+    {
+      "Name": "Single wicket/Double wicket",
+      "Href": "/wiki/Single_wicket_cricket"
+    },
+    {
+      "Name": "Tape ball cricket",
+      "Href": "/wiki/Tape_ball"
+    },
+    {
+      "Name": "Tennis ball cricket",
+      "Href": "/wiki/Tennis_ball_cricket"
+    },
+    {
+      "Name": "Test cricket",
+      "Href": "/wiki/Test_cricket"
+    },
+    {
+      "Name": "Trobriand cricket",
+      "Href": "/wiki/Trobriand_cricket"
+    },
+    {
+      "Name": "Twenty20",
+      "Href": "/wiki/Twenty20"
+    },
+    {
+      "Name": "Twenty20 International",
+      "Href": "/wiki/Twenty20_International"
+    },
+    {
+      "Name": "T10 cricket",
+      "Href": "/wiki/T10_cricket"
+    },
+    {
+      "Name": "Windball cricket",
+      "Href": "/wiki/Windball_cricket"
+    },
+    {
+      "Name": "Danish longball",
+      "Href": "/wiki/Danish_longball"
+    },
+    {
+      "Name": "Elle",
+      "Href": "/wiki/Elle_(sport)"
+    },
+    {
+      "Name": "Kickball",
+      "Href": "/wiki/Kickball"
+    },
+    {
+      "Name": "Lapta",
+      "Href": "/wiki/Lapta_(game)"
+    },
+    {
+      "Name": "The Massachusetts Game",
+      "Href": "/wiki/The_Massachusetts_Game"
+    },
+    {
+      "Name": "Matball",
+      "Href": "/wiki/Matball"
+    },
+    {
+      "Name": "Oina",
+      "Href": "/wiki/Oina"
+    },
+    {
+      "Name": "Old cat",
+      "Href": "/wiki/Old_cat"
+    },
+    {
+      "Name": "Over-the-line",
+      "Href": "/wiki/Over-the-line"
+    },
+    {
+      "Name": "Palant",
+      "Href": "/wiki/Palant"
+    },
+    {
+      "Name": "Pesäpallo",
+      "Href": "/wiki/Pes%C3%A4pallo"
+    },
+    {
+      "Name": "Punchball",
+      "Href": "/wiki/Punchball"
+    },
+    {
+      "Name": "Rounders",
+      "Href": "/wiki/Rounders"
+    },
+    {
+      "Name": "Scrub baseball",
+      "Href": "/wiki/Scrub_baseball"
+    },
+    {
+      "Name": "Stickball",
+      "Href": "/wiki/Stickball"
+    },
+    {
+      "Name": "Stool ball",
+      "Href": "/wiki/Stool_ball"
+    },
+    {
+      "Name": "Tee-ball",
+      "Href": "/wiki/Tee-ball"
+    },
+    {
+      "Name": "Town ball",
+      "Href": "/wiki/Town_ball"
+    },
+    {
+      "Name": "Vigoro",
+      "Href": "/wiki/Vigoro"
+    },
+    {
+      "Name": "Wireball",
+      "Href": "/wiki/Wireball"
+    },
+    {
+      "Name": "Wiffleball",
+      "Href": "/wiki/Wiffleball"
+    }
+  ],
+  "Board sports": [
+    {
+      "Name": "Skateboarding",
+      "Href": "/wiki/Skateboarding"
+    },
+    {
+      "Name": "Casterboarding",
+      "Href": "/wiki/Casterboarding"
+    },
+    {
+      "Name": "Freeboard (skateboard)",
+      "Href": "/wiki/Freeboard_(skateboard)"
+    },
+    {
+      "Name": "Longboarding",
+      "Href": "/wiki/Longboarding"
+    },
+    {
+      "Name": "Streetboarding",
+      "Href": "/wiki/Streetboarding"
+    },
+    {
+      "Name": "Scootering",
+      "Href": "/wiki/Freestyle_scootering"
+    },
+    {
+      "Name": "Skysurfing",
+      "Href": "/wiki/Skysurfing"
+    },
+    {
+      "Name": "Streetluge",
+      "Href": "/wiki/Streetluge"
+    },
+    {
+      "Name": "Snowboarding",
+      "Href": "/wiki/Snowboarding"
+    },
+    {
+      "Name": "Mountainboarding",
+      "Href": "/wiki/Mountainboarding"
+    },
+    {
+      "Name": "Sandboarding",
+      "Href": "/wiki/Sandboarding"
+    },
+    {
+      "Name": "Snowkiting",
+      "Href": "/wiki/Snowkiting"
+    },
+    {
+      "Name": "Surfing",
+      "Href": "/wiki/Surfing"
+    },
+    {
+      "Name": "Bodyboarding",
+      "Href": "/wiki/Bodyboarding"
+    },
+    {
+      "Name": "Dog surfing",
+      "Href": "/wiki/Dog_surfing"
+    },
+    {
+      "Name": "Riverboarding",
+      "Href": "/wiki/Riverboarding"
+    },
+    {
+      "Name": "Skimboarding",
+      "Href": "/wiki/Skimboarding"
+    },
+    {
+      "Name": "Wakesurfing",
+      "Href": "/wiki/Wakesurfing"
+    },
+    {
+      "Name": "Windsurfing",
+      "Href": "/wiki/Windsurfing"
+    },
+    {
+      "Name": "Wakeboarding",
+      "Href": "/wiki/Wakeboarding"
+    },
+    {
+      "Name": "Kneeboarding",
+      "Href": "/wiki/Kneeboarding"
+    },
+    {
+      "Name": "Paddleboarding",
+      "Href": "/wiki/Paddleboarding"
+    }
+  ],
+  "Card games": [
+    {
+      "Name": "Contract bridge",
+      "Href": "/wiki/Contract_bridge"
+    },
+    {
+      "Name": "Hanafuda",
+      "Href": "/wiki/Hanafuda"
+    },
+    {
+      "Name": "Poker",
+      "Href": "/wiki/Poker"
+    },
+    {
+      "Name": "Classic poker",
+      "Href": "/wiki/Five-card_draw"
+    },
+    {
+      "Name": "Omaha",
+      "Href": "/wiki/Omaha_hold_%27em"
+    },
+    {
+      "Name": "Online poker",
+      "Href": "/wiki/Online_poker"
+    },
+    {
+      "Name": "Texas hold'em",
+      "Href": "/wiki/Texas_hold_%27em"
+    },
+    {
+      "Name": "Skat",
+      "Href": "/wiki/Skat_(card_game)"
+    },
+    {
+      "Name": "Truco",
+      "Href": "/wiki/Truco"
+    },
+    {
+      "Name": "Whist",
+      "Href": "/wiki/Whist"
+    }
+  ],
+  "Catching games": [
+    {
+      "Name": "Dodgeball",
+      "Href": "/wiki/Dodgeball"
+    },
+    {
+      "Name": "Frisbee",
+      "Href": "/wiki/Frisbee"
+    },
+    {
+      "Name": "Gaga",
+      "Href": "/wiki/Gaga"
+    },
+    {
+      "Name": "Keep away",
+      "Href": "/wiki/Keep_away"
+    },
+    {
+      "Name": "Kin-Ball",
+      "Href": "/wiki/Kin-Ball"
+    },
+    {
+      "Name": "Newcomb ball",
+      "Href": "/wiki/Newcomb_ball"
+    },
+    {
+      "Name": "Quidditch",
+      "Href": "/wiki/Muggle_quidditch"
+    },
+    {
+      "Name": "Yukigassen",
+      "Href": "/wiki/Yukigassen"
+    }
+  ],
+  "Climbing": [
+    {
+      "Name": "Abseiling",
+      "Href": "/wiki/Abseiling"
+    },
+    {
+      "Name": "Aid climbing",
+      "Href": "/wiki/Aid_climbing"
+    },
+    {
+      "Name": "Ice climbing",
+      "Href": "/wiki/Ice_climbing"
+    },
+    {
+      "Name": "Mixed climbing",
+      "Href": "/wiki/Mixed_climbing"
+    },
+    {
+      "Name": "Mountaineering",
+      "Href": "/wiki/Mountaineering"
+    },
+    {
+      "Name": "Rock climbing",
+      "Href": "/wiki/Rock_climbing"
+    },
+    {
+      "Name": "Bouldering",
+      "Href": "/wiki/Bouldering"
+    },
+    {
+      "Name": "Deep-water soloing",
+      "Href": "/wiki/Deep-water_soloing"
+    },
+    {
+      "Name": "Sport climbing",
+      "Href": "/wiki/Sport_climbing"
+    },
+    {
+      "Name": "Traditional climbing",
+      "Href": "/wiki/Traditional_climbing"
+    },
+    {
+      "Name": "Speed climbing",
+      "Href": "/wiki/Speed_climbing"
+    },
+    {
+      "Name": "Sawanobori",
+      "Href": "/wiki/Sawanobori"
+    },
+    {
+      "Name": "Other",
+      "Href": ""
+    },
+    {
+      "Name": "Canyoning",
+      "Href": "/wiki/Canyoning"
+    },
+    {
+      "Name": "Coasteering",
+      "Href": "/wiki/Coasteering"
+    },
+    {
+      "Name": "Hiking",
+      "Href": "/wiki/Hiking"
+    },
+    {
+      "Name": "Rope climbing",
+      "Href": "/wiki/Rope_climbing"
+    },
+    {
+      "Name": "Pole climbing",
+      "Href": "/wiki/Pole_climbing"
+    }
+  ],
+  "Combat sports: wrestling and martial arts": [
+    {
+      "Name": "Aiki-jūjutsu",
+      "Href": "/wiki/Dait%C5%8D-ry%C5%AB_Aiki-j%C5%ABjutsu"
+    },
+    {
+      "Name": "Aikido",
+      "Href": "/wiki/Aikido"
+    },
+    {
+      "Name": "Beeni",
+      "Href": "/wiki/Beeni"
+    },
+    {
+      "Name": "Jujutsu",
+      "Href": "/wiki/Jujutsu"
+    },
+    {
+      "Name": "Judo",
+      "Href": "/wiki/Judo"
+    },
+    {
+      "Name": "Brazilian jiu-jitsu",
+      "Href": "/wiki/Brazilian_jiu-jitsu"
+    },
+    {
+      "Name": "Sambo (martial art)",
+      "Href": "/wiki/Sambo_(martial_art)"
+    },
+    {
+      "Name": "Sumo",
+      "Href": "/wiki/Sumo"
+    },
+    {
+      "Name": "Wrestling",
+      "Href": "/wiki/Wrestling"
+    },
+    {
+      "Name": "Amateur wrestling",
+      "Href": "/wiki/Amateur_wrestling"
+    },
+    {
+      "Name": "Greco-Roman wrestling",
+      "Href": "/wiki/Greco-Roman_wrestling"
+    },
+    {
+      "Name": "Freestyle wrestling",
+      "Href": "/wiki/Freestyle_wrestling"
+    },
+    {
+      "Name": "Folk wrestling",
+      "Href": "/wiki/Folk_wrestling"
+    },
+    {
+      "Name": "Boli Khela",
+      "Href": "/wiki/Boli_Khela"
+    },
+    {
+      "Name": "Catch wrestling",
+      "Href": "/wiki/Catch_wrestling"
+    },
+    {
+      "Name": "Collar-and-elbow",
+      "Href": "/wiki/Collar-and-elbow"
+    },
+    {
+      "Name": "Collegiate wrestling",
+      "Href": "/wiki/Collegiate_wrestling"
+    },
+    {
+      "Name": "Cornish wrestling",
+      "Href": "/wiki/Cornish_wrestling"
+    },
+    {
+      "Name": "Devon wrestling",
+      "Href": "/wiki/Devon_wrestling"
+    },
+    {
+      "Name": "Dumog",
+      "Href": "/wiki/Dumog"
+    },
+    {
+      "Name": "Glima",
+      "Href": "/wiki/Glima"
+    },
+    {
+      "Name": "Gouren",
+      "Href": "/wiki/Gouren"
+    },
+    {
+      "Name": "Kurash",
+      "Href": "/wiki/Kurash"
+    },
+    {
+      "Name": "Lancashire wrestling",
+      "Href": "/wiki/Lancashire_wrestling"
+    },
+    {
+      "Name": "Malla-yuddha",
+      "Href": "/wiki/Malla-yuddha"
+    },
+    {
+      "Name": "Mongolian wrestling",
+      "Href": "/wiki/Mongolian_wrestling"
+    },
+    {
+      "Name": "Pehlwani",
+      "Href": "/wiki/Pehlwani"
+    },
+    {
+      "Name": "Professional wrestling",
+      "Href": "/wiki/Professional_wrestling"
+    },
+    {
+      "Name": "Schwingen",
+      "Href": "/wiki/Schwingen"
+    },
+    {
+      "Name": "Shuai jiao",
+      "Href": "/wiki/Shuai_jiao"
+    },
+    {
+      "Name": "Ssireum",
+      "Href": "/wiki/Ssireum"
+    },
+    {
+      "Name": "Varzesh-e Pahlavani",
+      "Href": "/wiki/Varzesh-e_Pahlavani"
+    },
+    {
+      "Name": "Yağlı Güreş",
+      "Href": "/wiki/Ya%C4%9Fl%C4%B1_G%C3%BCre%C5%9F"
+    },
+    {
+      "Name": "Greek wrestling",
+      "Href": "/wiki/Greek_wrestling"
+    },
+    {
+      "Name": "Bajiquan",
+      "Href": "/wiki/Bajiquan"
+    },
+    {
+      "Name": "Bokator",
+      "Href": "/wiki/Bokator"
+    },
+    {
+      "Name": "Boxing",
+      "Href": "/wiki/Boxing"
+    },
+    {
+      "Name": "Capoeira",
+      "Href": "/wiki/Capoeira"
+    },
+    {
+      "Name": "Chess boxing",
+      "Href": "/wiki/Chess_boxing"
+    },
+    {
+      "Name": "Choi Kwang-Do",
+      "Href": "/wiki/Choi_Kwang-Do"
+    },
+    {
+      "Name": "Fujian White Crane",
+      "Href": "/wiki/Fujian_White_Crane"
+    },
+    {
+      "Name": "Karate",
+      "Href": "/wiki/Karate"
+    },
+    {
+      "Name": "Kenpō",
+      "Href": "/wiki/Kenp%C5%8D"
+    },
+    {
+      "Name": "Kickboxing",
+      "Href": "/wiki/Kickboxing"
+    },
+    {
+      "Name": "Lethwei",
+      "Href": "/wiki/Lethwei"
+    },
+    {
+      "Name": "Muay Thai",
+      "Href": "/wiki/Muay_Thai"
+    },
+    {
+      "Name": "Pradal serey",
+      "Href": "/wiki/Pradal_serey"
+    },
+    {
+      "Name": "Sanshou",
+      "Href": "/wiki/Sanshou"
+    },
+    {
+      "Name": "Savate",
+      "Href": "/wiki/Savate"
+    },
+    {
+      "Name": "Shaolin Kung Fu",
+      "Href": "/wiki/Shaolin_Kung_Fu"
+    },
+    {
+      "Name": "Shin-kicking",
+      "Href": "/wiki/Shin-kicking"
+    },
+    {
+      "Name": "Sikaran",
+      "Href": "/wiki/Sikaran"
+    },
+    {
+      "Name": "Silat",
+      "Href": "/wiki/Silat"
+    },
+    {
+      "Name": "Subak",
+      "Href": "/wiki/Subak"
+    },
+    {
+      "Name": "Taekkyeon",
+      "Href": "/wiki/Taekkyeon"
+    },
+    {
+      "Name": "Taekwondo",
+      "Href": "/wiki/Taekwondo"
+    },
+    {
+      "Name": "Taidō",
+      "Href": "/wiki/Taid%C5%8D"
+    },
+    {
+      "Name": "Tang Soo Do",
+      "Href": "/wiki/Tang_Soo_Do"
+    },
+    {
+      "Name": "Vovinam",
+      "Href": "/wiki/Vovinam"
+    },
+    {
+      "Name": "Wing Chun",
+      "Href": "/wiki/Wing_Chun"
+    },
+    {
+      "Name": "American Kenpo",
+      "Href": "/wiki/American_Kenpo"
+    },
+    {
+      "Name": "Baguazhang",
+      "Href": "/wiki/Baguazhang"
+    },
+    {
+      "Name": "Bando",
+      "Href": "/wiki/Bando"
+    },
+    {
+      "Name": "Bartitsu",
+      "Href": "/wiki/Bartitsu"
+    },
+    {
+      "Name": "Bujinkan",
+      "Href": "/wiki/Bujinkan"
+    },
+    {
+      "Name": "Hapkido",
+      "Href": "/wiki/Hapkido"
+    },
+    {
+      "Name": "Chun Kuk Do",
+      "Href": "/wiki/Chun_Kuk_Do"
+    },
+    {
+      "Name": "Hwa Rang Do",
+      "Href": "/wiki/Hwa_Rang_Do"
+    },
+    {
+      "Name": "Jeet Kune Do",
+      "Href": "/wiki/Jeet_Kune_Do"
+    },
+    {
+      "Name": "Kajukenbo",
+      "Href": "/wiki/Kajukenbo"
+    },
+    {
+      "Name": "Kalaripayattu",
+      "Href": "/wiki/Kalaripayattu"
+    },
+    {
+      "Name": "Krav Maga",
+      "Href": "/wiki/Krav_Maga"
+    },
+    {
+      "Name": "Kuk Sool Won",
+      "Href": "/wiki/Kuk_Sool_Won"
+    },
+    {
+      "Name": "Marine Corps Martial Arts Program",
+      "Href": "/wiki/Marine_Corps_Martial_Arts_Program"
+    },
+    {
+      "Name": "Mixed martial arts",
+      "Href": "/wiki/Mixed_martial_arts"
+    },
+    {
+      "Name": "Northern Praying Mantis",
+      "Href": "/wiki/Northern_Praying_Mantis"
+    },
+    {
+      "Name": "Ninjutsu",
+      "Href": "/wiki/Ninjutsu"
+    },
+    {
+      "Name": "Okichitaw",
+      "Href": "/wiki/Okichitaw"
+    },
+    {
+      "Name": "Pankration",
+      "Href": "/wiki/Pankration"
+    },
+    {
+      "Name": "Pencak Silat",
+      "Href": "/wiki/Pencak_Silat"
+    },
+    {
+      "Name": "Sanshou",
+      "Href": "/wiki/Sanshou"
+    },
+    {
+      "Name": "Shidōkan Karate",
+      "Href": "/wiki/Shid%C5%8Dkan_Karate"
+    },
+    {
+      "Name": "Shōrin-ryū Shidōkan",
+      "Href": "/wiki/Sh%C5%8Drin-ry%C5%AB_Shid%C5%8Dkan"
+    },
+    {
+      "Name": "Shooto",
+      "Href": "/wiki/Shooto"
+    },
+    {
+      "Name": "Shoot boxing",
+      "Href": "/wiki/Shoot_boxing"
+    },
+    {
+      "Name": "Shootfighting",
+      "Href": "/wiki/Shootfighting"
+    },
+    {
+      "Name": "Shorinji Kempo",
+      "Href": "/wiki/Shorinji_Kempo"
+    },
+    {
+      "Name": "Systema",
+      "Href": "/wiki/Systema"
+    },
+    {
+      "Name": "T'ai chi ch'uan",
+      "Href": "/wiki/T%27ai_chi_ch%27uan"
+    },
+    {
+      "Name": "Unifight",
+      "Href": "/wiki/Unifight"
+    },
+    {
+      "Name": "Vajra-mushti",
+      "Href": "/wiki/Vajra-mushti"
+    },
+    {
+      "Name": "Vale tudo",
+      "Href": "/wiki/Vale_tudo"
+    },
+    {
+      "Name": "Xing Yi Quan",
+      "Href": "/wiki/Xing_Yi_Quan"
+    },
+    {
+      "Name": "Zen Bu Kan Kempo",
+      "Href": ""
+    },
+    {
+      "Name": "Axe throwing",
+      "Href": "/wiki/Axe_throwing"
+    },
+    {
+      "Name": "Battōjutsu",
+      "Href": "/wiki/Batt%C5%8Djutsu"
+    },
+    {
+      "Name": "Bojutsu",
+      "Href": "/wiki/Bojutsu"
+    },
+    {
+      "Name": "Boffer fighting",
+      "Href": "/wiki/Foam_weapon"
+    },
+    {
+      "Name": "Buhurt",
+      "Href": "/wiki/Historical_Medieval_Battles"
+    },
+    {
+      "Name": "Canne de combat",
+      "Href": "/wiki/Canne_de_combat"
+    },
+    {
+      "Name": "Cardboard Tube Fighting",
+      "Href": "/wiki/Cardboard_Tube_Fighting_League"
+    },
+    {
+      "Name": "Eskrima",
+      "Href": "/wiki/Eskrima"
+    },
+    {
+      "Name": "Egyptian stick fencing",
+      "Href": "/wiki/Egyptian_stick_fencing"
+    },
+    {
+      "Name": "Fencing",
+      "Href": "/wiki/Fencing"
+    },
+    {
+      "Name": "Gatka",
+      "Href": "/wiki/Gatka"
+    },
+    {
+      "Name": "Historical European martial arts",
+      "Href": "/wiki/Historical_European_martial_arts"
+    },
+    {
+      "Name": "Hojōjutsu",
+      "Href": "/wiki/Hoj%C5%8Djutsu"
+    },
+    {
+      "Name": "Iaidō",
+      "Href": "/wiki/Iaid%C5%8D"
+    },
+    {
+      "Name": "Iaijutsu",
+      "Href": "/wiki/Iaijutsu"
+    },
+    {
+      "Name": "Jōdō",
+      "Href": "/wiki/J%C5%8Dd%C5%8D"
+    },
+    {
+      "Name": "Jogo do pau",
+      "Href": "/wiki/Jogo_do_pau"
+    },
+    {
+      "Name": "Jūkendō",
+      "Href": "/wiki/J%C5%ABkend%C5%8D"
+    },
+    {
+      "Name": "Jittejutsu",
+      "Href": "/wiki/Jittejutsu"
+    },
+    {
+      "Name": "Kendo",
+      "Href": "/wiki/Kendo"
+    },
+    {
+      "Name": "Kenjutsu",
+      "Href": "/wiki/Kenjutsu"
+    },
+    {
+      "Name": "Krabi–krabong",
+      "Href": "/wiki/Krabi%E2%80%93krabong"
+    },
+    {
+      "Name": "Kung fu",
+      "Href": "/wiki/Chinese_martial_arts"
+    },
+    {
+      "Name": "Kyūdō",
+      "Href": "/wiki/Ky%C5%ABd%C5%8D"
+    },
+    {
+      "Name": "Kyūjutsu",
+      "Href": "/wiki/Ky%C5%ABjutsu"
+    },
+    {
+      "Name": "Medieval MMA",
+      "Href": ""
+    },
+    {
+      "Name": "Modern Arnis",
+      "Href": "/wiki/Modern_Arnis"
+    },
+    {
+      "Name": "Naginatajutsu",
+      "Href": "/wiki/Naginatajutsu"
+    },
+    {
+      "Name": "Nguni stick-fighting",
+      "Href": "/wiki/Nguni_stick-fighting"
+    },
+    {
+      "Name": "Okinawan kobudō",
+      "Href": "/wiki/Okinawan_kobud%C5%8D"
+    },
+    {
+      "Name": "Shurikenjutsu",
+      "Href": "/wiki/Shurikenjutsu"
+    },
+    {
+      "Name": "Silambam",
+      "Href": "/wiki/Silambam"
+    },
+    {
+      "Name": "Sōjutsu",
+      "Href": "/wiki/S%C5%8Djutsu"
+    },
+    {
+      "Name": "Sword fighting",
+      "Href": "/wiki/Sword_fighting"
+    },
+    {
+      "Name": "Wushu",
+      "Href": "/wiki/Wushu_(sport)"
+    },
+    {
+      "Name": "Kumdo",
+      "Href": "/wiki/Kumdo"
+    },
+    {
+      "Name": "Wing Chun",
+      "Href": "/wiki/Wing_Chun"
+    }
+  ],
+  "Competitive model sports": [
+    {
+      "Name": "Mini 4WD",
+      "Href": "/wiki/Mini_4WD"
+    },
+    {
+      "Name": "Model aircraft racing",
+      "Href": "/wiki/Model_aircraft#Competitions"
+    },
+    {
+      "Name": "Model yacht racing",
+      "Href": "/wiki/Model_yachting#Regattas"
+    },
+    {
+      "Name": "Neppis",
+      "Href": "/wiki/Neppis"
+    },
+    {
+      "Name": "Slot car racing",
+      "Href": "/wiki/Slot_car_racing"
+    }
+  ],
+  "Cue sports": [
+    {
+      "Name": "Carom billiards",
+      "Href": "/wiki/Carom_billiards"
+    },
+    {
+      "Name": "Straight rail",
+      "Href": "/wiki/Straight_rail"
+    },
+    {
+      "Name": "Balkline",
+      "Href": "/wiki/Balkline"
+    },
+    {
+      "Name": "One-cushion carom",
+      "Href": "/wiki/One-cushion_carom"
+    },
+    {
+      "Name": "Three-cushion billiards",
+      "Href": "/wiki/Three-cushion_billiards"
+    },
+    {
+      "Name": "Five-pins",
+      "Href": "/wiki/Five-pins"
+    },
+    {
+      "Name": "Four-ball",
+      "Href": "/wiki/Four-ball_billiards"
+    },
+    {
+      "Name": "Artistic billiards",
+      "Href": "/wiki/Artistic_billiards"
+    },
+    {
+      "Name": "Novuss",
+      "Href": "/wiki/Novuss"
+    },
+    {
+      "Name": "Pool",
+      "Href": "/wiki/Pool_(cue_sports)"
+    },
+    {
+      "Name": "Eight-ball",
+      "Href": "/wiki/Eight-ball"
+    },
+    {
+      "Name": "Blackball",
+      "Href": "/wiki/Blackball_(pool)"
+    },
+    {
+      "Name": "Nine-ball",
+      "Href": "/wiki/Nine-ball"
+    },
+    {
+      "Name": "Straight pool",
+      "Href": "/wiki/Straight_pool"
+    },
+    {
+      "Name": "One-pocket",
+      "Href": "/wiki/One-pocket"
+    },
+    {
+      "Name": "Three-ball",
+      "Href": "/wiki/Three-ball"
+    },
+    {
+      "Name": "Seven-ball",
+      "Href": "/wiki/Seven-ball"
+    },
+    {
+      "Name": "Ten-ball",
+      "Href": "/wiki/Ten-ball"
+    },
+    {
+      "Name": "Rotation",
+      "Href": "/wiki/Rotation_(pool)"
+    },
+    {
+      "Name": "Baseball pocket billiards",
+      "Href": "/wiki/Baseball_pocket_billiards"
+    },
+    {
+      "Name": "Cribbage (pool)",
+      "Href": "/wiki/Cribbage_(pool)"
+    },
+    {
+      "Name": "Bank pool",
+      "Href": "/wiki/Bank_pool"
+    },
+    {
+      "Name": "Artistic pool",
+      "Href": "/wiki/Artistic_pool"
+    },
+    {
+      "Name": "Trick shot",
+      "Href": "/wiki/Trick_shot"
+    },
+    {
+      "Name": "Speed pool",
+      "Href": "/wiki/Speed_pool"
+    },
+    {
+      "Name": "Bowlliards",
+      "Href": "/wiki/Bowlliards"
+    },
+    {
+      "Name": "Chicago",
+      "Href": "/wiki/Chicago_(pool)"
+    },
+    {
+      "Name": "Kelly pool",
+      "Href": "/wiki/Kelly_pool"
+    },
+    {
+      "Name": "Cutthroat",
+      "Href": "/wiki/Cutthroat_(pool)"
+    },
+    {
+      "Name": "Killer",
+      "Href": "/wiki/Killer_(pool)"
+    },
+    {
+      "Name": "Russian pyramid",
+      "Href": "/wiki/Russian_pyramid"
+    },
+    {
+      "Name": "Snooker",
+      "Href": "/wiki/Snooker"
+    },
+    {
+      "Name": "Sinuca brasileira",
+      "Href": "/wiki/Sinuca_brasileira"
+    },
+    {
+      "Name": "Six-red snooker",
+      "Href": "/wiki/Six-red_snooker"
+    },
+    {
+      "Name": "Snooker plus",
+      "Href": "/wiki/Snooker_plus"
+    },
+    {
+      "Name": "Hybrid carom–pocket games",
+      "Href": ""
+    },
+    {
+      "Name": "English billiards",
+      "Href": "/wiki/English_billiards"
+    },
+    {
+      "Name": "Bottle pool",
+      "Href": "/wiki/Bottle_pool"
+    },
+    {
+      "Name": "Cowboy",
+      "Href": "/wiki/Cowboy_(billiards)"
+    },
+    {
+      "Name": "Obstacle variations",
+      "Href": ""
+    },
+    {
+      "Name": "Bagatelle",
+      "Href": "/wiki/Bagatelle"
+    },
+    {
+      "Name": "Bar billiards",
+      "Href": "/wiki/Bar_billiards"
+    },
+    {
+      "Name": "Bumper pool",
+      "Href": "/wiki/Bumper_pool"
+    },
+    {
+      "Name": "Table Sports",
+      "Href": ""
+    },
+    {
+      "Name": "Foosball",
+      "Href": "/wiki/Foosball"
+    }
+  ],
+  "Cycling": [
+    {
+      "Name": "Artistic cycling",
+      "Href": "/wiki/Artistic_cycling"
+    },
+    {
+      "Name": "BMX",
+      "Href": "/wiki/BMX"
+    },
+    {
+      "Name": "Cyclo-cross",
+      "Href": "/wiki/Cyclo-cross"
+    },
+    {
+      "Name": "Cycle polo",
+      "Href": "/wiki/Cycle_polo"
+    },
+    {
+      "Name": "Cycle speedway",
+      "Href": "/wiki/Cycle_speedway"
+    },
+    {
+      "Name": "Downhill mountain biking",
+      "Href": "/wiki/Downhill_mountain_biking"
+    },
+    {
+      "Name": "Dirt jumping",
+      "Href": "/wiki/Dirt_jumping"
+    },
+    {
+      "Name": "Freestyle BMX",
+      "Href": "/wiki/Freestyle_BMX"
+    },
+    {
+      "Name": "Hardcourt Bike Polo",
+      "Href": "/wiki/Hardcourt_Bike_Polo"
+    },
+    {
+      "Name": "Mountain biking",
+      "Href": "/wiki/Mountain_biking"
+    },
+    {
+      "Name": "Road bicycle racing",
+      "Href": "/wiki/Road_bicycle_racing"
+    },
+    {
+      "Name": "Track cycling",
+      "Href": "/wiki/Track_cycling"
+    },
+    {
+      "Name": "Underwater cycling",
+      "Href": "/wiki/Underwater_cycling"
+    },
+    {
+      "Name": "Skibobbing",
+      "Href": "/wiki/Skibobbing"
+    },
+    {
+      "Name": "Mountain unicycling",
+      "Href": "/wiki/Mountain_unicycling"
+    },
+    {
+      "Name": "Street unicycling",
+      "Href": "/wiki/Street_unicycling"
+    },
+    {
+      "Name": "Unicycling",
+      "Href": "/wiki/Unicycling"
+    },
+    {
+      "Name": "Unicycle basketball",
+      "Href": "/wiki/Unicycle_basketball"
+    },
+    {
+      "Name": "Unicycle hockey",
+      "Href": "/wiki/Unicycle_hockey"
+    },
+    {
+      "Name": "Unicycle trials",
+      "Href": "/wiki/Unicycle_trials"
+    }
+  ],
+  "Electronic sports": [
+    {
+      "Name": "Combat robot",
+      "Href": "/wiki/Combat_robot"
+    },
+    {
+      "Name": "Contesting",
+      "Href": "/wiki/Contesting"
+    },
+    {
+      "Name": "Radio-control vehicles",
+      "Href": "/wiki/Radio-controlled_model"
+    },
+    {
+      "Name": "Video gaming",
+      "Href": "/wiki/Video_gaming"
+    }
+  ],
+  "Endurance sports": [
+    {
+      "Name": "Chariot racing",
+      "Href": "/wiki/Chariot_racing"
+    },
+    {
+      "Name": "Cross-country skiing",
+      "Href": "/wiki/Cross-country_skiing_(sport)"
+    },
+    {
+      "Name": "Cycling",
+      "Href": "/wiki/Cycle_sport"
+    },
+    {
+      "Name": "Iditarod",
+      "Href": "/wiki/Iditarod"
+    },
+    {
+      "Name": "Long-distance running",
+      "Href": "/wiki/Long-distance_running"
+    },
+    {
+      "Name": "Rowing",
+      "Href": "/wiki/Rowing_(sport)"
+    },
+    {
+      "Name": "Swimming",
+      "Href": "/wiki/Swimming_(sport)"
+    },
+    {
+      "Name": "Wheelchair racing",
+      "Href": "/wiki/Wheelchair_racing"
+    },
+    {
+      "Name": "Wood chopping",
+      "Href": "/wiki/Wood_chopping"
+    }
+  ],
+  "Equestrian sports": [
+    {
+      "Name": "Buzkashi",
+      "Href": "/wiki/Buzkashi"
+    },
+    {
+      "Name": "Barrel racing",
+      "Href": "/wiki/Barrel_racing"
+    },
+    {
+      "Name": "Campdrafting",
+      "Href": "/wiki/Campdrafting"
+    },
+    {
+      "Name": "Cirit",
+      "Href": "/wiki/Cirit"
+    },
+    {
+      "Name": "Charreada",
+      "Href": "/wiki/Charreada"
+    },
+    {
+      "Name": "Chilean rodeo",
+      "Href": "/wiki/Chilean_rodeo"
+    },
+    {
+      "Name": "Chuckwagon racing",
+      "Href": "/wiki/Chuckwagon_racing"
+    },
+    {
+      "Name": "Cross country",
+      "Href": "/wiki/Cross-country_equestrianism"
+    },
+    {
+      "Name": "Cutting",
+      "Href": "/wiki/Cutting_(sport)"
+    },
+    {
+      "Name": "Dressage",
+      "Href": "/wiki/Dressage"
+    },
+    {
+      "Name": "Endurance riding",
+      "Href": "/wiki/Endurance_riding"
+    },
+    {
+      "Name": "English pleasure",
+      "Href": "/wiki/English_pleasure"
+    },
+    {
+      "Name": "Equitation",
+      "Href": "/wiki/Equitation"
+    },
+    {
+      "Name": "Eventing",
+      "Href": "/wiki/Eventing"
+    },
+    {
+      "Name": "Equestrian vaulting",
+      "Href": "/wiki/Equestrian_vaulting"
+    },
+    {
+      "Name": "Gymkhana",
+      "Href": "/wiki/Gymkhana"
+    },
+    {
+      "Name": "Harness racing",
+      "Href": "/wiki/Harness_racing"
+    },
+    {
+      "Name": "Hobby horse polo",
+      "Href": "/wiki/Hobby_horse_polo"
+    },
+    {
+      "Name": "Horse racing",
+      "Href": "/wiki/Horse_racing"
+    },
+    {
+      "Name": "Horse polo",
+      "Href": "/wiki/Horse_polo"
+    },
+    {
+      "Name": "Horseball",
+      "Href": "/wiki/Horseball"
+    },
+    {
+      "Name": "Jousting",
+      "Href": "/wiki/Jousting"
+    },
+    {
+      "Name": "Mounted games",
+      "Href": "/wiki/Mounted_games"
+    },
+    {
+      "Name": "Mounted archery",
+      "Href": "/wiki/Mounted_archery"
+    },
+    {
+      "Name": "Pato",
+      "Href": "/wiki/Pato"
+    },
+    {
+      "Name": "Pleasure driving",
+      "Href": "/wiki/Pleasure_driving"
+    },
+    {
+      "Name": "Reining",
+      "Href": "/wiki/Reining"
+    },
+    {
+      "Name": "Rodeo",
+      "Href": "/wiki/Rodeo"
+    },
+    {
+      "Name": "Show hunter",
+      "Href": "/wiki/Show_hunter"
+    },
+    {
+      "Name": "Show jumping",
+      "Href": "/wiki/Show_jumping"
+    },
+    {
+      "Name": "Steeplechase",
+      "Href": "/wiki/Steeplechase_(horse_racing)"
+    },
+    {
+      "Name": "Sur-papakh",
+      "Href": "/wiki/Sur-papakh"
+    },
+    {
+      "Name": "Team penning",
+      "Href": "/wiki/Team_penning"
+    },
+    {
+      "Name": "Tent pegging",
+      "Href": "/wiki/Tent_pegging"
+    },
+    {
+      "Name": "Western pleasure",
+      "Href": "/wiki/Western_pleasure"
+    }
+  ],
+  "Esports": [
+    {
+      "Name": "Battle royale game",
+      "Href": "/wiki/Battle_royale_game"
+    },
+    {
+      "Name": "Digital collectible card game",
+      "Href": "/wiki/Digital_collectible_card_game"
+    },
+    {
+      "Name": "Fighting game",
+      "Href": "/wiki/Fighting_game"
+    },
+    {
+      "Name": "First-person shooter",
+      "Href": "/wiki/First-person_shooter"
+    },
+    {
+      "Name": "Multiplayer online battle arena",
+      "Href": "/wiki/Multiplayer_online_battle_arena"
+    },
+    {
+      "Name": "Real-time strategy",
+      "Href": "/wiki/Real-time_strategy"
+    },
+    {
+      "Name": "Sim racing",
+      "Href": "/wiki/Sim_racing"
+    },
+    {
+      "Name": "Sports video game",
+      "Href": "/wiki/Sports_video_game"
+    },
+    {
+      "Name": "Third-person shooter",
+      "Href": "/wiki/Third-person_shooter"
+    },
+    {
+      "Name": "Virtual reality game",
+      "Href": "/wiki/Virtual_reality_game"
+    }
+  ],
+  "Fantasy sports": [
+    {
+      "Name": "Quidditch",
+      "Href": "/wiki/Quidditch"
+    },
+    {
+      "Name": "Hunger Games (Gladiating)",
+      "Href": ""
+    },
+    {
+      "Name": "Whack-bat (Fantastic Mr Fox)",
+      "Href": ""
+    },
+    {
+      "Name": "Blitzball (Final Fantasy)",
+      "Href": ""
+    },
+    {
+      "Name": "Calvinball",
+      "Href": "/wiki/Calvinball"
+    }
+  ],
+  "Fictional sports": [
+    {
+      "Name": "43-Man Squamish",
+      "Href": "/wiki/43-Man_Squamish"
+    },
+    {
+      "Name": "Calvinball",
+      "Href": "/wiki/Calvinball"
+    },
+    {
+      "Name": "Quidditch (Harry Potter)",
+      "Href": "/wiki/Quidditch"
+    },
+    {
+      "Name": "Guyball",
+      "Href": "/wiki/Guyball"
+    }
+  ],
+  "Fishing": [
+    {
+      "Name": "Angling",
+      "Href": "/wiki/Angling"
+    },
+    {
+      "Name": "Big-game fishing",
+      "Href": "/wiki/Big-game_fishing"
+    },
+    {
+      "Name": "Casting",
+      "Href": "/wiki/Casting_(fishing)"
+    },
+    {
+      "Name": "Noodling",
+      "Href": "/wiki/Noodling"
+    },
+    {
+      "Name": "Spearfishing",
+      "Href": "/wiki/Spearfishing"
+    },
+    {
+      "Name": "Sport fishing",
+      "Href": "/wiki/Sport_fishing"
+    },
+    {
+      "Name": "Surf fishing",
+      "Href": "/wiki/Surf_fishing"
+    },
+    {
+      "Name": "Rock fishing",
+      "Href": "/wiki/Rock_fishing"
+    },
+    {
+      "Name": "Fly fishing",
+      "Href": "/wiki/Fly_fishing"
+    },
+    {
+      "Name": "Ice fishing",
+      "Href": "/wiki/Ice_fishing"
+    },
+    {
+      "Name": "Bass fishing",
+      "Href": "/wiki/Bass_fishing"
+    }
+  ],
+  "Flying disc sports": [
+    {
+      "Name": "Disc dog",
+      "Href": "/wiki/Disc_dog"
+    },
+    {
+      "Name": "Disc golf",
+      "Href": "/wiki/Disc_golf"
+    },
+    {
+      "Name": "Disc golf (urban)",
+      "Href": "/wiki/Flying_disc_games#Urban_disc_golf"
+    },
+    {
+      "Name": "Dodge disc",
+      "Href": "/wiki/Dodge_disc"
+    },
+    {
+      "Name": "Double disc court",
+      "Href": "/wiki/Double_disc_court"
+    },
+    {
+      "Name": "Freestyle",
+      "Href": "/wiki/Flying_disc_freestyle"
+    },
+    {
+      "Name": "Fricket",
+      "Href": ""
+    },
+    {
+      "Name": "Frisbee",
+      "Href": "/wiki/Frisbee"
+    },
+    {
+      "Name": "Goaltimate",
+      "Href": "/wiki/Goaltimate"
+    },
+    {
+      "Name": "KanJam",
+      "Href": "/wiki/KanJam"
+    },
+    {
+      "Name": "Guts",
+      "Href": "/wiki/Guts_(flying_disc_game)"
+    },
+    {
+      "Name": "Flutterguts",
+      "Href": "/wiki/Flutterguts"
+    },
+    {
+      "Name": "Hot box",
+      "Href": "/wiki/Hot_box_(game)"
+    },
+    {
+      "Name": "Ultimate",
+      "Href": "/wiki/Ultimate_(sport)"
+    }
+  ],
+  "Football": [
+    {
+      "Name": "Ancient games",
+      "Href": ""
+    },
+    {
+      "Name": "Chinlone",
+      "Href": "/wiki/Chinlone"
+    },
+    {
+      "Name": "Cuju",
+      "Href": "/wiki/Cuju"
+    },
+    {
+      "Name": "Episkyros",
+      "Href": "/wiki/Episkyros"
+    },
+    {
+      "Name": "Harpastum",
+      "Href": "/wiki/Harpastum"
+    },
+    {
+      "Name": "Kemari",
+      "Href": "/wiki/Kemari"
+    },
+    {
+      "Name": "Ki-o-rahi",
+      "Href": "/wiki/Ki-o-rahi"
+    },
+    {
+      "Name": "Marn Grook",
+      "Href": "/wiki/Marn_Grook"
+    },
+    {
+      "Name": "Sepak Takraw",
+      "Href": "/wiki/Sepak_Takraw"
+    },
+    {
+      "Name": "Woggabaliri",
+      "Href": "/wiki/Woggabaliri"
+    },
+    {
+      "Name": "Yubi lakpi",
+      "Href": "/wiki/Yubi_lakpi"
+    },
+    {
+      "Name": "Medieval football",
+      "Href": "/wiki/Medieval_football"
+    },
+    {
+      "Name": "Ba game",
+      "Href": "/wiki/Ba_game"
+    },
+    {
+      "Name": "Caid",
+      "Href": "/wiki/Caid_(sport)"
+    },
+    {
+      "Name": "Calcio Fiorentino",
+      "Href": "/wiki/Calcio_Fiorentino"
+    },
+    {
+      "Name": "Camping (game)",
+      "Href": "/wiki/Camping_(game)"
+    },
+    {
+      "Name": "Cnapan",
+      "Href": "/wiki/Cnapan"
+    },
+    {
+      "Name": "Cornish hurling",
+      "Href": "/wiki/Cornish_hurling"
+    },
+    {
+      "Name": "Haxey Hood",
+      "Href": "/wiki/Haxey_Hood"
+    },
+    {
+      "Name": "Knattleikr",
+      "Href": "/wiki/Knattleikr"
+    },
+    {
+      "Name": "La soule",
+      "Href": "/wiki/La_soule"
+    },
+    {
+      "Name": "Lelo burti",
+      "Href": "/wiki/Lelo_burti"
+    },
+    {
+      "Name": "Mob football",
+      "Href": "/wiki/Mob_football"
+    },
+    {
+      "Name": "Royal Shrovetide Football",
+      "Href": "/wiki/Royal_Shrovetide_Football"
+    },
+    {
+      "Name": "Uppies and Downies",
+      "Href": "/wiki/Uppies_and_Downies"
+    },
+    {
+      "Name": "Association football",
+      "Href": "/wiki/Association_football"
+    },
+    {
+      "Name": "Jorkyball",
+      "Href": "/wiki/Jorkyball"
+    },
+    {
+      "Name": "Paralympic football",
+      "Href": "/wiki/Paralympic_association_football"
+    },
+    {
+      "Name": "CP football",
+      "Href": "/wiki/CP_football"
+    },
+    {
+      "Name": "Powerchair Football",
+      "Href": "/wiki/Powerchair_Football"
+    },
+    {
+      "Name": "Reduced variants",
+      "Href": ""
+    },
+    {
+      "Name": "Beach soccer",
+      "Href": "/wiki/Beach_soccer"
+    },
+    {
+      "Name": "Crab soccer",
+      "Href": "/wiki/Crab_soccer"
+    },
+    {
+      "Name": "Fireball",
+      "Href": ""
+    },
+    {
+      "Name": "Five-a-side football",
+      "Href": "/wiki/Five-a-side_football"
+    },
+    {
+      "Name": "Futsal",
+      "Href": "/wiki/Futsal"
+    },
+    {
+      "Name": "Ice football",
+      "Href": ""
+    },
+    {
+      "Name": "Indoor soccer",
+      "Href": "/wiki/Indoor_soccer"
+    },
+    {
+      "Name": "Masters Football",
+      "Href": "/wiki/Masters_Football"
+    },
+    {
+      "Name": "Papi fut",
+      "Href": "/wiki/Papi_fut"
+    },
+    {
+      "Name": "Rush goalie",
+      "Href": "/wiki/Rush_goalie"
+    },
+    {
+      "Name": "Walking football",
+      "Href": "/wiki/Walking_football"
+    },
+    {
+      "Name": "Street football",
+      "Href": "/wiki/Street_football"
+    },
+    {
+      "Name": "Freestyle football",
+      "Href": "/wiki/Freestyle_football"
+    },
+    {
+      "Name": "Keepie uppie",
+      "Href": "/wiki/Keepie_uppie"
+    },
+    {
+      "Name": "Swamp football",
+      "Href": "/wiki/Swamp_football"
+    },
+    {
+      "Name": "Three sided football",
+      "Href": "/wiki/Three_sided_football"
+    },
+    {
+      "Name": "Australian football",
+      "Href": "/wiki/Australian_football"
+    },
+    {
+      "Name": "AFLX",
+      "Href": "/wiki/AFLX"
+    },
+    {
+      "Name": "Metro footy",
+      "Href": "/wiki/Metro_footy"
+    },
+    {
+      "Name": "Nine-a-side footy",
+      "Href": "/wiki/Nine-a-side_footy"
+    },
+    {
+      "Name": "Rec footy",
+      "Href": "/wiki/Rec_footy"
+    },
+    {
+      "Name": "English school games",
+      "Href": "/wiki/English_public_school_football_games"
+    },
+    {
+      "Name": "Eton College",
+      "Href": ""
+    },
+    {
+      "Name": "Field game",
+      "Href": "/wiki/Eton_field_game"
+    },
+    {
+      "Name": "Wall game",
+      "Href": "/wiki/Eton_wall_game"
+    },
+    {
+      "Name": "Harrow football",
+      "Href": "/wiki/Harrow_football"
+    },
+    {
+      "Name": "Gaelic football",
+      "Href": "/wiki/Gaelic_football"
+    },
+    {
+      "Name": "Ladies' Gaelic football",
+      "Href": "/wiki/Ladies%27_Gaelic_football"
+    },
+    {
+      "Name": "Gridiron football",
+      "Href": "/wiki/Gridiron_football"
+    },
+    {
+      "Name": "American football",
+      "Href": "/wiki/American_football"
+    },
+    {
+      "Name": "Eight-man football",
+      "Href": "/wiki/Eight-man_football"
+    },
+    {
+      "Name": "Flag football",
+      "Href": "/wiki/Flag_football"
+    },
+    {
+      "Name": "Indoor football",
+      "Href": "/wiki/Indoor_American_football"
+    },
+    {
+      "Name": "Arena football",
+      "Href": "/wiki/Arena_football"
+    },
+    {
+      "Name": "Nine-man football",
+      "Href": "/wiki/Nine-man_football"
+    },
+    {
+      "Name": "Six-man football",
+      "Href": "/wiki/Six-man_football"
+    },
+    {
+      "Name": "Sprint football",
+      "Href": "/wiki/Sprint_football"
+    },
+    {
+      "Name": "Street football (American)",
+      "Href": "/wiki/Street_football_(American)"
+    },
+    {
+      "Name": "Touch football",
+      "Href": "/wiki/Touch_football_(American)"
+    },
+    {
+      "Name": "Unicycle Football",
+      "Href": "/w/index.php?title=Unicycle_Football_League\u0026action=edit\u0026redlink=1"
+    },
+    {
+      "Name": "XFL rules football",
+      "Href": "/w/index.php?title=XFL_rules_football\u0026action=edit\u0026redlink=1"
+    },
+    {
+      "Name": "Canadian football",
+      "Href": "/wiki/Canadian_football"
+    },
+    {
+      "Name": "Rugby football",
+      "Href": "/wiki/Rugby_football"
+    },
+    {
+      "Name": "Rugby league",
+      "Href": "/wiki/Rugby_league"
+    },
+    {
+      "Name": "Masters Rugby League",
+      "Href": "/wiki/Masters_Rugby_League"
+    },
+    {
+      "Name": "Mod league",
+      "Href": "/wiki/Mod_league"
+    },
+    {
+      "Name": "OzTag",
+      "Href": ""
+    },
+    {
+      "Name": "Rugby league nines",
+      "Href": "/wiki/Rugby_league_nines"
+    },
+    {
+      "Name": "Rugby league sevens",
+      "Href": "/wiki/Rugby_league_sevens"
+    },
+    {
+      "Name": "Tag rugby",
+      "Href": "/wiki/Tag_rugby"
+    },
+    {
+      "Name": "Touch football",
+      "Href": "/wiki/Touch_football_(rugby_league)"
+    },
+    {
+      "Name": "Wheelchair rugby league",
+      "Href": "/wiki/Wheelchair_rugby_league"
+    },
+    {
+      "Name": "Rugby union",
+      "Href": "/wiki/Rugby_union"
+    },
+    {
+      "Name": "American flag rugby",
+      "Href": "/wiki/American_flag_rugby"
+    },
+    {
+      "Name": "Beach rugby",
+      "Href": "/wiki/Beach_rugby"
+    },
+    {
+      "Name": "Mini rugby",
+      "Href": "/wiki/Mini_rugby"
+    },
+    {
+      "Name": "Rugby sevens",
+      "Href": "/wiki/Rugby_sevens"
+    },
+    {
+      "Name": "Rugby tens",
+      "Href": "/wiki/Rugby_tens"
+    },
+    {
+      "Name": "Snow rugby",
+      "Href": "/wiki/Snow_rugby"
+    },
+    {
+      "Name": "Tag rugby",
+      "Href": "/wiki/Tag_rugby"
+    },
+    {
+      "Name": "Touch rugby",
+      "Href": "/wiki/Touch_rugby"
+    },
+    {
+      "Name": "Wheelchair rugby",
+      "Href": "/wiki/Wheelchair_rugby"
+    },
+    {
+      "Name": "Hybrid codes",
+      "Href": ""
+    },
+    {
+      "Name": "Austus",
+      "Href": "/wiki/Austus"
+    },
+    {
+      "Name": "Eton wall game",
+      "Href": "/wiki/Eton_wall_game"
+    },
+    {
+      "Name": "International rules football",
+      "Href": "/wiki/International_rules_football"
+    },
+    {
+      "Name": "Samoa rules",
+      "Href": "/wiki/Samoa_rules"
+    },
+    {
+      "Name": "Speedball",
+      "Href": "/wiki/Speedball_(American_ball_game)"
+    },
+    {
+      "Name": "Universal football",
+      "Href": "/wiki/Universal_football"
+    },
+    {
+      "Name": "Volata",
+      "Href": "/wiki/Volata"
+    }
+  ],
+  "Goal sports": [
+    {
+      "Name": "Basketball",
+      "Href": "/wiki/Basketball"
+    },
+    {
+      "Name": "Football",
+      "Href": "/wiki/Football"
+    },
+    {
+      "Name": "Handball",
+      "Href": "/wiki/Handball"
+    },
+    {
+      "Name": "Hockey",
+      "Href": "/wiki/Hockey"
+    },
+    {
+      "Name": "Lacrosse",
+      "Href": "/wiki/Lacrosse"
+    },
+    {
+      "Name": "Polo",
+      "Href": "/wiki/Polo"
+    },
+    {
+      "Name": "Waterpolo",
+      "Href": "/wiki/Waterpolo"
+    },
+    {
+      "Name": "Quidditch",
+      "Href": "/wiki/Quidditch_(sport)"
+    }
+  ],
+  "Golf": [
+    {
+      "Name": "Beach golf",
+      "Href": "/wiki/Beach_golf"
+    },
+    {
+      "Name": "Clock golf",
+      "Href": "/wiki/Clock_golf"
+    },
+    {
+      "Name": "Codeball",
+      "Href": "/wiki/Codeball"
+    },
+    {
+      "Name": "Dart golf",
+      "Href": "/wiki/Dart_golf"
+    },
+    {
+      "Name": "Disc golf",
+      "Href": "/wiki/Disc_golf"
+    },
+    {
+      "Name": "Footgolf",
+      "Href": "/wiki/Footgolf"
+    },
+    {
+      "Name": "GolfCross",
+      "Href": "/wiki/GolfCross"
+    },
+    {
+      "Name": "Hickory golf",
+      "Href": "/wiki/Hickory_golf"
+    },
+    {
+      "Name": "Indoor golf",
+      "Href": "/wiki/Indoor_golf"
+    },
+    {
+      "Name": "Long drive",
+      "Href": "/wiki/Long_drive"
+    },
+    {
+      "Name": "Match play",
+      "Href": "/wiki/Match_play"
+    },
+    {
+      "Name": "Miniature golf",
+      "Href": "/wiki/Miniature_golf"
+    },
+    {
+      "Name": "Park golf",
+      "Href": "/wiki/Park_golf"
+    },
+    {
+      "Name": "Pitch and putt",
+      "Href": "/wiki/Pitch_and_putt"
+    },
+    {
+      "Name": "Sholf",
+      "Href": "/wiki/Sholf"
+    },
+    {
+      "Name": "Shotgun start",
+      "Href": "/wiki/Shotgun_start"
+    },
+    {
+      "Name": "Skins game",
+      "Href": "/wiki/Skins_game"
+    },
+    {
+      "Name": "Snow golf",
+      "Href": "/wiki/Snow_golf"
+    },
+    {
+      "Name": "Speed golf",
+      "Href": "/wiki/Speed_golf"
+    },
+    {
+      "Name": "Stroke play",
+      "Href": "/wiki/Stroke_play"
+    },
+    {
+      "Name": "Swingolf",
+      "Href": "/wiki/Swingolf"
+    },
+    {
+      "Name": "Topgolf",
+      "Href": "/wiki/Topgolf"
+    },
+    {
+      "Name": "Urban Golf",
+      "Href": "/wiki/Urban_golf"
+    },
+    {
+      "Name": "Wiffle golf",
+      "Href": "/w/index.php?title=Wiffle_golf\u0026action=edit\u0026redlink=1"
+    }
+  ],
+  "Gymnastics": [
+    {
+      "Name": "Acrobatic gymnastics",
+      "Href": "/wiki/Acrobatic_gymnastics"
+    },
+    {
+      "Name": "Aerial hoop",
+      "Href": "/wiki/Aerial_hoop"
+    },
+    {
+      "Name": "Aerial silks",
+      "Href": "/wiki/Aerial_silks"
+    },
+    {
+      "Name": "Aerobic gymnastics",
+      "Href": "/wiki/Aerobic_gymnastics"
+    },
+    {
+      "Name": "Artistic gymnastics",
+      "Href": "/wiki/Artistic_gymnastics"
+    },
+    {
+      "Name": "Balance beam",
+      "Href": "/wiki/Balance_beam"
+    },
+    {
+      "Name": "Floor",
+      "Href": "/wiki/Floor_(gymnastics)"
+    },
+    {
+      "Name": "High bar",
+      "Href": "/wiki/Horizontal_bar"
+    },
+    {
+      "Name": "Parallel bars",
+      "Href": "/wiki/Parallel_bars"
+    },
+    {
+      "Name": "Pommel horse",
+      "Href": "/wiki/Pommel_horse"
+    },
+    {
+      "Name": "Still rings",
+      "Href": "/wiki/Rings_(gymnastics)"
+    },
+    {
+      "Name": "Uneven bars",
+      "Href": "/wiki/Uneven_bars"
+    },
+    {
+      "Name": "Vault",
+      "Href": "/wiki/Vault_(gymnastics)"
+    },
+    {
+      "Name": "Juggling",
+      "Href": "/wiki/Toss_juggling"
+    },
+    {
+      "Name": "Baton twirling",
+      "Href": "/wiki/Baton_twirling"
+    },
+    {
+      "Name": "Parkour",
+      "Href": "/wiki/Parkour"
+    },
+    {
+      "Name": "Rhythmic gymnastics",
+      "Href": "/wiki/Rhythmic_gymnastics"
+    },
+    {
+      "Name": "Ball",
+      "Href": "/wiki/Ball_(rhythmic_gymnastics)"
+    },
+    {
+      "Name": "Club",
+      "Href": "/wiki/Juggling_club"
+    },
+    {
+      "Name": "Hoop",
+      "Href": "/wiki/Hoop_(rhythmic_gymnastics)"
+    },
+    {
+      "Name": "Ribbon",
+      "Href": "/wiki/Ribbon_(rhythmic_gymnastics)"
+    },
+    {
+      "Name": "Rope",
+      "Href": "/wiki/Rope_(rhythmic_gymnastics)"
+    },
+    {
+      "Name": "Rope jumping",
+      "Href": "/wiki/Jump_rope#Competition"
+    },
+    {
+      "Name": "Pole dance",
+      "Href": "/wiki/Pole_dance"
+    },
+    {
+      "Name": "Rope climbing",
+      "Href": "/wiki/Rope_climbing"
+    },
+    {
+      "Name": "Slacklining",
+      "Href": "/wiki/Slacklining"
+    },
+    {
+      "Name": "Trampolining",
+      "Href": "/wiki/Trampolining"
+    },
+    {
+      "Name": "Trapeze",
+      "Href": "/wiki/Trapeze"
+    },
+    {
+      "Name": "Flying trapeze",
+      "Href": "/wiki/Flying_trapeze"
+    },
+    {
+      "Name": "Static trapeze",
+      "Href": "/wiki/Static_trapeze"
+    },
+    {
+      "Name": "Tumbling",
+      "Href": "/wiki/Tumbling_(gymnastics)"
+    },
+    {
+      "Name": "Wheel gymnastics",
+      "Href": "/wiki/Wheel_gymnastics"
+    },
+    {
+      "Name": "Calisthenics",
+      "Href": "/wiki/Calisthenics"
+    }
+  ],
+  "Handball family": [
+    {
+      "Name": "Balle à la main",
+      "Href": "/wiki/Balle_%C3%A0_la_main"
+    },
+    {
+      "Name": "Ballon au poing",
+      "Href": "/wiki/Ballon_au_poing"
+    },
+    {
+      "Name": "Beach handball",
+      "Href": "/wiki/Beach_handball"
+    },
+    {
+      "Name": "Czech handball",
+      "Href": "/wiki/Czech_handball"
+    },
+    {
+      "Name": "Field handball",
+      "Href": "/wiki/Field_handball"
+    },
+    {
+      "Name": "Goalball",
+      "Href": "/wiki/Goalball"
+    },
+    {
+      "Name": "Tchoukball",
+      "Href": "/wiki/Tchoukball"
+    },
+    {
+      "Name": "Torball",
+      "Href": "/wiki/Torball"
+    },
+    {
+      "Name": "Water polo",
+      "Href": "/wiki/Water_polo"
+    }
+  ],
+  "Hunting": [
+    {
+      "Name": "Beagling",
+      "Href": "/wiki/Beagling"
+    },
+    {
+      "Name": "Big game hunting",
+      "Href": "/wiki/Trophy_hunting"
+    },
+    {
+      "Name": "Deer hunting",
+      "Href": "/wiki/Deer_hunting"
+    },
+    {
+      "Name": "Fox hunting",
+      "Href": "/wiki/Fox_hunting"
+    },
+    {
+      "Name": "Wolf hunting",
+      "Href": "/wiki/Wolf_hunting"
+    }
+  ],
+  "Ice sports": [
+    {
+      "Name": "Bandy",
+      "Href": "/wiki/Bandy"
+    },
+    {
+      "Name": "Rink bandy",
+      "Href": "/wiki/Rink_bandy"
+    },
+    {
+      "Name": "Barrel jumping",
+      "Href": "/wiki/Barrel_jumping"
+    },
+    {
+      "Name": "Broomball",
+      "Href": "/wiki/Broomball"
+    },
+    {
+      "Name": "Moscow broomball",
+      "Href": "/wiki/Moscow_broomball"
+    },
+    {
+      "Name": "Curling",
+      "Href": "/wiki/Curling"
+    },
+    {
+      "Name": "Figure skating",
+      "Href": "/wiki/Figure_skating"
+    },
+    {
+      "Name": "Single skating",
+      "Href": "/wiki/Single_skating"
+    },
+    {
+      "Name": "Pair skating",
+      "Href": "/wiki/Pair_skating"
+    },
+    {
+      "Name": "Ice dancing",
+      "Href": "/wiki/Ice_dance"
+    },
+    {
+      "Name": "Synchronized skating",
+      "Href": "/wiki/Synchronized_skating"
+    },
+    {
+      "Name": "Four skating",
+      "Href": "/wiki/Four_skating"
+    },
+    {
+      "Name": "Ice theatre",
+      "Href": "/wiki/Ice_theatre"
+    },
+    {
+      "Name": "Ice cross downhill",
+      "Href": "/wiki/Ice_cross_downhill"
+    },
+    {
+      "Name": "Ice football",
+      "Href": ""
+    },
+    {
+      "Name": "Ice hockey",
+      "Href": "/wiki/Ice_hockey"
+    },
+    {
+      "Name": "Ice yachting",
+      "Href": "/wiki/Ice_yachting"
+    },
+    {
+      "Name": "Ringette",
+      "Href": "/wiki/Ringette"
+    },
+    {
+      "Name": "Sledge hockey",
+      "Href": "/wiki/Sledge_hockey"
+    },
+    {
+      "Name": "Speed skating",
+      "Href": "/wiki/Speed_skating"
+    },
+    {
+      "Name": "Short track speed skating",
+      "Href": "/wiki/Short_track_speed_skating"
+    },
+    {
+      "Name": "Long track speed skating",
+      "Href": "/wiki/Long_track_speed_skating"
+    },
+    {
+      "Name": "Ice stock sport",
+      "Href": "/wiki/Ice_stock_sport"
+    }
+  ],
+  "Kite sports": [
+    {
+      "Name": "Hang gliding",
+      "Href": "/wiki/Hang_gliding"
+    },
+    {
+      "Name": "Kite buggy",
+      "Href": "/wiki/Kite_buggy"
+    },
+    {
+      "Name": "Kite fighting",
+      "Href": "/wiki/Kite_fighting"
+    },
+    {
+      "Name": "Kite landboarding",
+      "Href": "/wiki/Kite_landboarding"
+    },
+    {
+      "Name": "Kitesurfing",
+      "Href": "/wiki/Kitesurfing"
+    },
+    {
+      "Name": "Parasailing",
+      "Href": "/wiki/Parasailing"
+    },
+    {
+      "Name": "Snow kiting",
+      "Href": "/wiki/Snow_kiting"
+    },
+    {
+      "Name": "Sport kite",
+      "Href": "/wiki/Sport_kite"
+    }
+  ],
+  "Marker sports": [
+    {
+      "Name": "Airsoft",
+      "Href": "/wiki/Airsoft"
+    },
+    {
+      "Name": "Archery",
+      "Href": "/wiki/Archery"
+    },
+    {
+      "Name": "Paintball",
+      "Href": "/wiki/Paintball"
+    },
+    {
+      "Name": "Darts",
+      "Href": "/wiki/Darts"
+    }
+  ],
+  "Miscellaneous sports": [
+    {
+      "Name": "Arctic sports",
+      "Href": "/wiki/Arctic_sports"
+    },
+    {
+      "Name": "Cheese rolling",
+      "Href": "/wiki/Cooper%27s_Hill_Cheese-Rolling_and_Wake"
+    },
+    {
+      "Name": "Chess boxing",
+      "Href": "/wiki/Chess_boxing"
+    },
+    {
+      "Name": "Chicken fight",
+      "Href": "/wiki/Chicken_fight"
+    },
+    {
+      "Name": "Competitive eating",
+      "Href": "/wiki/Competitive_eating"
+    },
+    {
+      "Name": "Conker fighting",
+      "Href": "/wiki/World_Conker_Championships"
+    },
+    {
+      "Name": "Egg and spoon race",
+      "Href": "/wiki/Egg_and_spoon_race"
+    },
+    {
+      "Name": "Extreme ironing",
+      "Href": "/wiki/Extreme_ironing"
+    },
+    {
+      "Name": "Ferret legging",
+      "Href": "/wiki/Ferret_legging"
+    },
+    {
+      "Name": "Fierljeppen",
+      "Href": "/wiki/Fierljeppen"
+    },
+    {
+      "Name": "Footbag",
+      "Href": "/wiki/Footbag"
+    },
+    {
+      "Name": "Haggis hurling",
+      "Href": "/wiki/Haggis_hurling"
+    },
+    {
+      "Name": "Jegichagi",
+      "Href": "/wiki/Jegichagi"
+    },
+    {
+      "Name": "Lawn mower racing",
+      "Href": "/wiki/Lawn_mower_racing"
+    },
+    {
+      "Name": "Lumberjack sports",
+      "Href": "/wiki/Lumberjack#Loggersports"
+    },
+    {
+      "Name": "Aizkolaritza",
+      "Href": "/wiki/Aizkolaritza"
+    },
+    {
+      "Name": "Axe throwing",
+      "Href": "/wiki/Axe_throwing"
+    },
+    {
+      "Name": "Logrolling",
+      "Href": "/wiki/Logrolling_(sport)"
+    },
+    {
+      "Name": "Wood chopping",
+      "Href": "/wiki/Wood_chopping"
+    },
+    {
+      "Name": "Wood splitting",
+      "Href": "/wiki/Wood_splitting"
+    },
+    {
+      "Name": "Drum Corps",
+      "Href": "/wiki/Drum_and_bugle_corps_(modern)"
+    },
+    {
+      "Name": "Object spinning",
+      "Href": ""
+    },
+    {
+      "Name": "Padiddling",
+      "Href": "/wiki/Padiddling"
+    },
+    {
+      "Name": "Plate spinning",
+      "Href": "/wiki/Plate_spinning"
+    },
+    {
+      "Name": "Top",
+      "Href": "/wiki/Top"
+    },
+    {
+      "Name": "Patball",
+      "Href": "/wiki/Patball"
+    },
+    {
+      "Name": "Pea shooting",
+      "Href": "/wiki/World_Pea_Shooting_Championships"
+    },
+    {
+      "Name": "Ring-goal",
+      "Href": "/wiki/Ring-goal"
+    },
+    {
+      "Name": "Ringette",
+      "Href": "/wiki/Ringette"
+    },
+    {
+      "Name": "Sack race",
+      "Href": "/wiki/Sack_race"
+    },
+    {
+      "Name": "Soap shoes",
+      "Href": "/wiki/Soap_shoes"
+    },
+    {
+      "Name": "Tennikoit",
+      "Href": "/wiki/Tennikoit"
+    },
+    {
+      "Name": "Tetherball",
+      "Href": "/wiki/Tetherball"
+    },
+    {
+      "Name": "Three-legged race",
+      "Href": "/wiki/Three-legged_race"
+    },
+    {
+      "Name": "Wallball",
+      "Href": "/wiki/Wallball_(children%27s_game)"
+    },
+    {
+      "Name": "Wife-carrying",
+      "Href": "/wiki/Wife-carrying"
+    },
+    {
+      "Name": "Yoyoing",
+      "Href": "/wiki/Yoyoing"
+    },
+    {
+      "Name": "Singing",
+      "Href": "/wiki/Singing"
+    },
+    {
+      "Name": "Marching Band",
+      "Href": "/wiki/Marching_Band"
+    }
+  ],
+  "Mixed discipline": [
+    {
+      "Name": "Adventure racing",
+      "Href": "/wiki/Adventure_racing"
+    },
+    {
+      "Name": "Aquathlon",
+      "Href": "/wiki/Aquathlon"
+    },
+    {
+      "Name": "Biathlon",
+      "Href": "/wiki/Biathlon"
+    },
+    {
+      "Name": "Duathlon",
+      "Href": "/wiki/Duathlon"
+    },
+    {
+      "Name": "Decathlon",
+      "Href": "/wiki/Decathlon"
+    },
+    {
+      "Name": "Heptathlon",
+      "Href": "/wiki/Heptathlon"
+    },
+    {
+      "Name": "Icosathlon",
+      "Href": "/wiki/Icosathlon"
+    },
+    {
+      "Name": "Modern pentathlon",
+      "Href": "/wiki/Modern_pentathlon"
+    },
+    {
+      "Name": "Pentathlon",
+      "Href": "/wiki/Pentathlon"
+    },
+    {
+      "Name": "Tetrathlon",
+      "Href": "/wiki/Tetrathlon"
+    },
+    {
+      "Name": "Triathlon",
+      "Href": "/wiki/Triathlon"
+    }
+  ],
+  "Motorized sports": [
+    {
+      "Name": "Autocross",
+      "Href": "/wiki/Autocross"
+    },
+    {
+      "Name": "Autograss",
+      "Href": "/wiki/Autograss"
+    },
+    {
+      "Name": "Banger racing",
+      "Href": "/wiki/Banger_racing"
+    },
+    {
+      "Name": "Board track racing",
+      "Href": "/wiki/Board_track_racing"
+    },
+    {
+      "Name": "Demolition derby",
+      "Href": "/wiki/Demolition_derby"
+    },
+    {
+      "Name": "Desert racing",
+      "Href": "/wiki/Desert_racing"
+    },
+    {
+      "Name": "Dirt track racing",
+      "Href": "/wiki/Dirt_track_racing"
+    },
+    {
+      "Name": "Drag racing",
+      "Href": "/wiki/Drag_racing"
+    },
+    {
+      "Name": "Drifting",
+      "Href": "/wiki/Drifting_(motorsport)"
+    },
+    {
+      "Name": "Endurance racing",
+      "Href": "/wiki/Endurance_racing_(motorsport)"
+    },
+    {
+      "Name": "Folkrace",
+      "Href": "/wiki/Folkrace"
+    },
+    {
+      "Name": "Formula racing",
+      "Href": "/wiki/Formula_racing"
+    },
+    {
+      "Name": "Formula Libre",
+      "Href": "/wiki/Formula_Libre"
+    },
+    {
+      "Name": "Formula Student",
+      "Href": "/wiki/Formula_Student"
+    },
+    {
+      "Name": "Hillclimbing",
+      "Href": "/wiki/Hillclimbing"
+    },
+    {
+      "Name": "Ice racing",
+      "Href": "/wiki/Ice_racing"
+    },
+    {
+      "Name": "Kart racing",
+      "Href": "/wiki/Kart_racing"
+    },
+    {
+      "Name": "Land speed records",
+      "Href": "/wiki/Land_speed_records"
+    },
+    {
+      "Name": "Legends car racing",
+      "Href": "/wiki/Legends_car_racing"
+    },
+    {
+      "Name": "Midget car racing",
+      "Href": "/wiki/Midget_car_racing"
+    },
+    {
+      "Name": "Monster truck",
+      "Href": "/wiki/Monster_truck"
+    },
+    {
+      "Name": "Mud bogging",
+      "Href": "/wiki/Mud_bogging"
+    },
+    {
+      "Name": "Off-road racing",
+      "Href": "/wiki/Off-road_racing"
+    },
+    {
+      "Name": "Pickup truck racing",
+      "Href": "/wiki/Pickup_truck_racing"
+    },
+    {
+      "Name": "Production car racing",
+      "Href": "/wiki/Production_car_racing"
+    },
+    {
+      "Name": "Race of Champions",
+      "Href": "/wiki/Race_of_Champions"
+    },
+    {
+      "Name": "Rally raid",
+      "Href": "/wiki/Rally_raid"
+    },
+    {
+      "Name": "Rallycross",
+      "Href": "/wiki/Rallycross"
+    },
+    {
+      "Name": "Rallying",
+      "Href": "/wiki/Rallying"
+    },
+    {
+      "Name": "Regularity rally",
+      "Href": "/wiki/Regularity_rally"
+    },
+    {
+      "Name": "Road racing",
+      "Href": "/wiki/Road_racing"
+    },
+    {
+      "Name": "Short track motor racing",
+      "Href": "/wiki/Short_track_motor_racing"
+    },
+    {
+      "Name": "Snowmobile racing",
+      "Href": "/wiki/Snowmobile#Types_of_races"
+    },
+    {
+      "Name": "Sports car racing",
+      "Href": "/wiki/Sports_car_racing"
+    },
+    {
+      "Name": "Sprint car racing",
+      "Href": "/wiki/Sprint_car_racing"
+    },
+    {
+      "Name": "Street racing",
+      "Href": "/wiki/Street_racing"
+    },
+    {
+      "Name": "Stock car racing",
+      "Href": "/wiki/Stock_car_racing"
+    },
+    {
+      "Name": "Time attack",
+      "Href": "/wiki/Time_attack"
+    },
+    {
+      "Name": "Tractor pulling",
+      "Href": "/wiki/Tractor_pulling"
+    },
+    {
+      "Name": "Touring car racing",
+      "Href": "/wiki/Touring_car_racing"
+    },
+    {
+      "Name": "Truck racing",
+      "Href": "/wiki/Truck_racing"
+    },
+    {
+      "Name": "Vintage racing",
+      "Href": "/wiki/Historic_motorsport"
+    },
+    {
+      "Name": "Wheelstand competition",
+      "Href": "/wiki/Wheelstand_competition"
+    },
+    {
+      "Name": "Drag boat racing",
+      "Href": "/wiki/Drag_boat_racing"
+    },
+    {
+      "Name": "F1 powerboat racing",
+      "Href": "/wiki/F1_Powerboat_World_Championship"
+    },
+    {
+      "Name": "Hydroplane racing",
+      "Href": "/wiki/Hydroplane_racing"
+    },
+    {
+      "Name": "Jet sprint boat racing",
+      "Href": "/wiki/Jet_sprint_boat_racing"
+    },
+    {
+      "Name": "Offshore powerboat racing",
+      "Href": "/wiki/Offshore_powerboat_racing"
+    },
+    {
+      "Name": "Personal water craft",
+      "Href": "/wiki/Personal_water_craft"
+    },
+    {
+      "Name": "Auto Race",
+      "Href": "/wiki/Auto_Race_(Japanese_sport)"
+    },
+    {
+      "Name": "Board track racing",
+      "Href": "/wiki/Board_track_racing"
+    },
+    {
+      "Name": "Cross-country rally",
+      "Href": "/wiki/Cross-country_rally"
+    },
+    {
+      "Name": "Endurance racing",
+      "Href": "/wiki/Endurance_racing_(motorsport)"
+    },
+    {
+      "Name": "Enduro",
+      "Href": "/wiki/Enduro"
+    },
+    {
+      "Name": "Freestyle motocross",
+      "Href": "/wiki/Freestyle_Motocross"
+    },
+    {
+      "Name": "Grand Prix motorcycle racing",
+      "Href": "/wiki/Grand_Prix_motorcycle_racing"
+    },
+    {
+      "Name": "Grasstrack",
+      "Href": "/wiki/Grasstrack"
+    },
+    {
+      "Name": "Hillclimbing",
+      "Href": "/wiki/Hillclimbing"
+    },
+    {
+      "Name": "Ice racing",
+      "Href": "/wiki/Ice_racing"
+    },
+    {
+      "Name": "Ice speedway",
+      "Href": "/wiki/Ice_speedway"
+    },
+    {
+      "Name": "Indoor enduro",
+      "Href": "/wiki/Indoor_enduro"
+    },
+    {
+      "Name": "Motocross",
+      "Href": "/wiki/Motocross"
+    },
+    {
+      "Name": "Motorcycle drag racing",
+      "Href": "/wiki/Motorcycle_drag_racing"
+    },
+    {
+      "Name": "Motorcycle speedway",
+      "Href": "/wiki/Motorcycle_speedway"
+    },
+    {
+      "Name": "Off-roading",
+      "Href": "/wiki/Off-roading"
+    },
+    {
+      "Name": "Rally raid",
+      "Href": "/wiki/Rally_raid"
+    },
+    {
+      "Name": "Road racing",
+      "Href": "/wiki/Road_racing"
+    },
+    {
+      "Name": "Superbike racing",
+      "Href": "/wiki/Superbike_racing"
+    },
+    {
+      "Name": "Supercross",
+      "Href": "/wiki/Supercross"
+    },
+    {
+      "Name": "Supermoto",
+      "Href": "/wiki/Supermoto"
+    },
+    {
+      "Name": "Supersport racing",
+      "Href": "/wiki/Super_sport_(motorcycle)"
+    },
+    {
+      "Name": "Sidecar racing",
+      "Href": "/wiki/Sidecar#Sport"
+    },
+    {
+      "Name": "Track racing",
+      "Href": "/wiki/Track_racing"
+    },
+    {
+      "Name": "Trial",
+      "Href": "/wiki/Motorcycle_trials"
+    },
+    {
+      "Name": "TT racing",
+      "Href": "/wiki/Isle_of_Man_TT"
+    },
+    {
+      "Name": "Free-style moto",
+      "Href": "/wiki/Freestyle_Motocross"
+    },
+    {
+      "Name": "All-terrain vehicle competition",
+      "Href": "/wiki/All-terrain_vehicle#Sport_competition"
+    }
+  ],
+  "Orienteering family": [
+    {
+      "Name": " Amateur radio direction finding (Radio Orienteering)",
+      "Href": "/wiki/Amateur_radio_direction_finding"
+    },
+    {
+      "Name": "Geocaching",
+      "Href": "/wiki/Geocaching"
+    },
+    {
+      "Name": "Geohashing",
+      "Href": "/wiki/Geohashing"
+    },
+    {
+      "Name": "Letterboxing",
+      "Href": "/wiki/Letterboxing_(hobby)"
+    },
+    {
+      "Name": "Orienteering",
+      "Href": "/wiki/Orienteering"
+    },
+    {
+      "Name": "Rogaining",
+      "Href": "/wiki/Rogaining"
+    },
+    {
+      "Name": "Waymarking",
+      "Href": "/wiki/Waymarking"
+    }
+  ],
+  "Other": [
+    {
+      "Name": "Redneck Games",
+      "Href": "/wiki/Redneck_Games"
+    },
+    {
+      "Name": "Stihl Timbersports Series",
+      "Href": "/wiki/Stihl_Timbersports_Series"
+    },
+    {
+      "Name": "Ultimate Tazer Ball",
+      "Href": "/wiki/Ultimate_Tazer_Ball"
+    },
+    {
+      "Name": "Woodsman",
+      "Href": "/wiki/Woodsman"
+    },
+    {
+      "Name": "Competitive Programming",
+      "Href": "/wiki/Competitive_programming"
+    },
+    {
+      "Name": "Debating",
+      "Href": "/wiki/Debating"
+    },
+    {
+      "Name": "Fantasy sports",
+      "Href": "/wiki/Fantasy_sport"
+    },
+    {
+      "Name": "Quizzing",
+      "Href": "/wiki/Quizzing"
+    }
+  ],
+  "Overlapping sports": [
+    {
+      "Name": "Tennis",
+      "Href": "/wiki/Tennis"
+    },
+    {
+      "Name": "Polocrosse",
+      "Href": "/wiki/Polocrosse"
+    },
+    {
+      "Name": "Badminton",
+      "Href": "/wiki/Badminton"
+    },
+    {
+      "Name": "Polo",
+      "Href": "/wiki/Polo"
+    },
+    {
+      "Name": "Chess Boxing",
+      "Href": "/wiki/Chess_Boxing"
+    }
+  ],
+  "Pilota family": [
+    {
+      "Name": "American handball",
+      "Href": "/wiki/American_handball"
+    },
+    {
+      "Name": "Australian handball",
+      "Href": "/wiki/Australian_handball"
+    },
+    {
+      "Name": "Basque pelota",
+      "Href": "/wiki/Basque_pelota"
+    },
+    {
+      "Name": "Jai alai",
+      "Href": "/wiki/Jai_alai"
+    },
+    {
+      "Name": "Fives",
+      "Href": "/wiki/Fives"
+    },
+    {
+      "Name": "Eton Fives",
+      "Href": "/wiki/Eton_Fives"
+    },
+    {
+      "Name": "Rugby Fives",
+      "Href": "/wiki/Rugby_Fives"
+    },
+    {
+      "Name": "Frisian handball",
+      "Href": "/wiki/Frisian_handball"
+    },
+    {
+      "Name": "Four square",
+      "Href": "/wiki/Four_square"
+    },
+    {
+      "Name": "Gaelic handball",
+      "Href": "/wiki/Gaelic_handball"
+    },
+    {
+      "Name": "Jeu de paume",
+      "Href": "/wiki/Jeu_de_paume"
+    },
+    {
+      "Name": "Longue paume",
+      "Href": "/wiki/Longue_paume"
+    },
+    {
+      "Name": "Palla",
+      "Href": "/wiki/Palla"
+    },
+    {
+      "Name": "Pallone",
+      "Href": "/wiki/Pallone"
+    },
+    {
+      "Name": "Patball",
+      "Href": "/wiki/Patball"
+    },
+    {
+      "Name": "Roundnet",
+      "Href": "/wiki/Roundnet"
+    },
+    {
+      "Name": "Valencian pilota",
+      "Href": "/wiki/Valencian_pilota"
+    },
+    {
+      "Name": "Llargues",
+      "Href": "/wiki/Llargues"
+    },
+    {
+      "Name": "Freerunning",
+      "Href": "/wiki/Freerunning"
+    },
+    {
+      "Name": "Martial Arts Tricking",
+      "Href": "/wiki/Tricking_(martial_arts)"
+    },
+    {
+      "Name": "Ninja Warrior",
+      "Href": "/wiki/Ninja_Warrior"
+    },
+    {
+      "Name": "OCR",
+      "Href": "/wiki/Obstacle_racing"
+    },
+    {
+      "Name": "Parkour",
+      "Href": "/wiki/Parkour"
+    },
+    {
+      "Name": "Trampolining",
+      "Href": "/wiki/Trampolining"
+    },
+    {
+      "Name": "World Chase Tag",
+      "Href": "/wiki/World_Chase_Tag"
+    },
+    {
+      "Name": "Badminton",
+      "Href": "/wiki/Badminton"
+    },
+    {
+      "Name": "Ball badminton",
+      "Href": "/wiki/Ball_badminton"
+    },
+    {
+      "Name": "Basque pelota",
+      "Href": "/wiki/Basque_pelota"
+    },
+    {
+      "Name": "Frontenis",
+      "Href": "/wiki/Frontenis"
+    },
+    {
+      "Name": "Xare",
+      "Href": "/wiki/Basque_pelota#Xare"
+    },
+    {
+      "Name": "Battledore and shuttlecock",
+      "Href": "/wiki/Battledore_and_shuttlecock"
+    },
+    {
+      "Name": "Beach tennis",
+      "Href": "/wiki/Beach_tennis"
+    },
+    {
+      "Name": "Cricket",
+      "Href": "/wiki/Cricket"
+    },
+    {
+      "Name": "Crossminton",
+      "Href": "/wiki/Crossminton"
+    },
+    {
+      "Name": "The Downside Ball Game",
+      "Href": "/wiki/The_Downside_Ball_Game"
+    },
+    {
+      "Name": "Four wall paddleball",
+      "Href": "/wiki/Four_wall_paddleball"
+    },
+    {
+      "Name": "Matkot",
+      "Href": "/wiki/Matkot"
+    },
+    {
+      "Name": "Miniten",
+      "Href": "/wiki/Miniten"
+    },
+    {
+      "Name": "One wall paddleball",
+      "Href": "/wiki/One_wall_paddleball"
+    },
+    {
+      "Name": "Paddle ball",
+      "Href": "/wiki/Paddle_ball_(sport)"
+    },
+    {
+      "Name": "Paddle tennis",
+      "Href": "/wiki/Paddle_tennis"
+    },
+    {
+      "Name": "Padel",
+      "Href": "/wiki/Padel_(sport)"
+    },
+    {
+      "Name": "Pan Pong",
+      "Href": "/wiki/Pan_Pong"
+    },
+    {
+      "Name": "Paleta Frontón",
+      "Href": "/wiki/Paleta_Front%C3%B3n"
+    },
+    {
+      "Name": "Pelota mixteca",
+      "Href": "/wiki/Pelota_mixteca"
+    },
+    {
+      "Name": "Pickleball",
+      "Href": "/wiki/Pickleball"
+    },
+    {
+      "Name": "Pitton",
+      "Href": "/wiki/Pitton_(sport)"
+    },
+    {
+      "Name": "Platform tennis",
+      "Href": "/wiki/Platform_tennis"
+    },
+    {
+      "Name": "Qianball",
+      "Href": "/wiki/Qianball"
+    },
+    {
+      "Name": "Racketlon",
+      "Href": "/wiki/Racketlon"
+    },
+    {
+      "Name": "Rackets",
+      "Href": "/wiki/Rackets_(sport)"
+    },
+    {
+      "Name": "Racquetball",
+      "Href": "/wiki/Racquetball"
+    },
+    {
+      "Name": "Real tennis",
+      "Href": "/wiki/Real_tennis"
+    },
+    {
+      "Name": "Road tennis",
+      "Href": "/wiki/Road_tennis"
+    },
+    {
+      "Name": "Soft tennis",
+      "Href": "/wiki/Soft_tennis"
+    },
+    {
+      "Name": "Speed-ball",
+      "Href": "/wiki/Speed-ball"
+    },
+    {
+      "Name": "Sphairee",
+      "Href": "/wiki/Sphairee"
+    },
+    {
+      "Name": "Squash",
+      "Href": "/wiki/Squash_(sport)"
+    },
+    {
+      "Name": "Hardball squash",
+      "Href": "/wiki/Hardball_squash"
+    },
+    {
+      "Name": "Squash tennis",
+      "Href": "/wiki/Squash_tennis"
+    },
+    {
+      "Name": "Stické",
+      "Href": "/wiki/Stick%C3%A9"
+    },
+    {
+      "Name": "Street Racket",
+      "Href": ""
+    },
+    {
+      "Name": "Table squash",
+      "Href": "/wiki/Table_squash"
+    },
+    {
+      "Name": "Table tennis",
+      "Href": "/wiki/Table_tennis"
+    },
+    {
+      "Name": "Tennis",
+      "Href": "/wiki/Tennis"
+    },
+    {
+      "Name": "Tennis polo",
+      "Href": "/wiki/Tennis_polo"
+    }
+  ],
+  "References": [
+    {
+      "Name": "span",
+      "Href": ""
+    },
+    {
+      "Name": "abbr",
+      "Href": "/wiki/Template:Olympic_Games"
+    },
+    {
+      "Name": "abbr",
+      "Href": "/wiki/Template_talk:Olympic_Games"
+    },
+    {
+      "Name": "abbr",
+      "Href": "https://en.wikipedia.org/w/index.php?title=Template:Olympic_Games\u0026action=edit"
+    },
+    {
+      "Name": "Ceremonies",
+      "Href": "/wiki/Olympic_Games_ceremony"
+    },
+    {
+      "Name": "People who opened the Olympics",
+      "Href": "/wiki/List_of_people_who_have_opened_the_Olympic_Games"
+    },
+    {
+      "Name": "Keepers of the Olympic flag",
+      "Href": "/wiki/List_of_people_who_have_kept_the_Olympic_flag"
+    },
+    {
+      "Name": "Charter",
+      "Href": "/wiki/Olympic_Charter"
+    },
+    {
+      "Name": "Participating nations",
+      "Href": ""
+    },
+    {
+      "Name": "Summer Olympics",
+      "Href": "/wiki/List_of_participating_nations_at_the_Summer_Olympic_Games"
+    },
+    {
+      "Name": "Winter Olympics",
+      "Href": "/wiki/List_of_participating_nations_at_the_Winter_Olympic_Games"
+    },
+    {
+      "Name": "Host cities",
+      "Href": "/wiki/List_of_Olympic_Games_host_cities"
+    },
+    {
+      "Name": "Bids",
+      "Href": "/wiki/Bids_for_Olympic_Games"
+    },
+    {
+      "Name": "Venues",
+      "Href": "/wiki/List_of_Olympic_venues"
+    },
+    {
+      "Name": "IOC",
+      "Href": "/wiki/International_Olympic_Committee"
+    },
+    {
+      "Name": "NOCs",
+      "Href": "/wiki/National_Olympic_Committee"
+    },
+    {
+      "Name": "Country codes",
+      "Href": "/wiki/List_of_IOC_country_codes"
+    },
+    {
+      "Name": "Medal",
+      "Href": "/wiki/Olympic_medal"
+    },
+    {
+      "Name": "Medal tables",
+      "Href": "/wiki/All-time_Olympic_Games_medal_table"
+    },
+    {
+      "Name": "Medal table leaders by year",
+      "Href": "/wiki/List_of_Olympic_teams_by_medals_won"
+    },
+    {
+      "Name": "Medalists",
+      "Href": "/wiki/Lists_of_Olympic_medalists"
+    },
+    {
+      "Name": "Ties",
+      "Href": "/wiki/List_of_ties_for_medals_at_the_Olympics"
+    },
+    {
+      "Name": "Diploma",
+      "Href": "/wiki/Olympic_diploma"
+    },
+    {
+      "Name": "Scandals and controversies",
+      "Href": "/wiki/List_of_Olympic_Games_scandals_and_controversies"
+    },
+    {
+      "Name": "Colonialism",
+      "Href": "/wiki/Colonialism_and_the_Olympic_Games"
+    },
+    {
+      "Name": "Doping",
+      "Href": "/wiki/Doping_at_the_Olympic_Games"
+    },
+    {
+      "Name": "Sports",
+      "Href": "/wiki/Olympic_sports"
+    },
+    {
+      "Name": "Symbols",
+      "Href": "/wiki/Olympic_symbols"
+    },
+    {
+      "Name": "Torch relays",
+      "Href": "/wiki/List_of_Olympic_torch_relays"
+    },
+    {
+      "Name": "Pierre de Coubertin medal",
+      "Href": "/wiki/Pierre_de_Coubertin_medal"
+    },
+    {
+      "Name": "Women",
+      "Href": "/wiki/Participation_of_women_in_the_Olympics"
+    },
+    {
+      "Name": "Deaths",
+      "Href": "/wiki/Olympic_and_Paralympic_deaths"
+    },
+    {
+      "Name": "WWI",
+      "Href": "/wiki/List_of_Olympians_killed_in_World_War_I"
+    },
+    {
+      "Name": "WWII",
+      "Href": "/wiki/List_of_Olympians_killed_in_World_War_II"
+    },
+    {
+      "Name": "Olympic video games",
+      "Href": "/wiki/Olympic_video_games"
+    },
+    {
+      "Name": "1896 Athens",
+      "Href": "/wiki/1896_Summer_Olympics"
+    },
+    {
+      "Name": "1900 Paris",
+      "Href": "/wiki/1900_Summer_Olympics"
+    },
+    {
+      "Name": "1904 St. Louis",
+      "Href": "/wiki/1904_Summer_Olympics"
+    },
+    {
+      "Name": "1908 London",
+      "Href": "/wiki/1908_Summer_Olympics"
+    },
+    {
+      "Name": "1912 Stockholm",
+      "Href": "/wiki/1912_Summer_Olympics"
+    },
+    {
+      "Name": "span",
+      "Href": "/wiki/1916_Summer_Olympics"
+    },
+    {
+      "Name": "1920 Antwerp",
+      "Href": "/wiki/1920_Summer_Olympics"
+    },
+    {
+      "Name": "1924 Paris",
+      "Href": "/wiki/1924_Summer_Olympics"
+    },
+    {
+      "Name": "1928 Amsterdam",
+      "Href": "/wiki/1928_Summer_Olympics"
+    },
+    {
+      "Name": "1932 Los Angeles",
+      "Href": "/wiki/1932_Summer_Olympics"
+    },
+    {
+      "Name": "1936 Berlin",
+      "Href": "/wiki/1936_Summer_Olympics"
+    },
+    {
+      "Name": "span",
+      "Href": "/wiki/1940_Summer_Olympics"
+    },
+    {
+      "Name": "span",
+      "Href": "/wiki/1944_Summer_Olympics"
+    },
+    {
+      "Name": "1948 London",
+      "Href": "/wiki/1948_Summer_Olympics"
+    },
+    {
+      "Name": "1952 Helsinki",
+      "Href": "/wiki/1952_Summer_Olympics"
+    },
+    {
+      "Name": "1956 Melbourne",
+      "Href": "/wiki/1956_Summer_Olympics"
+    },
+    {
+      "Name": "1960 Rome",
+      "Href": "/wiki/1960_Summer_Olympics"
+    },
+    {
+      "Name": "1964 Tokyo",
+      "Href": "/wiki/1964_Summer_Olympics"
+    },
+    {
+      "Name": "1968 Mexico City",
+      "Href": "/wiki/1968_Summer_Olympics"
+    },
+    {
+      "Name": "1972 Munich",
+      "Href": "/wiki/1972_Summer_Olympics"
+    },
+    {
+      "Name": "1976 Montreal",
+      "Href": "/wiki/1976_Summer_Olympics"
+    },
+    {
+      "Name": "1980 Moscow",
+      "Href": "/wiki/1980_Summer_Olympics"
+    },
+    {
+      "Name": "1984 Los Angeles",
+      "Href": "/wiki/1984_Summer_Olympics"
+    },
+    {
+      "Name": "1988 Seoul",
+      "Href": "/wiki/1988_Summer_Olympics"
+    },
+    {
+      "Name": "1992 Barcelona",
+      "Href": "/wiki/1992_Summer_Olympics"
+    },
+    {
+      "Name": "1996 Atlanta",
+      "Href": "/wiki/1996_Summer_Olympics"
+    },
+    {
+      "Name": "2000 Sydney",
+      "Href": "/wiki/2000_Summer_Olympics"
+    },
+    {
+      "Name": "2004 Athens",
+      "Href": "/wiki/2004_Summer_Olympics"
+    },
+    {
+      "Name": "2008 Beijing",
+      "Href": "/wiki/2008_Summer_Olympics"
+    },
+    {
+      "Name": "2012 London",
+      "Href": "/wiki/2012_Summer_Olympics"
+    },
+    {
+      "Name": "2016 Rio de Janeiro",
+      "Href": "/wiki/2016_Summer_Olympics"
+    },
+    {
+      "Name": "2020 Tokyo",
+      "Href": "/wiki/2020_Summer_Olympics"
+    },
+    {
+      "Name": "i",
+      "Href": ""
+    },
+    {
+      "Name": "i",
+      "Href": ""
+    },
+    {
+      "Name": "i",
+      "Href": ""
+    },
+    {
+      "Name": "i",
+      "Href": ""
+    },
+    {
+      "Name": "1924 Chamonix",
+      "Href": "/wiki/1924_Winter_Olympics"
+    },
+    {
+      "Name": "1928 St. Moritz",
+      "Href": "/wiki/1928_Winter_Olympics"
+    },
+    {
+      "Name": "1932 Lake Placid",
+      "Href": "/wiki/1932_Winter_Olympics"
+    },
+    {
+      "Name": "1936 Garmisch-Partenkirchen",
+      "Href": "/wiki/1936_Winter_Olympics"
+    },
+    {
+      "Name": "span",
+      "Href": "/wiki/1940_Winter_Olympics"
+    },
+    {
+      "Name": "span",
+      "Href": "/wiki/1944_Winter_Olympics"
+    },
+    {
+      "Name": "1948 St. Moritz",
+      "Href": "/wiki/1948_Winter_Olympics"
+    },
+    {
+      "Name": "1952 Oslo",
+      "Href": "/wiki/1952_Winter_Olympics"
+    },
+    {
+      "Name": "1956 Cortina d'Ampezzo",
+      "Href": "/wiki/1956_Winter_Olympics"
+    },
+    {
+      "Name": "1960 Squaw Valley",
+      "Href": "/wiki/1960_Winter_Olympics"
+    },
+    {
+      "Name": "1964 Innsbruck",
+      "Href": "/wiki/1964_Winter_Olympics"
+    },
+    {
+      "Name": "1968 Grenoble",
+      "Href": "/wiki/1968_Winter_Olympics"
+    },
+    {
+      "Name": "1972 Sapporo",
+      "Href": "/wiki/1972_Winter_Olympics"
+    },
+    {
+      "Name": "1976 Innsbruck",
+      "Href": "/wiki/1976_Winter_Olympics"
+    },
+    {
+      "Name": "1980 Lake Placid",
+      "Href": "/wiki/1980_Winter_Olympics"
+    },
+    {
+      "Name": "1984 Sarajevo",
+      "Href": "/wiki/1984_Winter_Olympics"
+    },
+    {
+      "Name": "1988 Calgary",
+      "Href": "/wiki/1988_Winter_Olympics"
+    },
+    {
+      "Name": "1992 Albertville",
+      "Href": "/wiki/1992_Winter_Olympics"
+    },
+    {
+      "Name": "1994 Lillehammer",
+      "Href": "/wiki/1994_Winter_Olympics"
+    },
+    {
+      "Name": "1998 Nagano",
+      "Href": "/wiki/1998_Winter_Olympics"
+    },
+    {
+      "Name": "2002 Salt Lake City",
+      "Href": "/wiki/2002_Winter_Olympics"
+    },
+    {
+      "Name": "2006 Turin",
+      "Href": "/wiki/2006_Winter_Olympics"
+    },
+    {
+      "Name": "2010 Vancouver",
+      "Href": "/wiki/2010_Winter_Olympics"
+    },
+    {
+      "Name": "2014 Sochi",
+      "Href": "/wiki/2014_Winter_Olympics"
+    },
+    {
+      "Name": "2018 Pyeongchang",
+      "Href": "/wiki/2018_Winter_Olympics"
+    },
+    {
+      "Name": "i",
+      "Href": ""
+    },
+    {
+      "Name": "i",
+      "Href": ""
+    },
+    {
+      "Name": "i",
+      "Href": ""
+    },
+    {
+      "Name": "sup",
+      "Href": ""
+    },
+    {
+      "Name": "sup",
+      "Href": ""
+    },
+    {
+      "Name": "sup",
+      "Href": ""
+    },
+    {
+      "Name": "Ancient Olympic Games",
+      "Href": "/wiki/Ancient_Olympic_Games"
+    },
+    {
+      "Name": "Intercalated Games",
+      "Href": "/wiki/Intercalated_Games"
+    },
+    {
+      "Name": "1906",
+      "Href": "/wiki/1906_Intercalated_Games"
+    },
+    {
+      "Name": "Paralympic Games",
+      "Href": "/wiki/Paralympic_Games"
+    },
+    {
+      "Name": "Youth Olympic Games",
+      "Href": "/wiki/Youth_Olympic_Games"
+    },
+    {
+      "Name": "img",
+      "Href": "/wiki/File:Olympic_Rings.svg"
+    },
+    {
+      "Name": "abbr",
+      "Href": "/wiki/Template:Team_sports"
+    },
+    {
+      "Name": "abbr",
+      "Href": "/wiki/Template_talk:Team_sports"
+    },
+    {
+      "Name": "abbr",
+      "Href": "https://en.wikipedia.org/w/index.php?title=Template:Team_sports\u0026action=edit"
+    },
+    {
+      "Name": "Sport",
+      "Href": "/wiki/Sport"
+    },
+    {
+      "Name": "Governing bodies",
+      "Href": "/wiki/Sports_governing_body"
+    },
+    {
+      "Name": "Sportspeople",
+      "Href": "/wiki/Lists_of_sportspeople"
+    },
+    {
+      "Name": "National sport",
+      "Href": "/wiki/National_sport"
+    },
+    {
+      "Name": "Basketball",
+      "Href": "/wiki/Basketball"
+    },
+    {
+      "Name": "beach",
+      "Href": "/wiki/Beach_basketball"
+    },
+    {
+      "Name": "deaf",
+      "Href": "/wiki/Deaf_basketball"
+    },
+    {
+      "Name": "3x3",
+      "Href": "/wiki/3x3_basketball"
+    },
+    {
+      "Name": "water",
+      "Href": "/wiki/Water_basketball"
+    },
+    {
+      "Name": "wheelchair",
+      "Href": "/wiki/Wheelchair_basketball"
+    },
+    {
+      "Name": "Cestoball",
+      "Href": "/wiki/Cestoball"
+    },
+    {
+      "Name": "Korfball",
+      "Href": "/wiki/Korfball"
+    },
+    {
+      "Name": "Netball",
+      "Href": "/wiki/Netball"
+    },
+    {
+      "Name": "Fast5",
+      "Href": "/wiki/Fast5_netball"
+    },
+    {
+      "Name": "indoor",
+      "Href": "/wiki/Indoor_netball"
+    },
+    {
+      "Name": "wheelchair",
+      "Href": "/wiki/Wheelchair_netball"
+    },
+    {
+      "Name": "Rezball",
+      "Href": "/wiki/Rezball"
+    },
+    {
+      "Name": "Ringball",
+      "Href": "/wiki/Ringball"
+    },
+    {
+      "Name": "Slamball",
+      "Href": "/wiki/Slamball"
+    },
+    {
+      "Name": "Association football",
+      "Href": "/wiki/Association_football"
+    },
+    {
+      "Name": "amputee",
+      "Href": "/wiki/Amputee_football"
+    },
+    {
+      "Name": "beach",
+      "Href": "/wiki/Beach_soccer"
+    },
+    {
+      "Name": "freestyle",
+      "Href": "/wiki/Freestyle_football"
+    },
+    {
+      "Name": "Futsal",
+      "Href": "/wiki/Futsal"
+    },
+    {
+      "Name": "indoor",
+      "Href": "/wiki/Indoor_soccer"
+    },
+    {
+      "Name": "Jorkyball",
+      "Href": "/wiki/Jorkyball"
+    },
+    {
+      "Name": "paralympic",
+      "Href": "/wiki/Paralympic_association_football"
+    },
+    {
+      "Name": "powerchair",
+      "Href": "/wiki/Powerchair_Football"
+    },
+    {
+      "Name": "roller",
+      "Href": "/wiki/Roller_soccer"
+    },
+    {
+      "Name": "street",
+      "Href": "/wiki/Street_football"
+    },
+    {
+      "Name": "Gol Koochik",
+      "Href": "/wiki/Gol_Koochik"
+    },
+    {
+      "Name": "walking",
+      "Href": "/wiki/Walking_football"
+    },
+    {
+      "Name": "Australian rules football",
+      "Href": "/wiki/Australian_rules_football"
+    },
+    {
+      "Name": "AFLX",
+      "Href": "/wiki/AFLX"
+    },
+    {
+      "Name": "Lightning football",
+      "Href": "/wiki/Lightning_football"
+    },
+    {
+      "Name": "Metro footy",
+      "Href": "/wiki/Metro_footy"
+    },
+    {
+      "Name": "Nine-a-side",
+      "Href": "/wiki/Nine-a-side_footy"
+    },
+    {
+      "Name": "Rec footy",
+      "Href": "/wiki/Rec_footy"
+    },
+    {
+      "Name": "Gaelic football",
+      "Href": "/wiki/Gaelic_football"
+    },
+    {
+      "Name": "Ladies'",
+      "Href": "/wiki/Ladies%27_Gaelic_football"
+    },
+    {
+      "Name": "Circle rules football",
+      "Href": "/wiki/Circle_rules_football"
+    },
+    {
+      "Name": "American football",
+      "Href": "/wiki/American_football"
+    },
+    {
+      "Name": "eight-man",
+      "Href": "/wiki/Eight-man_football"
+    },
+    {
+      "Name": "flag",
+      "Href": "/wiki/Flag_football"
+    },
+    {
+      "Name": "nine-man",
+      "Href": "/wiki/Nine-man_football"
+    },
+    {
+      "Name": "six-man",
+      "Href": "/wiki/Six-man_football"
+    },
+    {
+      "Name": "sprint",
+      "Href": "/wiki/Sprint_football"
+    },
+    {
+      "Name": "touch",
+      "Href": "/wiki/Touch_football_(American)"
+    },
+    {
+      "Name": "wheelchair",
+      "Href": "/wiki/Wheelchair_Football_(American)"
+    },
+    {
+      "Name": "Canadian football",
+      "Href": "/wiki/Canadian_football"
+    },
+    {
+      "Name": "Indoor American football",
+      "Href": "/wiki/Indoor_American_football"
+    },
+    {
+      "Name": "Arena football",
+      "Href": "/wiki/Arena_football"
+    },
+    {
+      "Name": "Austus",
+      "Href": "/wiki/Austus"
+    },
+    {
+      "Name": "Eton wall game",
+      "Href": "/wiki/Eton_wall_game"
+    },
+    {
+      "Name": "International rules football",
+      "Href": "/wiki/International_rules_football"
+    },
+    {
+      "Name": "Samoa rules",
+      "Href": "/wiki/Samoa_rules"
+    },
+    {
+      "Name": "Speedball",
+      "Href": "/wiki/Speedball_(American_ball_game)"
+    },
+    {
+      "Name": "Swedish football",
+      "Href": "/wiki/Swedish_football_(code)"
+    },
+    {
+      "Name": "Universal football",
+      "Href": "/wiki/Universal_football"
+    },
+    {
+      "Name": "Volata",
+      "Href": "/wiki/Volata"
+    },
+    {
+      "Name": "Ba game",
+      "Href": "/wiki/Ba_game"
+    },
+    {
+      "Name": "Caid",
+      "Href": "/wiki/Caid_(sport)"
+    },
+    {
+      "Name": "Calcio fiorentino",
+      "Href": "/wiki/Calcio_Fiorentino"
+    },
+    {
+      "Name": "Camping",
+      "Href": "/wiki/Camping_(game)"
+    },
+    {
+      "Name": "Cnapan",
+      "Href": "/wiki/Cnapan"
+    },
+    {
+      "Name": "Cornish hurling",
+      "Href": "/wiki/Cornish_hurling"
+    },
+    {
+      "Name": "Cuju",
+      "Href": "/wiki/Cuju"
+    },
+    {
+      "Name": "Harpastum",
+      "Href": "/wiki/Harpastum"
+    },
+    {
+      "Name": "Kemari",
+      "Href": "/wiki/Kemari"
+    },
+    {
+      "Name": "La soule",
+      "Href": "/wiki/La_soule"
+    },
+    {
+      "Name": "Lelo burti",
+      "Href": "/wiki/Lelo_burti"
+    },
+    {
+      "Name": "Marn grook",
+      "Href": "/wiki/Marn_Grook"
+    },
+    {
+      "Name": "Pasuckuakohowog",
+      "Href": "/wiki/Pasuckuakohowog"
+    },
+    {
+      "Name": "Royal Shrovetide",
+      "Href": "/wiki/Royal_Shrovetide_Football"
+    },
+    {
+      "Name": "Uppies and downies",
+      "Href": "/wiki/Uppies_and_Downies"
+    },
+    {
+      "Name": "Rugby league",
+      "Href": "/wiki/Rugby_league"
+    },
+    {
+      "Name": "masters",
+      "Href": "/wiki/Masters_Rugby_League"
+    },
+    {
+      "Name": "mod",
+      "Href": "/wiki/Mod_league"
+    },
+    {
+      "Name": "nines",
+      "Href": "/wiki/Rugby_league_nines"
+    },
+    {
+      "Name": "sevens",
+      "Href": "/wiki/Rugby_league_sevens"
+    },
+    {
+      "Name": "tag",
+      "Href": "/wiki/Tag_rugby"
+    },
+    {
+      "Name": "wheelchair",
+      "Href": "/wiki/Wheelchair_rugby_league"
+    },
+    {
+      "Name": "Rugby union",
+      "Href": "/wiki/Rugby_union"
+    },
+    {
+      "Name": "American flag",
+      "Href": "/wiki/American_flag_rugby"
+    },
+    {
+      "Name": "beach",
+      "Href": "/wiki/Beach_rugby"
+    },
+    {
+      "Name": "mini",
+      "Href": "/wiki/Mini_rugby"
+    },
+    {
+      "Name": "sevens",
+      "Href": "/wiki/Rugby_sevens"
+    },
+    {
+      "Name": "snow",
+      "Href": "/wiki/Snow_rugby"
+    },
+    {
+      "Name": "tag",
+      "Href": "/wiki/Tag_rugby"
+    },
+    {
+      "Name": "Tambo",
+      "Href": "/wiki/Tambo_rugby"
+    },
+    {
+      "Name": "touch",
+      "Href": "/wiki/Touch_rugby"
+    },
+    {
+      "Name": "tens",
+      "Href": "/wiki/Rugby_tens"
+    },
+    {
+      "Name": "X",
+      "Href": "/wiki/Rugby_X"
+    },
+    {
+      "Name": "Touch",
+      "Href": "/wiki/Touch_(sport)"
+    },
+    {
+      "Name": "Wheelchair",
+      "Href": "/wiki/Wheelchair_rugby"
+    },
+    {
+      "Name": "Kī-o-rahi",
+      "Href": "/wiki/K%C4%AB-o-rahi"
+    },
+    {
+      "Name": "Jegichagi",
+      "Href": "/wiki/Jegichagi"
+    },
+    {
+      "Name": "Yubi lakpi",
+      "Href": "/wiki/Yubi_lakpi"
+    },
+    {
+      "Name": "Baseball",
+      "Href": "/wiki/Baseball"
+    },
+    {
+      "Name": "Baseball5",
+      "Href": "/wiki/Baseball5"
+    },
+    {
+      "Name": "Brännboll",
+      "Href": "/wiki/Br%C3%A4nnboll"
+    },
+    {
+      "Name": "Corkball",
+      "Href": "/wiki/Corkball"
+    },
+    {
+      "Name": "Cricket",
+      "Href": "/wiki/Cricket"
+    },
+    {
+      "Name": "One Day",
+      "Href": "/wiki/One_Day_International"
+    },
+    {
+      "Name": "Test",
+      "Href": "/wiki/Test_cricket"
+    },
+    {
+      "Name": "Twenty20",
+      "Href": "/wiki/Twenty20_International"
+    },
+    {
+      "Name": "Danish longball",
+      "Href": "/wiki/Danish_longball"
+    },
+    {
+      "Name": "Indoor cricket",
+      "Href": "/wiki/Indoor_cricket"
+    },
+    {
+      "Name": "Kickball",
+      "Href": "/wiki/Kickball"
+    },
+    {
+      "Name": "Lapta",
+      "Href": "/wiki/Lapta_(game)"
+    },
+    {
+      "Name": "Matball",
+      "Href": "/wiki/Matball"
+    },
+    {
+      "Name": "Oină",
+      "Href": "/wiki/Oin%C4%83"
+    },
+    {
+      "Name": "Over-the-line",
+      "Href": "/wiki/Over-the-line"
+    },
+    {
+      "Name": "Pesäpallo",
+      "Href": "/wiki/Pes%C3%A4pallo"
+    },
+    {
+      "Name": "Rounders",
+      "Href": "/wiki/Rounders"
+    },
+    {
+      "Name": "Schlagball",
+      "Href": "/wiki/Schlagball"
+    },
+    {
+      "Name": "Softball",
+      "Href": "/wiki/Softball"
+    },
+    {
+      "Name": "Fastpitch",
+      "Href": "/wiki/Fastpitch_softball"
+    },
+    {
+      "Name": "16-inch",
+      "Href": "/wiki/16-inch_softball"
+    },
+    {
+      "Name": "Stickball",
+      "Href": "/wiki/Stickball"
+    },
+    {
+      "Name": "Stoolball",
+      "Href": "/wiki/Stoolball"
+    },
+    {
+      "Name": "Town ball",
+      "Href": "/wiki/Town_ball"
+    },
+    {
+      "Name": "Vigoro",
+      "Href": "/wiki/Vigoro"
+    },
+    {
+      "Name": "Vitilla",
+      "Href": "/wiki/Vitilla"
+    },
+    {
+      "Name": "Welsh/British baseball",
+      "Href": "/wiki/British_baseball"
+    },
+    {
+      "Name": "Wiffle ball",
+      "Href": "/wiki/Wiffle_ball"
+    },
+    {
+      "Name": "Wireball",
+      "Href": "/wiki/Wireball"
+    },
+    {
+      "Name": "Bando",
+      "Href": "/wiki/Bando_(sport)"
+    },
+    {
+      "Name": "Cammag",
+      "Href": "/wiki/Cammag"
+    },
+    {
+      "Name": "Hurling",
+      "Href": "/wiki/Hurling"
+    },
+    {
+      "Name": "Camogie",
+      "Href": "/wiki/Camogie"
+    },
+    {
+      "Name": "Super11s",
+      "Href": ""
+    },
+    {
+      "Name": "Shinty–Hurling",
+      "Href": "/wiki/Composite_rules_shinty%E2%80%93hurling"
+    },
+    {
+      "Name": "Indigenous North American stickball",
+      "Href": "/wiki/Indigenous_North_American_stickball"
+    },
+    {
+      "Name": "Iomain",
+      "Href": "/wiki/Iomain"
+    },
+    {
+      "Name": "Knattleikr",
+      "Href": "/wiki/Knattleikr"
+    },
+    {
+      "Name": "Knotty",
+      "Href": "/wiki/Knotty"
+    },
+    {
+      "Name": "Lacrosse",
+      "Href": "/wiki/Lacrosse"
+    },
+    {
+      "Name": "box/indoor",
+      "Href": "/wiki/Box_lacrosse"
+    },
+    {
+      "Name": "field",
+      "Href": "/wiki/Field_lacrosse"
+    },
+    {
+      "Name": "intercrosse",
+      "Href": "/wiki/Intercrosse"
+    },
+    {
+      "Name": "women's",
+      "Href": "/wiki/Women%27s_lacrosse"
+    },
+    {
+      "Name": "Ritinis",
+      "Href": "/wiki/Ritinis"
+    },
+    {
+      "Name": "Shinty",
+      "Href": "/wiki/Shinty"
+    },
+    {
+      "Name": "Shinty–Hurling",
+      "Href": "/wiki/Composite_rules_shinty%E2%80%93hurling"
+    },
+    {
+      "Name": "Ball hockey",
+      "Href": "/wiki/Ball_hockey"
+    },
+    {
+      "Name": "Bandy",
+      "Href": "/wiki/Bandy"
+    },
+    {
+      "Name": "rink",
+      "Href": "/wiki/Rink_bandy"
+    },
+    {
+      "Name": "Broomball",
+      "Href": "/wiki/Broomball"
+    },
+    {
+      "Name": "Moscow",
+      "Href": "/wiki/Moscow_broomball"
+    },
+    {
+      "Name": "Field hockey",
+      "Href": "/wiki/Field_hockey"
+    },
+    {
+      "Name": "indoor",
+      "Href": "/wiki/Indoor_hockey"
+    },
+    {
+      "Name": "Floor hockey",
+      "Href": "/wiki/Floor_hockey"
+    },
+    {
+      "Name": "Floorball",
+      "Href": "/wiki/Floorball"
+    },
+    {
+      "Name": "Ice hockey",
+      "Href": "/wiki/Ice_hockey"
+    },
+    {
+      "Name": "pond",
+      "Href": "/wiki/Pond_hockey"
+    },
+    {
+      "Name": "power",
+      "Href": "/wiki/Power_hockey"
+    },
+    {
+      "Name": "ice sledge",
+      "Href": "/wiki/Sledge_hockey"
+    },
+    {
+      "Name": "underwater",
+      "Href": "/wiki/Underwater_ice_hockey"
+    },
+    {
+      "Name": "Ringette",
+      "Href": "/wiki/Ringette"
+    },
+    {
+      "Name": "Rinkball",
+      "Href": "/wiki/Rinkball"
+    },
+    {
+      "Name": "Roller hockey",
+      "Href": "/wiki/Roller_hockey"
+    },
+    {
+      "Name": "in-line",
+      "Href": "/wiki/Roller_in-line_hockey"
+    },
+    {
+      "Name": "quad",
+      "Href": "/wiki/Roller_hockey_(quad)"
+    },
+    {
+      "Name": "Rossall hockey",
+      "Href": "/wiki/Rossall_Hockey"
+    },
+    {
+      "Name": "Shinny",
+      "Href": "/wiki/Shinny"
+    },
+    {
+      "Name": "Street hockey",
+      "Href": "/wiki/Street_hockey"
+    },
+    {
+      "Name": "Underwater hockey",
+      "Href": "/wiki/Underwater_hockey"
+    },
+    {
+      "Name": "Unicycle hockey",
+      "Href": "/wiki/Unicycle_hockey"
+    },
+    {
+      "Name": "Auto polo",
+      "Href": "/wiki/Auto_polo"
+    },
+    {
+      "Name": "Cowboy polo",
+      "Href": "/wiki/Cowboy_polo"
+    },
+    {
+      "Name": "Cycle polo",
+      "Href": "/wiki/Cycle_polo"
+    },
+    {
+      "Name": "Elephant polo",
+      "Href": "/wiki/Elephant_polo"
+    },
+    {
+      "Name": "Horseball",
+      "Href": "/wiki/Horseball"
+    },
+    {
+      "Name": "Motoball",
+      "Href": "/wiki/Motoball"
+    },
+    {
+      "Name": "Pato",
+      "Href": "/wiki/Pato"
+    },
+    {
+      "Name": "Polo",
+      "Href": "/wiki/Polo"
+    },
+    {
+      "Name": "Arena polo",
+      "Href": "/wiki/Arena_polo"
+    },
+    {
+      "Name": "Chovgan",
+      "Href": "/wiki/Chovgan"
+    },
+    {
+      "Name": "snow polo",
+      "Href": ""
+    },
+    {
+      "Name": "Polocrosse",
+      "Href": "/wiki/Polocrosse"
+    },
+    {
+      "Name": "Segway polo",
+      "Href": "/wiki/Segway_polo"
+    },
+    {
+      "Name": "Yak polo",
+      "Href": "/wiki/Yak_polo"
+    },
+    {
+      "Name": "Ball badminton",
+      "Href": "/wiki/Ball_badminton"
+    },
+    {
+      "Name": "Beach tennis",
+      "Href": "/wiki/Beach_tennis"
+    },
+    {
+      "Name": "Biribol",
+      "Href": "/wiki/Biribol"
+    },
+    {
+      "Name": "Bossaball",
+      "Href": "/wiki/Bossaball"
+    },
+    {
+      "Name": "Fistball",
+      "Href": "/wiki/Fistball"
+    },
+    {
+      "Name": "Footbag net",
+      "Href": "/wiki/Footbag_net"
+    },
+    {
+      "Name": "Football tennis",
+      "Href": "/wiki/Football_tennis"
+    },
+    {
+      "Name": "Footvolley",
+      "Href": "/wiki/Footvolley"
+    },
+    {
+      "Name": "Jianzi",
+      "Href": "/wiki/Jianzi"
+    },
+    {
+      "Name": "Jokgu",
+      "Href": "/wiki/Jokgu"
+    },
+    {
+      "Name": "Newcomb ball",
+      "Href": "/wiki/Newcomb_ball"
+    },
+    {
+      "Name": "Peteca",
+      "Href": "/wiki/Peteca"
+    },
+    {
+      "Name": "Sepak takraw",
+      "Href": "/wiki/Sepak_takraw"
+    },
+    {
+      "Name": "Throwball",
+      "Href": "/wiki/Throwball"
+    },
+    {
+      "Name": "Volleyball",
+      "Href": "/wiki/Volleyball"
+    },
+    {
+      "Name": "beach",
+      "Href": "/wiki/Beach_volleyball"
+    },
+    {
+      "Name": "snow",
+      "Href": "/wiki/Snow_volleyball"
+    },
+    {
+      "Name": "paralympic",
+      "Href": "/wiki/Sitting_volleyball"
+    },
+    {
+      "Name": "pioneerball",
+      "Href": "/wiki/Pioneerball"
+    },
+    {
+      "Name": "Synchronized swimming",
+      "Href": "/wiki/Synchronized_swimming"
+    },
+    {
+      "Name": "Underwater football",
+      "Href": "/wiki/Underwater_football"
+    },
+    {
+      "Name": "Underwater rugby",
+      "Href": "/wiki/Underwater_rugby"
+    },
+    {
+      "Name": "Water polo",
+      "Href": "/wiki/Water_polo"
+    },
+    {
+      "Name": "canoe",
+      "Href": "/wiki/Canoe_polo"
+    },
+    {
+      "Name": "inner tube",
+      "Href": "/wiki/Inner_tube_water_polo"
+    },
+    {
+      "Name": "Airsoft",
+      "Href": "/wiki/Airsoft"
+    },
+    {
+      "Name": "Angleball",
+      "Href": "/wiki/Angleball"
+    },
+    {
+      "Name": "Balle à la main",
+      "Href": "/wiki/Balle_%C3%A0_la_main"
+    },
+    {
+      "Name": "Ballon au poing",
+      "Href": "/wiki/Ballon_au_poing"
+    },
+    {
+      "Name": "Basque pelota",
+      "Href": "/wiki/Basque_pelota"
+    },
+    {
+      "Name": "frontenis",
+      "Href": "/wiki/Frontenis"
+    },
+    {
+      "Name": "jai alai",
+      "Href": "/wiki/Jai_alai"
+    },
+    {
+      "Name": "Bo-taoshi",
+      "Href": "/wiki/Bo-taoshi"
+    },
+    {
+      "Name": "Boules",
+      "Href": "/wiki/Boules"
+    },
+    {
+      "Name": "Bocce",
+      "Href": "/wiki/Bocce"
+    },
+    {
+      "Name": "Bocce volo",
+      "Href": "/wiki/Bocce_volo"
+    },
+    {
+      "Name": "Boccia",
+      "Href": "/wiki/Boccia"
+    },
+    {
+      "Name": "Bowls",
+      "Href": "/wiki/Bowls"
+    },
+    {
+      "Name": "Jeu provençal",
+      "Href": "/wiki/Jeu_proven%C3%A7al"
+    },
+    {
+      "Name": "Pétanque",
+      "Href": "/wiki/P%C3%A9tanque"
+    },
+    {
+      "Name": "Raffa",
+      "Href": "/wiki/Raffa_(boules)"
+    },
+    {
+      "Name": "Buzkashi",
+      "Href": "/wiki/Buzkashi"
+    },
+    {
+      "Name": "Combat (juggling)",
+      "Href": "/wiki/Combat_(juggling)"
+    },
+    {
+      "Name": "Curling",
+      "Href": "/wiki/Curling"
+    },
+    {
+      "Name": "wheelchair",
+      "Href": "/wiki/Wheelchair_curling"
+    },
+    {
+      "Name": "Cycle ball",
+      "Href": "/wiki/Cycle_ball"
+    },
+    {
+      "Name": "Digor",
+      "Href": "/wiki/Digor_(sports)"
+    },
+    {
+      "Name": "Dodgeball",
+      "Href": "/wiki/Dodgeball"
+    },
+    {
+      "Name": "Flickerball",
+      "Href": "/wiki/Flickerball"
+    },
+    {
+      "Name": "Gateball",
+      "Href": "/wiki/Gateball"
+    },
+    {
+      "Name": "Goalball",
+      "Href": "/wiki/Goalball"
+    },
+    {
+      "Name": "Guts",
+      "Href": "/wiki/Guts_(flying_disc_game)"
+    },
+    {
+      "Name": "Handball",
+      "Href": "/wiki/Handball"
+    },
+    {
+      "Name": "beach",
+      "Href": "/wiki/Beach_handball"
+    },
+    {
+      "Name": "Czech",
+      "Href": "/wiki/Czech_handball"
+    },
+    {
+      "Name": "field",
+      "Href": "/wiki/Field_handball"
+    },
+    {
+      "Name": "wheelchair",
+      "Href": "/wiki/Wheelchair_handball"
+    },
+    {
+      "Name": "Hornussen",
+      "Href": "/wiki/Hornussen"
+    },
+    {
+      "Name": "Ice stock sport",
+      "Href": "/wiki/Ice_stock_sport"
+    },
+    {
+      "Name": "Jereed",
+      "Href": "/wiki/Jereed"
+    },
+    {
+      "Name": "Kabaddi",
+      "Href": "/wiki/Kabaddi"
+    },
+    {
+      "Name": "Kho kho",
+      "Href": "/wiki/Kho_kho"
+    },
+    {
+      "Name": "Kin-Ball",
+      "Href": "/wiki/Kin-Ball"
+    },
+    {
+      "Name": "Lagori",
+      "Href": "/wiki/Lagori"
+    },
+    {
+      "Name": "Longue paume",
+      "Href": "/wiki/Longue_paume"
+    },
+    {
+      "Name": "Makura-Nage",
+      "Href": "/wiki/Makura-Nage"
+    },
+    {
+      "Name": "Mesoamerican ballgame",
+      "Href": "/wiki/Mesoamerican_ballgame"
+    },
+    {
+      "Name": "Paintball",
+      "Href": "/wiki/Paintball"
+    },
+    {
+      "Name": "Pelota mixteca",
+      "Href": "/wiki/Pelota_mixteca"
+    },
+    {
+      "Name": "Prisonball",
+      "Href": "/wiki/Prisonball"
+    },
+    {
+      "Name": "Pushball",
+      "Href": "/wiki/Pushball"
+    },
+    {
+      "Name": "Quidditch",
+      "Href": "/wiki/Quidditch_(real-life_sport)"
+    },
+    {
+      "Name": "Roll ball",
+      "Href": "/wiki/Roll_ball"
+    },
+    {
+      "Name": "Roller derby",
+      "Href": "/wiki/Roller_derby"
+    },
+    {
+      "Name": "Slahal",
+      "Href": "/wiki/Slahal"
+    },
+    {
+      "Name": "Snow snake",
+      "Href": "/wiki/Snow_snake"
+    },
+    {
+      "Name": "Synchronized skating",
+      "Href": "/wiki/Synchronized_skating"
+    },
+    {
+      "Name": "Tamburello",
+      "Href": "/wiki/Tamburello"
+    },
+    {
+      "Name": "Tchoukball",
+      "Href": "/wiki/Tchoukball"
+    },
+    {
+      "Name": "Tejo",
+      "Href": "/wiki/Tejo_(sport)"
+    },
+    {
+      "Name": "Tug of war",
+      "Href": "/wiki/Tug_of_war"
+    },
+    {
+      "Name": "Ulama",
+      "Href": "/wiki/Ulama_(game)"
+    },
+    {
+      "Name": "Ultimate",
+      "Href": "/wiki/Ultimate_(sport)"
+    },
+    {
+      "Name": "Valencian pilota",
+      "Href": "/wiki/Valencian_pilota"
+    },
+    {
+      "Name": "Llargues",
+      "Href": "/wiki/Llargues"
+    },
+    {
+      "Name": "Waboba",
+      "Href": "/wiki/Waboba"
+    },
+    {
+      "Name": "Whirlyball",
+      "Href": "/wiki/Whirlyball"
+    },
+    {
+      "Name": "Woodball",
+      "Href": "/wiki/Woodball"
+    },
+    {
+      "Name": "Yukigassen",
+      "Href": "/wiki/Yukigassen"
+    },
+    {
+      "Name": "abbr",
+      "Href": "/wiki/Template:Sport"
+    },
+    {
+      "Name": "abbr",
+      "Href": "/wiki/Template_talk:Sport"
+    },
+    {
+      "Name": "abbr",
+      "Href": "https://en.wikipedia.org/w/index.php?title=Template:Sport\u0026action=edit"
+    },
+    {
+      "Name": "History",
+      "Href": "/wiki/History_of_sport"
+    },
+    {
+      "Name": "Biomechanics",
+      "Href": "/wiki/Sports_biomechanics"
+    },
+    {
+      "Name": "Communication",
+      "Href": "/wiki/Sport_communication"
+    },
+    {
+      "Name": "Clubs",
+      "Href": "/wiki/Sports_club"
+    },
+    {
+      "Name": "Doping",
+      "Href": "/wiki/Doping_in_sport"
+    },
+    {
+      "Name": "Economics",
+      "Href": "/wiki/Sports_economics"
+    },
+    {
+      "Name": "Equipment",
+      "Href": "/wiki/Sports_equipment"
+    },
+    {
+      "Name": "Industry",
+      "Href": "/wiki/Sport_industry"
+    },
+    {
+      "Name": "Injury",
+      "Href": "/wiki/Sports_injury"
+    },
+    {
+      "Name": "Medicine",
+      "Href": "/wiki/Sports_medicine"
+    },
+    {
+      "Name": "Nutrition",
+      "Href": "/wiki/Sports_nutrition"
+    },
+    {
+      "Name": "Pedagogy",
+      "Href": "/wiki/Sport_pedagogy"
+    },
+    {
+      "Name": "Periodization",
+      "Href": "/wiki/Sports_periodization"
+    },
+    {
+      "Name": "Philosophy",
+      "Href": "/wiki/Philosophy_of_sport"
+    },
+    {
+      "Name": "Psychology",
+      "Href": "/wiki/Sport_psychology"
+    },
+    {
+      "Name": "Rating system",
+      "Href": "/wiki/Sports_rating_system"
+    },
+    {
+      "Name": "Regulation",
+      "Href": "/wiki/Regulation_of_sport"
+    },
+    {
+      "Name": "Science",
+      "Href": "/wiki/Sports_science"
+    },
+    {
+      "Name": "Sociology",
+      "Href": "/wiki/Sociology_of_sport"
+    },
+    {
+      "Name": "Women",
+      "Href": "/wiki/Women%27s_sports"
+    },
+    {
+      "Name": "Africa",
+      "Href": "/wiki/Sport_in_Africa"
+    },
+    {
+      "Name": "Australia",
+      "Href": "/wiki/Sport_in_Australia"
+    },
+    {
+      "Name": "Asia",
+      "Href": "/wiki/Sports_in_Asia"
+    },
+    {
+      "Name": "Europe",
+      "Href": "/wiki/Sport_in_Europe"
+    },
+    {
+      "Name": "North America",
+      "Href": "/wiki/Sports_in_North_America"
+    },
+    {
+      "Name": "Oceania",
+      "Href": "/wiki/Sport_in_Oceania"
+    },
+    {
+      "Name": "South America",
+      "Href": "/wiki/Sport_in_South_America"
+    },
+    {
+      "Name": "img",
+      "Href": ""
+    },
+    {
+      "Name": "img",
+      "Href": "/wiki/File:Symbol_portal_class.svg"
+    },
+    {
+      "Name": "img",
+      "Href": ""
+    }
+  ],
+  "Remote control": [
+    {
+      "Name": "Drone racing",
+      "Href": "/wiki/Drone_racing"
+    },
+    {
+      "Name": "Model aerobatics",
+      "Href": "/wiki/Radio-controlled_aerobatics"
+    },
+    {
+      "Name": "RC racing",
+      "Href": "/wiki/Radio-controlled_car#Hobby_radio_control"
+    },
+    {
+      "Name": "Robot combat",
+      "Href": "/wiki/Robot_combat"
+    },
+    {
+      "Name": "Slot car racing",
+      "Href": "/wiki/Slot_car_racing"
+    }
+  ],
+  "Rodeo-originated": [
+    {
+      "Name": "Bullriding",
+      "Href": "/wiki/Bullriding"
+    },
+    {
+      "Name": "Miniature Bull Riding",
+      "Href": "/wiki/Miniature_bull_riding"
+    },
+    {
+      "Name": "Barrel Racing",
+      "Href": "/wiki/Barrel_Racing"
+    },
+    {
+      "Name": "Bronc Riding",
+      "Href": "/wiki/Bronc_Riding"
+    },
+    {
+      "Name": "Saddle Bronc Riding",
+      "Href": "/wiki/Saddle_Bronc_Riding"
+    },
+    {
+      "Name": "Bareback Bronc Riding",
+      "Href": "/wiki/Bronc_riding"
+    },
+    {
+      "Name": "Pole bending",
+      "Href": "/wiki/Pole_bending"
+    },
+    {
+      "Name": "Roping",
+      "Href": "/wiki/Roping"
+    },
+    {
+      "Name": "Breakaway Roping",
+      "Href": "/wiki/Breakaway_roping"
+    },
+    {
+      "Name": "Tie-down Roping",
+      "Href": "/wiki/Calf_Roping"
+    },
+    {
+      "Name": "Team Roping",
+      "Href": "/wiki/Team_Roping"
+    },
+    {
+      "Name": "Steer Roping",
+      "Href": "/wiki/Steer_roping"
+    },
+    {
+      "Name": "Steer riding",
+      "Href": "/wiki/Steer_riding"
+    },
+    {
+      "Name": "Steer Wrestling",
+      "Href": "/wiki/Steer_Wrestling"
+    },
+    {
+      "Name": "Goat Tying",
+      "Href": "/wiki/Goat_Tying"
+    }
+  ],
+  "Running": [
+    {
+      "Name": "Endurance",
+      "Href": "/wiki/Endurance"
+    },
+    {
+      "Name": "5K run",
+      "Href": "/wiki/5K_run"
+    },
+    {
+      "Name": "10K run",
+      "Href": "/wiki/10K_run"
+    },
+    {
+      "Name": "Cross-country running",
+      "Href": "/wiki/Cross-country_running"
+    },
+    {
+      "Name": "Half marathon",
+      "Href": "/wiki/Half_marathon"
+    },
+    {
+      "Name": "Marathon",
+      "Href": "/wiki/Marathon"
+    },
+    {
+      "Name": "Road running",
+      "Href": "/wiki/Road_running"
+    },
+    {
+      "Name": "Ekiden",
+      "Href": "/wiki/Ekiden"
+    },
+    {
+      "Name": "Tower running",
+      "Href": "/wiki/Tower_running"
+    },
+    {
+      "Name": "Ultramarathon",
+      "Href": "/wiki/Ultramarathon"
+    },
+    {
+      "Name": "Snowshoe running",
+      "Href": "/wiki/Snowshoe_running"
+    },
+    {
+      "Name": "Fell running",
+      "Href": "/wiki/Fell_running"
+    },
+    {
+      "Name": "Trail running",
+      "Href": "/wiki/Trail_running"
+    },
+    {
+      "Name": "Mountain running",
+      "Href": "/wiki/Mountain_running"
+    },
+    {
+      "Name": "Skyrunning",
+      "Href": "/wiki/Skyrunning"
+    },
+    {
+      "Name": "Sprint",
+      "Href": "/wiki/Sprint_(running)"
+    },
+    {
+      "Name": "Hurdles",
+      "Href": "/wiki/Hurdles"
+    }
+  ],
+  "Sailing": [
+    {
+      "Name": "Dinghy sailing",
+      "Href": "/wiki/Dinghy_sailing"
+    },
+    {
+      "Name": "Ice yachting",
+      "Href": "/wiki/Ice_yachting"
+    },
+    {
+      "Name": "Kiteboarding",
+      "Href": "/wiki/Kitesurfing"
+    },
+    {
+      "Name": "Land sailing",
+      "Href": "/wiki/Land_sailing"
+    },
+    {
+      "Name": "Land windsurfing",
+      "Href": "/wiki/Land_windsurfing"
+    },
+    {
+      "Name": "Sailing",
+      "Href": "/wiki/Sailing_(sport)"
+    },
+    {
+      "Name": "Windsurfing",
+      "Href": "/wiki/Windsurfing"
+    },
+    {
+      "Name": "Yacht racing",
+      "Href": "/wiki/Yacht_racing"
+    }
+  ],
+  "See also": [
+    {
+      "Name": "Flying disc games",
+      "Href": "/wiki/Flying_disc_games"
+    },
+    {
+      "Name": "Individual sport",
+      "Href": "/wiki/Individual_sport"
+    },
+    {
+      "Name": "List of ball games",
+      "Href": "/wiki/List_of_ball_games"
+    },
+    {
+      "Name": "List of sports video games",
+      "Href": "/wiki/List_of_sports_video_games"
+    },
+    {
+      "Name": "List of types of games",
+      "Href": "/wiki/List_of_types_of_games"
+    },
+    {
+      "Name": "Team sport",
+      "Href": "/wiki/Team_sport"
+    }
+  ],
+  "Shooting sports": [
+    {
+      "Name": "Clay pigeon shooting",
+      "Href": "/wiki/Clay_pigeon_shooting"
+    },
+    {
+      "Name": "Skeet shooting",
+      "Href": "/wiki/Skeet_shooting"
+    },
+    {
+      "Name": "Trap shooting",
+      "Href": "/wiki/Trap_shooting"
+    },
+    {
+      "Name": "Sporting clays",
+      "Href": "/wiki/Sporting_clays"
+    },
+    {
+      "Name": "Slingshotting",
+      "Href": "/w/index.php?title=Slingshotting\u0026action=edit\u0026redlink=1"
+    },
+    {
+      "Name": "Bullseye shooting",
+      "Href": "/wiki/Bullseye_shooting"
+    },
+    {
+      "Name": "Rifle",
+      "Href": ""
+    },
+    {
+      "Name": "ISSF rifle events",
+      "Href": "/wiki/ISSF_shooting_events"
+    },
+    {
+      "Name": "Fullbore target rifle",
+      "Href": "/wiki/Fullbore_target_rifle"
+    },
+    {
+      "Name": "High power rifle",
+      "Href": "/wiki/High_power_rifle"
+    },
+    {
+      "Name": "Benchrest shooting",
+      "Href": "/wiki/Benchrest_shooting"
+    },
+    {
+      "Name": "Paralympic rifle events",
+      "Href": "/wiki/Paralympic_shooting"
+    },
+    {
+      "Name": "Handgun",
+      "Href": ""
+    },
+    {
+      "Name": "ISSF pistol events",
+      "Href": "/wiki/ISSF_shooting_events"
+    },
+    {
+      "Name": "Paralympic pistol events",
+      "Href": "/wiki/Paralympic_shooting"
+    },
+    {
+      "Name": "Field shooting",
+      "Href": "/wiki/Field_shooting"
+    },
+    {
+      "Name": "Precision rifle competition",
+      "Href": "/wiki/Precision_rifle_competition"
+    },
+    {
+      "Name": "Precision Rifle Series",
+      "Href": "/wiki/Precision_Rifle_Series"
+    },
+    {
+      "Name": "Field target",
+      "Href": "/wiki/Field_target"
+    },
+    {
+      "Name": "Metallic silhouette shooting",
+      "Href": "/wiki/Metallic_silhouette_shooting"
+    },
+    {
+      "Name": "ICFRA Palma and F-Class",
+      "Href": "/wiki/International_Confederation_of_Fullbore_Rifle_Associations"
+    },
+    {
+      "Name": "Plinking",
+      "Href": "/wiki/Plinking"
+    },
+    {
+      "Name": "Practical shooting",
+      "Href": "/wiki/Practical_shooting"
+    },
+    {
+      "Name": "International Practical Shooting Confederation",
+      "Href": "/wiki/International_Practical_Shooting_Confederation"
+    },
+    {
+      "Name": "International Defensive Pistol Association",
+      "Href": "/wiki/International_Defensive_Pistol_Association"
+    },
+    {
+      "Name": "Multigun",
+      "Href": "/wiki/Multigun"
+    },
+    {
+      "Name": "Cowboy action shooting",
+      "Href": "/wiki/Cowboy_action_shooting"
+    },
+    {
+      "Name": "Olympic dueling",
+      "Href": "/wiki/Olympic_dueling"
+    },
+    {
+      "Name": "Match crossbow",
+      "Href": "/wiki/Match_crossbow"
+    },
+    {
+      "Name": "Modern pentathlon",
+      "Href": "/wiki/Modern_pentathlon"
+    },
+    {
+      "Name": "Biathlon",
+      "Href": "/wiki/Biathlon"
+    },
+    {
+      "Name": "Summer biathlon",
+      "Href": "/wiki/Summer_biathlon"
+    },
+    {
+      "Name": "Ski field shooting",
+      "Href": ""
+    },
+    {
+      "Name": "Field running",
+      "Href": ""
+    },
+    {
+      "Name": "Moose biathon",
+      "Href": "/wiki/Moose_biathon"
+    },
+    {
+      "Name": "Target sprint",
+      "Href": "/wiki/Target_sprint"
+    },
+    {
+      "Name": "Pistol skiing",
+      "Href": ""
+    },
+    {
+      "Name": "Orienteering shooting",
+      "Href": ""
+    },
+    {
+      "Name": "Military patrol",
+      "Href": "/wiki/Military_patrol"
+    },
+    {
+      "Name": "Underwater target shooting",
+      "Href": "/wiki/Underwater_target_shooting"
+    },
+    {
+      "Name": "Airsoft",
+      "Href": "/wiki/Airsoft"
+    },
+    {
+      "Name": "Laser tag",
+      "Href": "/wiki/Laser_tag"
+    },
+    {
+      "Name": "Paintball",
+      "Href": "/wiki/Paintball"
+    }
+  ],
+  "Skating sports": [
+    {
+      "Name": "Aggressive inline skating",
+      "Href": "/wiki/Aggressive_inline_skating"
+    },
+    {
+      "Name": "Artistic roller skating",
+      "Href": "/wiki/Artistic_roller_skating"
+    },
+    {
+      "Name": "Figure skating",
+      "Href": "/wiki/Figure_skating"
+    },
+    {
+      "Name": "Freestyle slalom skating",
+      "Href": "/wiki/Freestyle_slalom_skating"
+    },
+    {
+      "Name": "Ice dancing",
+      "Href": "/wiki/Ice_dancing"
+    },
+    {
+      "Name": "Ice skating",
+      "Href": "/wiki/Ice_skating"
+    },
+    {
+      "Name": "Inline speed skating",
+      "Href": "/wiki/Inline_speed_skating"
+    },
+    {
+      "Name": "Rinkball",
+      "Href": "/wiki/Rinkball"
+    },
+    {
+      "Name": "Roller derby",
+      "Href": "/wiki/Roller_derby"
+    },
+    {
+      "Name": "Roller hockey",
+      "Href": "/wiki/Roller_hockey"
+    },
+    {
+      "Name": "Inline hockey",
+      "Href": "/wiki/Inline_hockey"
+    },
+    {
+      "Name": "Inline skater hockey",
+      "Href": "/wiki/Inline_skater_hockey"
+    },
+    {
+      "Name": "Rink hockey",
+      "Href": "/wiki/Rink_hockey"
+    },
+    {
+      "Name": "Roller skating",
+      "Href": "/wiki/Roller_skating"
+    },
+    {
+      "Name": "Short track speed skating",
+      "Href": "/wiki/Short_track_speed_skating"
+    },
+    {
+      "Name": "Speed skating",
+      "Href": "/wiki/Speed_skating"
+    },
+    {
+      "Name": "Synchronized skating",
+      "Href": "/wiki/Synchronized_skating"
+    }
+  ],
+  "Snow sports": [
+    {
+      "Name": "Alpine skiing",
+      "Href": "/wiki/Alpine_skiing"
+    },
+    {
+      "Name": "Downhill",
+      "Href": "/wiki/Downhill_(ski_competition)"
+    },
+    {
+      "Name": "Super-G",
+      "Href": "/wiki/Super-G"
+    },
+    {
+      "Name": "Giant slalom",
+      "Href": "/wiki/Giant_slalom"
+    },
+    {
+      "Name": "Slalom",
+      "Href": "/wiki/Slalom_skiing"
+    },
+    {
+      "Name": "Alpine skiing combined",
+      "Href": "/wiki/Alpine_skiing_combined"
+    },
+    {
+      "Name": "Freestyle skiing",
+      "Href": "/wiki/Freestyle_skiing"
+    },
+    {
+      "Name": "Aerials",
+      "Href": ""
+    },
+    {
+      "Name": "Moguls",
+      "Href": "/wiki/Mogul_skiing"
+    },
+    {
+      "Name": "Halfpipe",
+      "Href": "/wiki/Half-pipe_skiing"
+    },
+    {
+      "Name": "Slopestyle",
+      "Href": "/wiki/Slopestyle"
+    },
+    {
+      "Name": "Ski cross",
+      "Href": "/wiki/Ski_cross"
+    },
+    {
+      "Name": "Ski ballet",
+      "Href": "/wiki/Ski_ballet"
+    },
+    {
+      "Name": "Speed skiing",
+      "Href": "/wiki/Speed_skiing"
+    },
+    {
+      "Name": "Nordic skiing",
+      "Href": "/wiki/Nordic_skiing"
+    },
+    {
+      "Name": "Cross-country skiing",
+      "Href": "/wiki/Cross-country_skiing"
+    },
+    {
+      "Name": "Ski jumping",
+      "Href": "/wiki/Ski_jumping"
+    },
+    {
+      "Name": "Nordic combined",
+      "Href": "/wiki/Nordic_combined"
+    },
+    {
+      "Name": "Telemark skiing",
+      "Href": "/wiki/Telemark_skiing"
+    },
+    {
+      "Name": "Ski mountaineering",
+      "Href": "/wiki/Ski_mountaineering"
+    },
+    {
+      "Name": "Ski touring",
+      "Href": "/wiki/Ski_touring"
+    },
+    {
+      "Name": "Skijoring",
+      "Href": "/wiki/Skijoring"
+    },
+    {
+      "Name": "Bobsleigh",
+      "Href": "/wiki/Bobsleigh"
+    },
+    {
+      "Name": "Luge",
+      "Href": "/wiki/Luge"
+    },
+    {
+      "Name": "Shovel racing",
+      "Href": "/wiki/Shovel_racing"
+    },
+    {
+      "Name": "Skibobbing",
+      "Href": "/wiki/Skibobbing"
+    },
+    {
+      "Name": "Skeleton",
+      "Href": "/wiki/Skeleton_(sport)"
+    },
+    {
+      "Name": "Toboggan",
+      "Href": "/wiki/Toboggan"
+    }
+  ],
+  "Snowsports": [
+    {
+      "Name": "Boardercross",
+      "Href": "/wiki/Boardercross"
+    },
+    {
+      "Name": "Freestyle snowboarding",
+      "Href": "/wiki/Freestyle_snowboarding"
+    },
+    {
+      "Name": "Snowboarding",
+      "Href": "/wiki/Snowboarding"
+    },
+    {
+      "Name": "Ski flying",
+      "Href": "/wiki/Ski_flying"
+    },
+    {
+      "Name": "Skibob",
+      "Href": "/wiki/Skibob"
+    },
+    {
+      "Name": "Snowshoe running",
+      "Href": "/wiki/Snowshoe_running"
+    },
+    {
+      "Name": "Skiboarding",
+      "Href": "/wiki/Skiboarding"
+    }
+  ],
+  "Speedcubing": [
+    {
+      "Name": "Speedcubing",
+      "Href": "/wiki/Speedcubing"
+    },
+    {
+      "Name": "2x2x2",
+      "Href": "/wiki/Pocket_Cube"
+    },
+    {
+      "Name": "3x3x3",
+      "Href": "/wiki/Rubik%27s_Cube"
+    },
+    {
+      "Name": "3x3x3 One-Handed",
+      "Href": "/wiki/Rubik%27s_Cube#Records"
+    },
+    {
+      "Name": "4x4x4",
+      "Href": "/wiki/Rubik%27s_Revenge"
+    },
+    {
+      "Name": "5x5x5",
+      "Href": "/wiki/5x5x5"
+    },
+    {
+      "Name": "6x6x6",
+      "Href": "/wiki/6x6x6"
+    },
+    {
+      "Name": "7x7x7",
+      "Href": "/wiki/7x7x7"
+    },
+    {
+      "Name": "Megaminx",
+      "Href": "/wiki/Megaminx"
+    },
+    {
+      "Name": "Pyraminx",
+      "Href": "/wiki/Pyraminx"
+    },
+    {
+      "Name": "Rubik's Clock",
+      "Href": "/wiki/Rubik%27s_Clock"
+    },
+    {
+      "Name": "Skewb",
+      "Href": "/wiki/Skewb"
+    },
+    {
+      "Name": "Square-1",
+      "Href": "/wiki/Square-1_(puzzle)"
+    }
+  ],
+  "Stacking": [
+    {
+      "Name": "Card stacking",
+      "Href": "/wiki/House_of_cards"
+    },
+    {
+      "Name": "Cup stacking",
+      "Href": "/wiki/Cup_stacking"
+    },
+    {
+      "Name": "Dice stacking",
+      "Href": "/wiki/Dice_stacking"
+    },
+    {
+      "Name": "Sport stacking",
+      "Href": "/wiki/Sport_stacking"
+    }
+  ],
+  "Stick and ball games": [
+    {
+      "Name": "Hornussen",
+      "Href": "/wiki/Hornussen"
+    },
+    {
+      "Name": "Hockey",
+      "Href": "/wiki/Hockey"
+    },
+    {
+      "Name": "Ball hockey",
+      "Href": "/wiki/Ball_hockey"
+    },
+    {
+      "Name": "Bando",
+      "Href": "/wiki/Bando_(sport)"
+    },
+    {
+      "Name": "Bandy",
+      "Href": "/wiki/Bandy"
+    },
+    {
+      "Name": "Rink bandy",
+      "Href": "/wiki/Rink_bandy"
+    },
+    {
+      "Name": "Broomball",
+      "Href": "/wiki/Broomball"
+    },
+    {
+      "Name": "Moscow broomball",
+      "Href": "/wiki/Moscow_broomball"
+    },
+    {
+      "Name": "Field hockey",
+      "Href": "/wiki/Field_hockey"
+    },
+    {
+      "Name": "Indoor field hockey",
+      "Href": "/wiki/Indoor_field_hockey"
+    },
+    {
+      "Name": "Floorball",
+      "Href": "/wiki/Floorball"
+    },
+    {
+      "Name": "Ice hockey",
+      "Href": "/wiki/Ice_hockey"
+    },
+    {
+      "Name": "Pond hockey",
+      "Href": "/wiki/Pond_hockey"
+    },
+    {
+      "Name": "Power hockey",
+      "Href": "/wiki/Power_hockey"
+    },
+    {
+      "Name": "Sledge hockey",
+      "Href": "/wiki/Sledge_hockey"
+    },
+    {
+      "Name": "Underwater ice hockey",
+      "Href": "/wiki/Underwater_ice_hockey"
+    },
+    {
+      "Name": "Inline sledge hockey",
+      "Href": "/wiki/Inline_sledge_hockey"
+    },
+    {
+      "Name": "Ringette",
+      "Href": "/wiki/Ringette"
+    },
+    {
+      "Name": "Rinkball",
+      "Href": "/wiki/Rinkball"
+    },
+    {
+      "Name": "Roller hockey",
+      "Href": "/wiki/Roller_hockey"
+    },
+    {
+      "Name": "Roller hockey (quad)",
+      "Href": "/wiki/Roller_hockey_(quad)"
+    },
+    {
+      "Name": "Inline hockey",
+      "Href": "/wiki/Inline_hockey"
+    },
+    {
+      "Name": "Inline sledge hockey",
+      "Href": "/wiki/Inline_sledge_hockey"
+    },
+    {
+      "Name": "Inline skater hockey",
+      "Href": "/wiki/Inline_skater_hockey"
+    },
+    {
+      "Name": "Rossall Hockey",
+      "Href": "/wiki/Rossall_Hockey"
+    },
+    {
+      "Name": "Spongee",
+      "Href": "/wiki/Spongee"
+    },
+    {
+      "Name": "Street hockey",
+      "Href": "/wiki/Street_hockey"
+    },
+    {
+      "Name": "Underwater hockey",
+      "Href": "/wiki/Underwater_hockey"
+    },
+    {
+      "Name": "Unicycle hockey",
+      "Href": "/wiki/Unicycle_hockey"
+    },
+    {
+      "Name": "Cammag",
+      "Href": "/wiki/Cammag"
+    },
+    {
+      "Name": "Hurling",
+      "Href": "/wiki/Hurling"
+    },
+    {
+      "Name": "Camogie",
+      "Href": "/wiki/Camogie"
+    },
+    {
+      "Name": "Shinty",
+      "Href": "/wiki/Shinty"
+    },
+    {
+      "Name": "Composite rules shinty-hurling",
+      "Href": "/wiki/Composite_rules_shinty-hurling"
+    },
+    {
+      "Name": "Lacrosse",
+      "Href": "/wiki/Lacrosse"
+    },
+    {
+      "Name": "Box lacrosse",
+      "Href": "/wiki/Box_lacrosse"
+    },
+    {
+      "Name": "Field lacrosse",
+      "Href": "/wiki/Field_lacrosse"
+    },
+    {
+      "Name": "Intercrosse",
+      "Href": "/wiki/Intercrosse"
+    },
+    {
+      "Name": "Polocrosse",
+      "Href": "/wiki/Polocrosse"
+    },
+    {
+      "Name": "Women's lacrosse",
+      "Href": "/wiki/Women%27s_lacrosse"
+    },
+    {
+      "Name": "Polo",
+      "Href": "/wiki/Polo"
+    },
+    {
+      "Name": "Bicycle polo",
+      "Href": "/wiki/Bicycle_polo"
+    },
+    {
+      "Name": "Canoe polo",
+      "Href": "/wiki/Canoe_polo"
+    },
+    {
+      "Name": "Cowboy polo",
+      "Href": "/wiki/Cowboy_polo"
+    },
+    {
+      "Name": "Elephant polo",
+      "Href": "/wiki/Elephant_polo"
+    },
+    {
+      "Name": "Hobby horse polo",
+      "Href": "/wiki/Hobby_horse_polo"
+    },
+    {
+      "Name": "Segway polo",
+      "Href": "/wiki/Segway_polo"
+    },
+    {
+      "Name": "Yak polo",
+      "Href": "/wiki/Yak_polo"
+    }
+  ],
+  "Strategy board games": [
+    {
+      "Name": "Arimaa",
+      "Href": "/wiki/Arimaa"
+    },
+    {
+      "Name": "Backgammon",
+      "Href": "/wiki/Backgammon"
+    },
+    {
+      "Name": "Chess",
+      "Href": "/wiki/Chess"
+    },
+    {
+      "Name": "Chess960",
+      "Href": "/wiki/Chess960"
+    },
+    {
+      "Name": "Losing chess",
+      "Href": "/wiki/Losing_chess"
+    },
+    {
+      "Name": "Checkers",
+      "Href": "/wiki/Checkers"
+    },
+    {
+      "Name": "Chinese checkers",
+      "Href": "/wiki/Chinese_checkers"
+    },
+    {
+      "Name": "Diplomacy",
+      "Href": "/wiki/Diplomacy_(game)"
+    },
+    {
+      "Name": "Dominoes",
+      "Href": "/wiki/Dominoes"
+    },
+    {
+      "Name": "Draughts",
+      "Href": "/wiki/Draughts"
+    },
+    {
+      "Name": "Go",
+      "Href": "/wiki/Go_(board_game)"
+    },
+    {
+      "Name": "Go-Moku",
+      "Href": "/wiki/Go-Moku"
+    },
+    {
+      "Name": "Jacquet",
+      "Href": "/wiki/Jacquet_(game)"
+    },
+    {
+      "Name": "Janggi",
+      "Href": "/wiki/Janggi"
+    },
+    {
+      "Name": "Ludo",
+      "Href": "/wiki/Ludo_(board_game)"
+    },
+    {
+      "Name": "Mancala",
+      "Href": "/wiki/Mancala"
+    },
+    {
+      "Name": "Mahjong",
+      "Href": "/wiki/Mahjong"
+    },
+    {
+      "Name": "Reversi",
+      "Href": "/wiki/Reversi"
+    },
+    {
+      "Name": "Risk",
+      "Href": "/wiki/Risk_(game)"
+    },
+    {
+      "Name": "Scrabble",
+      "Href": "/wiki/Scrabble"
+    },
+    {
+      "Name": "Sholo Guti",
+      "Href": "/wiki/Sholo_Guti"
+    },
+    {
+      "Name": "Sogo",
+      "Href": "/wiki/Sogo_(game)"
+    },
+    {
+      "Name": "Stratego",
+      "Href": "/wiki/Stratego"
+    },
+    {
+      "Name": "Sudoku",
+      "Href": "/wiki/Sudoku"
+    },
+    {
+      "Name": "Xiangqi",
+      "Href": "/wiki/Xiangqi"
+    },
+    {
+      "Name": "Yut",
+      "Href": "/wiki/Yut"
+    }
+  ],
+  "Street sports": [
+    {
+      "Name": "Free running",
+      "Href": "/wiki/Free_running"
+    },
+    {
+      "Name": "Freestyle footbag",
+      "Href": "/wiki/Freestyle_footbag"
+    },
+    {
+      "Name": "Freestyle football",
+      "Href": "/wiki/Freestyle_football"
+    },
+    {
+      "Name": "Powerbocking",
+      "Href": "/wiki/Powerbocking"
+    },
+    {
+      "Name": "Parkour",
+      "Href": "/wiki/Parkour"
+    },
+    {
+      "Name": "Scootering",
+      "Href": "/wiki/Freestyle_scootering"
+    },
+    {
+      "Name": "Street workout",
+      "Href": "/wiki/Street_workout"
+    }
+  ],
+  "Strength sports": [
+    {
+      "Name": "Strongman",
+      "Href": "/wiki/Strongman_(strength_athlete)"
+    },
+    {
+      "Name": "Arm wrestling",
+      "Href": "/wiki/Arm_wrestling"
+    },
+    {
+      "Name": "CrossFit",
+      "Href": "/wiki/CrossFit"
+    },
+    {
+      "Name": "Highland games",
+      "Href": "/wiki/Highland_games"
+    },
+    {
+      "Name": "Olympic weightlifting",
+      "Href": "/wiki/Olympic_weightlifting"
+    },
+    {
+      "Name": "Powerlifting",
+      "Href": "/wiki/Powerlifting"
+    },
+    {
+      "Name": "Rock climbing",
+      "Href": "/wiki/Rock_climbing"
+    },
+    {
+      "Name": "Strongman",
+      "Href": "/wiki/Strongman_(strength_athlete)"
+    },
+    {
+      "Name": "Thumb wrestling",
+      "Href": "/wiki/Thumb_wrestling"
+    },
+    {
+      "Name": "Toe wrestling",
+      "Href": "/wiki/Toe_wrestling"
+    },
+    {
+      "Name": "Tug-o-war",
+      "Href": "/wiki/Tug-o-war"
+    },
+    {
+      "Name": "Wood chopping",
+      "Href": "/wiki/Wood_chopping"
+    },
+    {
+      "Name": "Wood splitting",
+      "Href": "/wiki/Wood_splitting"
+    },
+    {
+      "Name": "Zourkhaneh",
+      "Href": "/wiki/Zourkhaneh"
+    },
+    {
+      "Name": "Calisthenics",
+      "Href": "/wiki/Calisthenics"
+    }
+  ],
+  "Table sports": [
+    {
+      "Name": "Air hockey",
+      "Href": "/wiki/Air_hockey"
+    },
+    {
+      "Name": "Backgammon",
+      "Href": "/wiki/Backgammon"
+    },
+    {
+      "Name": "Beer Pong",
+      "Href": "/wiki/Beer_Pong"
+    },
+    {
+      "Name": "Connect Four",
+      "Href": "/wiki/Connect_Four"
+    },
+    {
+      "Name": "Cue sports",
+      "Href": "/wiki/Cue_sports"
+    },
+    {
+      "Name": "Draughts",
+      "Href": "/wiki/Draughts"
+    },
+    {
+      "Name": "Dominoes",
+      "Href": "/wiki/Dominoes"
+    },
+    {
+      "Name": "Headis",
+      "Href": "/wiki/Headis"
+    },
+    {
+      "Name": "Janggi",
+      "Href": "/wiki/Janggi"
+    },
+    {
+      "Name": "Mahjong",
+      "Href": "/wiki/Mahjong"
+    },
+    {
+      "Name": "Reversi",
+      "Href": "/wiki/Reversi"
+    },
+    {
+      "Name": "Scrabble",
+      "Href": "/wiki/Scrabble"
+    },
+    {
+      "Name": "Subbuteo",
+      "Href": "/wiki/Subbuteo"
+    },
+    {
+      "Name": "Table football",
+      "Href": "/wiki/Table_football"
+    },
+    {
+      "Name": "Table hockey",
+      "Href": "/wiki/ITHF_table_hockey"
+    },
+    {
+      "Name": "Table tennis",
+      "Href": "/wiki/Table_tennis"
+    },
+    {
+      "Name": "Xiangqi",
+      "Href": "/wiki/Xiangqi"
+    }
+  ],
+  "Tag games": [
+    {
+      "Name": "Bo-taoshi",
+      "Href": "/wiki/Bo-taoshi"
+    },
+    {
+      "Name": "British bulldogs",
+      "Href": "/wiki/British_Bulldogs_(game)"
+    },
+    {
+      "Name": "Capture the flag",
+      "Href": "/wiki/Capture_the_flag"
+    },
+    {
+      "Name": "Hana Ichi Monme",
+      "Href": "/wiki/Hana_Ichi_Monme"
+    },
+    {
+      "Name": "Hide and seek",
+      "Href": "/wiki/Hide_and_seek"
+    },
+    {
+      "Name": "Jugger",
+      "Href": "/wiki/Jugger"
+    },
+    {
+      "Name": "Kabaddi",
+      "Href": "/wiki/Kabaddi"
+    },
+    {
+      "Name": "Kho kho",
+      "Href": "/wiki/Kho_kho"
+    },
+    {
+      "Name": "Kick the can",
+      "Href": "/wiki/Kick_the_can"
+    },
+    {
+      "Name": "Marco Polo",
+      "Href": "/wiki/Marco_Polo_(game)"
+    },
+    {
+      "Name": "Oztag",
+      "Href": "/wiki/Oztag"
+    },
+    {
+      "Name": "Red rover",
+      "Href": "/wiki/Red_rover"
+    },
+    {
+      "Name": "Tag",
+      "Href": "/wiki/Tag_(game)"
+    },
+    {
+      "Name": "World Chase Tag",
+      "Href": "/wiki/World_Chase_Tag"
+    }
+  ],
+  "Target sports": [
+    {
+      "Name": "Archery",
+      "Href": "/wiki/Archery"
+    },
+    {
+      "Name": "Axe throwing",
+      "Href": "/wiki/Axe_throwing"
+    },
+    {
+      "Name": "Bocce",
+      "Href": "/wiki/Bocce"
+    },
+    {
+      "Name": "Bocce volo",
+      "Href": "/wiki/Bocce_volo"
+    },
+    {
+      "Name": "Boccia",
+      "Href": "/wiki/Boccia"
+    },
+    {
+      "Name": "Bolas criollas",
+      "Href": "/wiki/Bolas_criollas"
+    },
+    {
+      "Name": "Boules",
+      "Href": "/wiki/Boules"
+    },
+    {
+      "Name": "Bowling",
+      "Href": "/wiki/Bowling"
+    },
+    {
+      "Name": "Bowls",
+      "Href": "/wiki/Bowls"
+    },
+    {
+      "Name": "Calva",
+      "Href": "/wiki/Calva"
+    },
+    {
+      "Name": "Candlepin bowling",
+      "Href": "/wiki/Candlepin_bowling"
+    },
+    {
+      "Name": "Cornhole",
+      "Href": "/wiki/Cornhole"
+    },
+    {
+      "Name": "Croquet",
+      "Href": "/wiki/Croquet"
+    },
+    {
+      "Name": "Cue sports",
+      "Href": "/wiki/Cue_sports"
+    },
+    {
+      "Name": "Curling",
+      "Href": "/wiki/Curling"
+    },
+    {
+      "Name": "Darts",
+      "Href": "/wiki/Darts"
+    },
+    {
+      "Name": "Golf",
+      "Href": "/wiki/Golf"
+    },
+    {
+      "Name": "Horseshoes",
+      "Href": "/wiki/Horseshoes"
+    },
+    {
+      "Name": "Jeu provençal",
+      "Href": "/wiki/Jeu_proven%C3%A7al"
+    },
+    {
+      "Name": "Knife throwing",
+      "Href": "/wiki/Knife_throwing"
+    },
+    {
+      "Name": "Kubb",
+      "Href": "/wiki/Kubb"
+    },
+    {
+      "Name": "Matball",
+      "Href": "/wiki/Matball"
+    },
+    {
+      "Name": "Mölkky",
+      "Href": "/wiki/M%C3%B6lkky"
+    },
+    {
+      "Name": "Pall mall",
+      "Href": "/wiki/Pall_mall_(game)"
+    },
+    {
+      "Name": "Pétanque",
+      "Href": "/wiki/P%C3%A9tanque"
+    },
+    {
+      "Name": "Pitch and putt",
+      "Href": "/wiki/Pitch_and_putt"
+    },
+    {
+      "Name": "Ring-goal",
+      "Href": "/wiki/Ring-goal"
+    },
+    {
+      "Name": "Shooting",
+      "Href": "/wiki/Shooting_sports"
+    },
+    {
+      "Name": "Shuffleboard",
+      "Href": "/wiki/Shuffleboard"
+    },
+    {
+      "Name": "Skittles",
+      "Href": "/wiki/Skittles_(sport)"
+    },
+    {
+      "Name": "Skee ball",
+      "Href": "/wiki/Skee_ball"
+    },
+    {
+      "Name": "Trugo",
+      "Href": "/wiki/Trugo"
+    },
+    {
+      "Name": "Woodball",
+      "Href": "/wiki/Woodball"
+    }
+  ],
+  "Team sports": [
+    {
+      "Name": "Basketball",
+      "Href": "/wiki/Basketball"
+    },
+    {
+      "Name": "Bat and ball games",
+      "Href": "/wiki/Bat-and-ball_games"
+    },
+    {
+      "Name": "Bowling",
+      "Href": "/wiki/Bowling"
+    },
+    {
+      "Name": "Basque pelota",
+      "Href": "/wiki/Basque_pelota"
+    },
+    {
+      "Name": "Bunnock",
+      "Href": "/wiki/Bunnock"
+    },
+    {
+      "Name": "Camogie",
+      "Href": "/wiki/Camogie"
+    },
+    {
+      "Name": "Football",
+      "Href": "/wiki/Football"
+    },
+    {
+      "Name": "Gateball",
+      "Href": "/wiki/Gateball"
+    },
+    {
+      "Name": "Handball",
+      "Href": "/wiki/Team_handball"
+    },
+    {
+      "Name": "Hardcourt Bike Polo",
+      "Href": "/wiki/Hardcourt_Bike_Polo"
+    },
+    {
+      "Name": "Hockey",
+      "Href": "/wiki/Hockey"
+    },
+    {
+      "Name": "Horseshoe",
+      "Href": "/wiki/Horseshoe"
+    },
+    {
+      "Name": "Hurling",
+      "Href": "/wiki/Hurling"
+    },
+    {
+      "Name": "Kickball",
+      "Href": "/wiki/Kickball"
+    },
+    {
+      "Name": "Lacrosse",
+      "Href": "/wiki/Lacrosse"
+    },
+    {
+      "Name": "Mesoamerican ballgame",
+      "Href": "/wiki/Mesoamerican_ballgame"
+    },
+    {
+      "Name": "Newcomb ball",
+      "Href": "/wiki/Newcomb_ball"
+    },
+    {
+      "Name": "Polo",
+      "Href": "/wiki/Polo"
+    },
+    {
+      "Name": "Paintball",
+      "Href": "/wiki/Paintball"
+    },
+    {
+      "Name": "Quidditch",
+      "Href": "/wiki/Quidditch_(sport)"
+    },
+    {
+      "Name": "Ringette",
+      "Href": "/wiki/Ringette"
+    },
+    {
+      "Name": "Roller derby",
+      "Href": "/wiki/Roller_derby"
+    },
+    {
+      "Name": "Rowing",
+      "Href": "/wiki/Rowing_(sport)"
+    },
+    {
+      "Name": "Sepak takraw",
+      "Href": "/wiki/Sepak_takraw"
+    },
+    {
+      "Name": "Ultimate",
+      "Href": "/wiki/Ultimate_(sport)"
+    },
+    {
+      "Name": "Underwater football",
+      "Href": "/wiki/Underwater_football"
+    },
+    {
+      "Name": "Woodsman",
+      "Href": "/wiki/Woodsman"
+    },
+    {
+      "Name": "Volleyball",
+      "Href": "/wiki/Volleyball"
+    }
+  ],
+  "Walking": [
+    {
+      "Name": "Backpacking (hiking)",
+      "Href": "/wiki/Backpacking_(hiking)"
+    },
+    {
+      "Name": "Bushwhacking",
+      "Href": "https://en.wiktionary.org/wiki/bushwhacking"
+    },
+    {
+      "Name": "Hiking",
+      "Href": "/wiki/Hiking"
+    },
+    {
+      "Name": "Racewalking",
+      "Href": "/wiki/Racewalking"
+    },
+    {
+      "Name": "Walking",
+      "Href": "/wiki/Walking"
+    }
+  ],
+  "Wall-and-ball": [
+    {
+      "Name": "American handball",
+      "Href": "/wiki/American_handball"
+    },
+    {
+      "Name": "Australian handball",
+      "Href": "/wiki/Australian_handball"
+    },
+    {
+      "Name": "Basque pelota",
+      "Href": "/wiki/Basque_pelota"
+    },
+    {
+      "Name": "Butts Up",
+      "Href": "/wiki/Butts_Up"
+    },
+    {
+      "Name": "Chinese handball",
+      "Href": "/wiki/Chinese_handball"
+    },
+    {
+      "Name": "Fives",
+      "Href": "/wiki/Fives"
+    },
+    {
+      "Name": "Gaelic handball",
+      "Href": "/wiki/Gaelic_handball"
+    },
+    {
+      "Name": "International fronton",
+      "Href": "/wiki/International_fronton"
+    },
+    {
+      "Name": "Jorkyball",
+      "Href": "/wiki/Jorkyball"
+    },
+    {
+      "Name": "Racquetball",
+      "Href": "/wiki/Racquetball"
+    },
+    {
+      "Name": "Squash",
+      "Href": "/wiki/Squash_(sport)"
+    },
+    {
+      "Name": "Squash tennis",
+      "Href": "/wiki/Squash_tennis"
+    },
+    {
+      "Name": "Suicide (game)",
+      "Href": "/wiki/Suicide_(game)"
+    },
+    {
+      "Name": "Valencian frontó",
+      "Href": "/wiki/Valencian_front%C3%B3"
+    },
+    {
+      "Name": "Wallball",
+      "Href": "/wiki/Wallball_(children%27s_game)"
+    },
+    {
+      "Name": "Wallyball",
+      "Href": "/wiki/Wallyball"
+    },
+    {
+      "Name": "Canoeing",
+      "Href": "/wiki/Canoeing"
+    },
+    {
+      "Name": "Outrigger canoeing",
+      "Href": "/wiki/Outrigger_canoeing"
+    },
+    {
+      "Name": "Creeking",
+      "Href": "/wiki/Creeking"
+    },
+    {
+      "Name": "Flyak",
+      "Href": "/wiki/Flyak"
+    },
+    {
+      "Name": "Freeboating",
+      "Href": "/wiki/Freeboating"
+    },
+    {
+      "Name": "Sea kayaking",
+      "Href": "/wiki/Sea_kayaking"
+    },
+    {
+      "Name": "Squirt boating",
+      "Href": "/wiki/Squirt_boating"
+    },
+    {
+      "Name": "Surf kayaking",
+      "Href": "/wiki/Surf_kayaking"
+    },
+    {
+      "Name": "Whitewater kayaking",
+      "Href": "/wiki/Whitewater_kayaking"
+    },
+    {
+      "Name": "Rafting",
+      "Href": "/wiki/Rafting"
+    },
+    {
+      "Name": "White water rafting",
+      "Href": "/wiki/Rafting#White_water_rafts"
+    },
+    {
+      "Name": "Rowing (sport)",
+      "Href": "/wiki/Rowing_(sport)"
+    },
+    {
+      "Name": "Gig racing",
+      "Href": "/wiki/Gig_racing"
+    },
+    {
+      "Name": "Coastal and ocean rowing",
+      "Href": "/wiki/Coastal_and_ocean_rowing"
+    },
+    {
+      "Name": "Surfboat",
+      "Href": "/wiki/Surfboat"
+    },
+    {
+      "Name": "Single scull",
+      "Href": "/wiki/Single_scull"
+    },
+    {
+      "Name": "Dragon boat racing",
+      "Href": "/wiki/Dragon_boat"
+    },
+    {
+      "Name": "Stand up paddle boarding",
+      "Href": "/wiki/Stand_up_paddle_boarding"
+    },
+    {
+      "Name": "Water polo",
+      "Href": "/wiki/Water_polo"
+    },
+    {
+      "Name": "Canoe polo",
+      "Href": "/wiki/Canoe_polo"
+    },
+    {
+      "Name": "Waboba",
+      "Href": "/wiki/Waboba"
+    },
+    {
+      "Name": "Underwater football",
+      "Href": "/wiki/Underwater_football"
+    },
+    {
+      "Name": "Underwater rugby",
+      "Href": "/wiki/Underwater_rugby"
+    },
+    {
+      "Name": "Underwater hockey",
+      "Href": "/wiki/Underwater_hockey"
+    },
+    {
+      "Name": "Backstroke",
+      "Href": "/wiki/Backstroke"
+    },
+    {
+      "Name": "Breaststroke",
+      "Href": "/wiki/Breaststroke"
+    },
+    {
+      "Name": "Butterfly stroke",
+      "Href": "/wiki/Butterfly_stroke"
+    },
+    {
+      "Name": "Freestyle swimming",
+      "Href": "/wiki/Freestyle_swimming"
+    },
+    {
+      "Name": "Individual medley",
+      "Href": "/wiki/Medley_swimming"
+    },
+    {
+      "Name": "Synchronized swimming",
+      "Href": "/wiki/Synchronized_swimming"
+    },
+    {
+      "Name": "Medley relay",
+      "Href": "/wiki/Medley_swimming"
+    },
+    {
+      "Name": "Bifins (finswimming)",
+      "Href": "/wiki/Finswimming#Disciplines_and_Distances"
+    },
+    {
+      "Name": "Surface finswimming",
+      "Href": "/wiki/Finswimming#Disciplines_and_Distances"
+    },
+    {
+      "Name": "Apnoea finswimming",
+      "Href": "/wiki/Finswimming#Disciplines_and_Distances"
+    },
+    {
+      "Name": "Aquathlon (underwater wrestling)",
+      "Href": "/wiki/Aquathlon_(underwater_wrestling)"
+    },
+    {
+      "Name": "Freediving",
+      "Href": "/wiki/Freediving"
+    },
+    {
+      "Name": "Immersion finswimming",
+      "Href": "/wiki/Finswimming#Disciplines_and_Distances"
+    },
+    {
+      "Name": "Scuba diving",
+      "Href": "/wiki/Scuba_diving"
+    },
+    {
+      "Name": "Spearfishing",
+      "Href": "/wiki/Spearfishing"
+    },
+    {
+      "Name": "Snorkelling",
+      "Href": "/wiki/Snorkelling"
+    },
+    {
+      "Name": "Sport diving (sport)",
+      "Href": "/wiki/Sport_diving_(sport)"
+    },
+    {
+      "Name": "Underwater orienteering",
+      "Href": "/wiki/Underwater_orienteering"
+    },
+    {
+      "Name": "Underwater photography (sport)",
+      "Href": "/wiki/Underwater_photography_(sport)"
+    },
+    {
+      "Name": "Underwater target shooting",
+      "Href": "/wiki/Underwater_target_shooting"
+    },
+    {
+      "Name": "Cliff diving",
+      "Href": "/wiki/Cliff_diving_(disambiguation)"
+    },
+    {
+      "Name": "Diving",
+      "Href": "/wiki/Diving_(disambiguation)"
+    }
+  ],
+  "Weightlifting": [
+    {
+      "Name": "Basque traditional weightlifting",
+      "Href": "/wiki/Basque_rural_sports"
+    },
+    {
+      "Name": "CrossFit",
+      "Href": "/wiki/CrossFit"
+    },
+    {
+      "Name": "Highland games",
+      "Href": "/wiki/Highland_games"
+    },
+    {
+      "Name": "Kettlebell lifting",
+      "Href": "/wiki/Kettlebell_lifting"
+    },
+    {
+      "Name": "Olympic weightlifting",
+      "Href": "/wiki/Olympic_weightlifting"
+    },
+    {
+      "Name": "Powerlifting",
+      "Href": "/wiki/Powerlifting"
+    },
+    {
+      "Name": "Strength athletics (strongman)",
+      "Href": "/wiki/Strength_athletics"
+    },
+    {
+      "Name": "Steinstossen",
+      "Href": "/wiki/Steinstossen"
+    }
+  ],
+  "Windsports": [
+    {
+      "Name": "Kite flying",
+      "Href": "/wiki/Kite_flying"
+    },
+    {
+      "Name": "Parachuting",
+      "Href": "/wiki/Parachuting"
+    },
+    {
+      "Name": "Hot air balloon racing",
+      "Href": "/wiki/Hot_air_ballooning#Competition"
+    }
+  ]
+}

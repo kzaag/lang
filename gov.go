@@ -59,5 +59,5 @@ func readGovNode(n *html.Node, langs LM) {
 }
 
 func getLangFromGov() (LM, error) {
-	return crawlRemote("cache/www.loc.gov.html", "https://www.loc.gov/standards/iso639-2/php/code_list.php", readGovNode)
+	return crawlLangsFromRemote("cache/www.loc.gov.html", "https://www.loc.gov/standards/iso639-2/php/code_list.php", readGovNode)
 }

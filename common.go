@@ -58,20 +58,15 @@ func recReadTds(n *html.Node, langs LM, trCallback func(*html.Node, *Lang) bool)
 	}
 }
 
-func crawlRemote(fn string, _url string, cf func(n *html.Node, langs LM)) (LM, error) {
+func getHtmlFromRemote(fn string, _url string) (*html.Node, error) {
 
-	rurl, err := url.Parse(_url)
-	if err != nil {
-		return nil, err
-	}
-
-	_, err = os.Stat(fn)
+	_, err := os.Stat(fn)
 	var buff []byte
 	if err != nil {
 		if !os.IsNotExist(err) {
 			return nil, err
 		}
-		fmt.Printf("warn: cache not found (%s). GETting from %s\n", fn, _url)
+		fmt.Printf("warn: cache not found (%s). making request to %s\n", fn, _url)
 		//url := "https://www.loc.gov/standards/iso639-2/php/code_list.php"
 		req, err := http.NewRequest("GET", _url, nil)
 		if err != nil {
@@ -112,6 +107,18 @@ func crawlRemote(fn string, _url string, cf func(n *html.Node, langs LM)) (LM, e
 	}
 
 	doc, err := html.Parse(bytes.NewBuffer(buff))
+
+	return doc, err
+}
+
+func crawlLangsFromRemote(fn string, _url string, cf func(n *html.Node, langs LM)) (LM, error) {
+
+	rurl, err := url.Parse(_url)
+	if err != nil {
+		return nil, err
+	}
+
+	doc, err := getHtmlFromRemote(fn, _url)
 	if err != nil {
 		return nil, err
 	}

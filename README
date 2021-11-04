@@ -1,3 +1,8 @@
-list of localized stuff
-compiled list path: data/joined.json
-go run *.go to regenerate
+compilation of some stuff with translations
+
+compiled languages:        data/joined.json
+compiled sport categories: data/sports.json
+
+run:
+go run *.go -sl
+to regenerate both sets
