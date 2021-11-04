@@ -1,6 +1,7 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"log"
 	"os"
@@ -29,11 +30,18 @@ func main() {
 			if err := genLangs(); err != nil {
 				log.Fatal(err)
 			}
+		case "f":
+			t, err := NewGoogleTranslateJwt()
+			if err != nil {
+				log.Fatal(err)
+			}
+			s, _ := json.MarshalIndent(t, "", "  ")
+			fmt.Println(string(s))
 		default:
 			printUsage()
 		}
 		return true
-	}, "s", "l")
+	}, "s", "l", "f")
 
 	if !gotFlag {
 		printUsage()
