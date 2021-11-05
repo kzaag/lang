@@ -126,23 +126,52 @@ func translateCategories(cm CategoryMap) ([]TranslatedSportDiscipline, error) {
 		l += len(cm[c])
 	}
 
+	const savePointPath = "data/continue.sports.json"
+
 	res := make([]TranslatedSportDiscipline, l)
-
 	enDisciplines := make([]string, l)
-	var i int
-	for category := range cm {
-		disciplines := cm[category]
-		for j := range disciplines {
-			enDisciplines[i] = disciplines[j].Name
-			res[i].Category = category
-			res[i].SportDiscipline = disciplines[j]
-			res[i].Translations = make(map[string]string)
-			i++
+	translatedLangs := make(map[string]int)
+	// read continuation point
+	cfc, err := ioutil.ReadFile(savePointPath)
+	if err == nil {
+		var cres []TranslatedSportDiscipline
+		if err := json.Unmarshal(cfc, &cres); err != nil {
+			return nil, err
 		}
-	}
+		if len(cres) != l {
+			return nil, fmt.Errorf("cannot resume translating - invalid length")
+		}
+		for i := range cres {
+			enDisciplines[i] = cres[i].Name
+			for l := range cres[i].Translations {
+				if cres[i].Translations[l] != "" {
+					translatedLangs[l]++
+				}
+			}
+		}
+		res = cres
 
-	if i != l {
-		panic("invalid category count")
+		for lang := range translatedLangs {
+			if translatedLangs[lang] != l {
+				return nil, fmt.Errorf("language: %s seem to be missing some translations", lang)
+			}
+		}
+
+	} else {
+		var i int
+		for category := range cm {
+			disciplines := cm[category]
+			for j := range disciplines {
+				enDisciplines[i] = disciplines[j].Name
+				res[i].Category = category
+				res[i].SportDiscipline = disciplines[j]
+				res[i].Translations = make(map[string]string)
+				i++
+			}
+		}
+		if i != l {
+			panic("invalid category count")
+		}
 	}
 
 	token, err := NewGoogleTranslateToken()
@@ -155,9 +184,12 @@ func translateCategories(cm CategoryMap) ([]TranslatedSportDiscipline, error) {
 
 	for i := range langs {
 		dstLang := langs[i].ISO_639_1
-		if dstLang != "pl" {
+		if translatedLangs[dstLang] != 0 {
+			fmt.Println("already translated " + dstLang)
 			continue
 		}
+
+		fmt.Printf("translating to %s\n", dstLang)
 
 		offset := 0
 
@@ -197,6 +229,11 @@ func translateCategories(cm CategoryMap) ([]TranslatedSportDiscipline, error) {
 			for z := range tres.Data.Translations {
 				res[left+z].Translations[dstLang] = tres.Data.Translations[z].TranslatedText
 			}
+		}
+
+		// save progress
+		if err := persistSportDisciplines(savePointPath, res); err != nil {
+			return nil, err
 		}
 	}
 
