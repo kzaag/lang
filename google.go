@@ -11,6 +11,7 @@ import (
 	"encoding/json"
 	"encoding/pem"
 	"fmt"
+	"io"
 	"io/ioutil"
 	"net/http"
 	"net/url"
@@ -146,14 +147,16 @@ func NewGoogleTranslateToken() (*GoogleToken, error) {
 
 func GenericGoogleTranslateRequest(url string, req, res interface{}, token *GoogleToken) error {
 
-	jsonReq, err := json.Marshal(req)
-	if err != nil {
-		return err
+	var reqRdr io.Reader
+	if req != nil {
+		jsonReq, err := json.Marshal(req)
+		if err != nil {
+			return err
+		}
+		reqRdr = bytes.NewReader(jsonReq)
 	}
 
-	httpReq, err := http.NewRequest(
-		"POST", url,
-		bytes.NewReader(jsonReq))
+	httpReq, err := http.NewRequest("POST", url, reqRdr)
 	if err != nil {
 		return err
 	}
@@ -206,5 +209,20 @@ func GoogleTranslate(token *GoogleToken, req *TranslateRequest, res *TranslateRe
 	return GenericGoogleTranslateRequest(
 		"https://translation.googleapis.com/language/translate/v2",
 		req, res, token,
+	)
+}
+
+type DiscoverLangResponse struct {
+	Data struct {
+		Languages []struct {
+			Language string
+		} `json:"languages"`
+	} `json:"data"`
+}
+
+func GoogleDiscoverLangs(token *GoogleToken, res *DiscoverLangResponse) error {
+	return GenericGoogleTranslateRequest(
+		"https://translation.googleapis.com/language/translate/v2/languages",
+		nil, res, token,
 	)
 }

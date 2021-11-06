@@ -96,8 +96,8 @@ func setSports(c *html.Node, category string, cm CategoryMap) bool {
 	return true
 }
 
-func persistSportDisciplines(path string, sm []TranslatedSportDiscipline) error {
-	b, err := json.MarshalIndent(sm, "", "  ")
+func persistData(path string, d interface{}) error {
+	b, err := json.MarshalIndent(d, "", "  ")
 	if err != nil {
 		return err
 	}
@@ -105,21 +105,71 @@ func persistSportDisciplines(path string, sm []TranslatedSportDiscipline) error 
 	return ioutil.WriteFile(path, b, 0600)
 }
 
-func translateCategories(cm CategoryMap) ([]TranslatedSportDiscipline, error) {
+type TranslatedCategory struct {
+	Name         string
+	Translations map[string]string
+}
 
-	// read langs
-	fc, err := ioutil.ReadFile("data/joined.json")
-	if err != nil {
-		return nil, err
+type IsoLang struct {
+	ISO_639_1 string
+}
+
+func translateCategories(
+	cm CategoryMap,
+	langs []IsoLang,
+	supportedLangMap map[string]struct{},
+	token *GoogleToken) ([]TranslatedCategory, error) {
+
+	var res = make([]TranslatedCategory, len(cm))
+	var cstr = make([]string, len(res))
+	var i = 0
+	for c := range cm {
+		cstr[i] = c
+		res[i] = TranslatedCategory{
+			Name:         c,
+			Translations: make(map[string]string),
+		}
+		i++
+	}
+	var tres TranslateResponse
+
+	fmt.Println("translating categories")
+
+	for i := range langs {
+		l := langs[i].ISO_639_1
+		if _, e := supportedLangMap[l]; !e {
+			continue
+		}
+		if l == "en" {
+			continue
+		}
+		if err := GoogleTranslate(token, &TranslateRequest{
+			Q:      cstr,
+			Source: "en",
+			Target: l,
+			Format: "text",
+		}, &tres); err != nil {
+			fmt.Printf("Couldnt translate to %s, reason: %v\n", l, err)
+			break
+		}
+		if len(tres.Data.Translations) != len(res) {
+			fmt.Printf("Couldnt translate to %s, reason: invalid translation length\n", l)
+			break
+		}
+		for z := range tres.Data.Translations {
+			res[z].Translations[l] = tres.Data.Translations[z].TranslatedText
+		}
 	}
 
-	var langs []struct {
-		ISO_639_1 string
-	}
+	return res, nil
+}
 
-	if err := json.Unmarshal(fc, &langs); err != nil {
-		return nil, err
-	}
+func translateDisciplines(
+	cm CategoryMap,
+	langs []IsoLang,
+	supportedLangMap map[string]struct{},
+	token *GoogleToken,
+) ([]TranslatedSportDiscipline, error) {
 
 	l := 0
 	for c := range cm {
@@ -174,22 +224,35 @@ func translateCategories(cm CategoryMap) ([]TranslatedSportDiscipline, error) {
 		}
 	}
 
-	token, err := NewGoogleTranslateToken()
-	if err != nil {
-		return nil, err
-	}
-	var tres TranslateResponse
-	token.AccessToken = strings.TrimRight(token.AccessToken, ".")
 	const batchSize = 100
+	var tres TranslateResponse
 
+	var isConfirmed bool
+
+	// translate names
 	for i := range langs {
 		dstLang := langs[i].ISO_639_1
-		if translatedLangs[dstLang] != 0 {
+		if translatedLangs[dstLang] != 0 || dstLang == "en" {
 			fmt.Println("already translated " + dstLang)
+			continue
+		}
+		if _, e := supportedLangMap[dstLang]; !e {
+			fmt.Printf("lang %s is not supported\n", dstLang)
 			continue
 		}
 
 		fmt.Printf("translating to %s\n", dstLang)
+
+		if !isConfirmed {
+			fmt.Println("About to perform google translations, are you sure? [yes/no]")
+			var tmp string
+			fmt.Scanln(&tmp)
+			if tmp == "yes" {
+				isConfirmed = true
+			} else {
+				return nil, fmt.Errorf("aborted by user")
+			}
+		}
 
 		offset := 0
 
@@ -232,7 +295,7 @@ func translateCategories(cm CategoryMap) ([]TranslatedSportDiscipline, error) {
 		}
 
 		// save progress
-		if err := persistSportDisciplines(savePointPath, res); err != nil {
+		if err := persistData(savePointPath, res); err != nil {
 			return nil, err
 		}
 	}
@@ -266,12 +329,48 @@ func genSports() error {
 
 	x(doc, sportCategories, "")
 
-	fmt.Printf("got %d sport categories\n", tagCount)
+	fmt.Printf("got %d sport disciplines\n", tagCount)
 
-	ts, err := translateCategories(sportCategories)
+	// read langs
+	fc, err := ioutil.ReadFile("data/joined.json")
 	if err != nil {
 		return err
 	}
 
-	return persistSportDisciplines("data/sports.json", ts)
+	var langs []IsoLang
+
+	if err := json.Unmarshal(fc, &langs); err != nil {
+		return err
+	}
+
+	token, err := NewGoogleTranslateToken()
+	if err != nil {
+		return err
+	}
+	token.AccessToken = strings.TrimRight(token.AccessToken, ".")
+
+	var tl DiscoverLangResponse
+	if err := GoogleDiscoverLangs(token, &tl); err != nil {
+		return err
+	}
+	supportedLangMap := make(map[string]struct{})
+	for i := range tl.Data.Languages {
+		supportedLangMap[tl.Data.Languages[i].Language] = struct{}{}
+	}
+
+	ts, err := translateDisciplines(sportCategories, langs, supportedLangMap, token)
+	if err != nil {
+		return err
+	}
+
+	if err := persistData("data/sports.json", ts); err != nil {
+		return err
+	}
+
+	tcat, err := translateCategories(sportCategories, langs, supportedLangMap, token)
+	if err != nil {
+		return err
+	}
+
+	return persistData("data/categories.json", tcat)
 }
