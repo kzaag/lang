@@ -88,5 +88,5 @@ func genLangs() error {
 
 	fmt.Printf("%d langs after join\n", len(joined))
 
-	return writeToJson("data/joined.json", joined)
+	return writeToJson("data/joined.json", langsToLower(joined))
 }

@@ -122,19 +122,33 @@ func translateCategories(
 
 	var res = make([]TranslatedCategory, len(cm))
 	var cstr = make([]string, len(res))
+
+	const savePointPath = "data/continue.categories.json"
 	var i = 0
-	for c := range cm {
-		cstr[i] = c
-		res[i] = TranslatedCategory{
-			Name:         c,
-			Translations: make(map[string]string),
+	if fc, err := ioutil.ReadFile(savePointPath); err != nil {
+		for c := range cm {
+			cstr[i] = c
+			res[i] = TranslatedCategory{
+				Name:         c,
+				Translations: make(map[string]string),
+			}
+			i++
 		}
-		i++
+	} else {
+		_ = fc
+		// if err := json.Unmarshal(fc, &res); err != nil {
+		// 	return nil, err
+		// }
+		// resm := make(map[string]*TranslatedCategory)
+		// for i := range res {
+		// 	resm[res[i].Name] = &res[i]
+		// }
+		return nil, fmt.Errorf("not supported [yet]")
 	}
-	var tres TranslateResponse
 
 	fmt.Println("translating categories")
-
+	var isConfirmed bool
+	var tres TranslateResponse
 	for i := range langs {
 		l := langs[i].ISO_639_1
 		if _, e := supportedLangMap[l]; !e {
@@ -143,6 +157,18 @@ func translateCategories(
 		if l == "en" {
 			continue
 		}
+
+		if !isConfirmed {
+			fmt.Println("About to perform google translations, are you sure? [yes/no]")
+			var tmp string
+			fmt.Scanln(&tmp)
+			if tmp == "yes" {
+				isConfirmed = true
+			} else {
+				return nil, fmt.Errorf("aborted by user")
+			}
+		}
+
 		if err := GoogleTranslate(token, &TranslateRequest{
 			Q:      cstr,
 			Source: "en",
@@ -229,15 +255,17 @@ func translateDisciplines(
 
 	var isConfirmed bool
 
+	fmt.Println("Translating sport categories")
+
 	// translate names
 	for i := range langs {
 		dstLang := langs[i].ISO_639_1
 		if translatedLangs[dstLang] != 0 || dstLang == "en" {
-			fmt.Println("already translated " + dstLang)
+			//fmt.Println("already translated " + dstLang)
 			continue
 		}
 		if _, e := supportedLangMap[dstLang]; !e {
-			fmt.Printf("lang %s is not supported\n", dstLang)
+			//fmt.Printf("lang %s is not supported\n", dstLang)
 			continue
 		}
 
@@ -363,7 +391,7 @@ func genSports() error {
 		return err
 	}
 
-	if err := persistData("data/sports.json", ts); err != nil {
+	if err := persistData("data/sports.json", disciplinesToLower(ts)); err != nil {
 		return err
 	}
 
@@ -372,5 +400,5 @@ func genSports() error {
 		return err
 	}
 
-	return persistData("data/categories.json", tcat)
+	return persistData("data/categories.json", categoriesToLower(tcat))
 }
