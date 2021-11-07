@@ -125,6 +125,7 @@ func translateCategories(
 
 	const savePointPath = "data/continue.categories.json"
 	var i = 0
+	alreadyTranslated := make(map[string]struct{})
 	if fc, err := ioutil.ReadFile(savePointPath); err != nil {
 		for c := range cm {
 			cstr[i] = c
@@ -135,15 +136,28 @@ func translateCategories(
 			i++
 		}
 	} else {
-		_ = fc
-		// if err := json.Unmarshal(fc, &res); err != nil {
-		// 	return nil, err
-		// }
-		// resm := make(map[string]*TranslatedCategory)
-		// for i := range res {
-		// 	resm[res[i].Name] = &res[i]
-		// }
-		return nil, fmt.Errorf("not supported [yet]")
+		var ct []TranslatedCategory
+		if err := json.Unmarshal(fc, &ct); err != nil {
+			return nil, err
+		}
+		var ctm = make(map[string]*TranslatedCategory)
+		for i := range ct {
+			ctm[ct[i].Name] = &ct[i]
+		}
+		for c := range cm {
+			cstr[i] = c
+			res[i] = TranslatedCategory{
+				Name:         c,
+				Translations: make(map[string]string),
+			}
+			if cte := ctm[c]; cte != nil {
+				for l := range cte.Translations {
+					res[i].Translations[l] = cte.Translations[l]
+					alreadyTranslated[l] = struct{}{}
+				}
+			}
+			i++
+		}
 	}
 
 	fmt.Println("translating categories")
@@ -155,6 +169,10 @@ func translateCategories(
 			continue
 		}
 		if l == "en" {
+			continue
+		}
+
+		if _, e := alreadyTranslated[l]; e {
 			continue
 		}
 
@@ -176,11 +194,11 @@ func translateCategories(
 			Format: "text",
 		}, &tres); err != nil {
 			fmt.Printf("Couldnt translate to %s, reason: %v\n", l, err)
-			break
+			continue
 		}
 		if len(tres.Data.Translations) != len(res) {
 			fmt.Printf("Couldnt translate to %s, reason: invalid translation length\n", l)
-			break
+			continue
 		}
 		for z := range tres.Data.Translations {
 			res[z].Translations[l] = tres.Data.Translations[z].TranslatedText
@@ -255,7 +273,7 @@ func translateDisciplines(
 
 	var isConfirmed bool
 
-	fmt.Println("Translating sport categories")
+	fmt.Println("translating disciplines")
 
 	// translate names
 	for i := range langs {
